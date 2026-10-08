@@ -1,0 +1,1601 @@
+row_id,campaign_name,Platform,hotel,Date,impressions,Clicks,spend_idr,conversions,bookings_generated,Revenue_Generated_IDR,ad_creative_id,target_audience
+1,Summer Escape 2024 ,Email Campaign,Katamama Resort,2024-01-04,49467,3199,8985169.0,289,182,917750288,,Broad
+2,Eid Holiday Package,TikTok Ads,The Layar Seminyak,2024-03-03,5412,402,13970367.0,21,17,86157139,CRE013,Lookalike
+3, Summer Escape 2024,TikTok Ads,Bisma Eight,2024-03-21,77897,4742,9440921.0,326,186,1082732598,CRE020,Lookalike
+4,Valentine Weekend,Organic,Bisma Eight,2024-01-03,72139,3909,7101312.0,352,153,775907064,CRE021,
+5,Summer Escape 2024,Meta Ads,Katamama Resort,2024-03-19,78555,1281,13799298.0,136,62,108917694,CRE038,Lookalike
+6,eid holiday package,Organic,Katamama Resort,2024-01-29,4784,367,12750352.0,28,13,88050079,,Broad
+7,Flash Sale 48H,Meta Ads,Komaneka Bisma,2024-03-16,18410,235,13878051.0,13,10,31283340,,Lookalike
+8,Summer Escape 2024,Meta Ads,The Layar Seminyak,2024-01-16,76513,5330,20190597.0,220,191,376896289,CRE046,Retargeting
+9,Long Weekend Promo,Email Campaign,Komaneka Bisma,2024-03-01,40480,611,23255811.0,16,10,66902870,CRE034,
+10,Long Weekend Promo,Meta Ads,Alaya Ubud,2024-01-10,65353,1047,9183648.0,44,25,81017125,CRE027,Retargeting
+11,Eid Holiday Package ,Email Campaign,Alaya Ubud,2024-01-02,56158,2700,20830715.0,194,79,341423227,CRE012,Lookalike
+12,Loyalty Member Deal,Organic,The Layar Seminyak,2024-01-08,79805,1843,14643801.0,62,53,142550496,CRE048,Broad
+13,Flash Sale 48H,Email Campaign,Bisma Eight,2024-02-13,41810,2792,18833715.0,194,149,453156829,CRE006,Retargeting
+14,Summer Escape 2024,TikTok Ads,The Mulia Nusa Dua,2024-01-18,71151,5273,20339562.0,442,397,1458687969,CRE026,Lookalike
+15,Long Weekend Promo,Email Campaign,The Layar Seminyak,2024-02-08,6748,323,15147562.0,7,3,16741827,CRE024,Retargeting
+16,Eid Holiday Package,Meta Ads,Bisma Eight,2024-01-12,28938,1265,16165493.0,136,68,288483268,CRE040,Lookalike
+17,Long Weekend Promo,Email Campaign,The Layar Seminyak,2024-03-23,44579,3131,21214871.0,325,133,968226833,CRE046,Lookalike
+18,Long Weekend Promo,Email Campaign,The Layar Seminyak,2024-03-07,69778,4780,24753498.0,573,431,3419154032,CRE013,Retargeting
+19,Long Weekend Promo ,TikTok Ads,The Mulia Nusa Dua,2024-02-28,52358,1578,13221231.0,106,92,724428424,CRE015,Lookalike
+20,Long Weekend Promo,Google Ads,The Mulia Nusa Dua,2024-01-20,40467,2328,2669749.0,205,102,614788680,CRE026,Lookalike
+21,Long Weekend Promo,Meta Ads,Alaya Ubud,2024-03-17,35274,2084,12053215.0,141,109,269404073,,Lookalike
+22,Long Weekend Promo,Email Campaign,Bisma Eight,2024-03-20,11417,195,15100874.0,8,6,10796562,CRE001,
+23,Valentine Weekend,TikTok Ads,Alaya Ubud,2024-03-11,14117,245,19282188.0,8,5,11191745,CRE002,Retargeting
+24,Valentine Weekend,TikTok Ads,Katamama Resort,2024-03-18,64556,1538,5203963.0,149,105,610221780,CRE021,Lookalike
+25,Flash Sale 48H,Organic,Katamama Resort,2024-01-18,25566,763,3264513.0,57,35,60809455,CRE012,Retargeting
+26,Summer Escape 2024,Meta Ads,Bisma Eight,2024-02-28,32140,1987,6143745.0,87,27,210030057,CRE050,Interest
+27,Valentine Weekend,Organic,Katamama Resort,2024-01-03,5186,351,10408594.0,19,15,93252840,,Broad
+28,Long Weekend Promo,Google Ads,Katamama Resort,2024-01-29,983,76,7057556.0,7,4,13020400,CRE048,Retargeting
+29,Long Weekend Promo,TikTok Ads,Alaya Ubud,2024-02-06,52776,710,15371472.0,38,22,170021698,CRE044,Lookalike
+30,Loyalty Member Deal,Email Campaign,Bisma Eight,2024-03-30,41328,2027,723221.0,125,106,660952294,CRE015,Lookalike
+31,Long Weekend Promo,Google Ads,Alaya Ubud,2024-03-06,10654,371,11543915.0,7,3,7057512,CRE014,Broad
+32,Long Weekend Promo ,Meta Ads,The Layar Seminyak,2024-03-23,18247,357,10300307.0,28,16,112285536,CRE046,Retargeting
+33,Eid Holiday Package ,Email Campaign,Katamama Resort,2024-03-19,35313,1809,23348327.0,124,52,181981436,,Retargeting
+34,SUMMER ESCAPE 2024,Google Ads,The Layar Seminyak,2024-01-10,35467,795,19499476.0,88,32,238158624,CRE044,Retargeting
+35,Loyalty Member Deal,Email Campaign,Komaneka Bisma,2024-01-26,5365,274,19339998.0,16,8,42785248,CRE011,Retargeting
+36, Eid Holiday Package,Google Ads,Komaneka Bisma,2024-02-17,52289,4061,12507548.0,373,256,1502678016,CRE019,Retargeting
+37,Long Weekend Promo,Google Ads,Bisma Eight,2024-01-17,10023,620,5887151.0,67,32,57539072,,Broad
+38,long weekend promo,Meta Ads,The Mulia Nusa Dua,2024-02-01,69743,3986,10882328.0,358,298,1475646830,,Lookalike
+39,Valentine Weekend,TikTok Ads,The Mulia Nusa Dua,2024-03-10,47857,1207,23974899.0,89,40,133345040,CRE004,Broad
+40,Valentine Weekend,Email Campaign,Katamama Resort,2024-01-22,78834,3100,17915611.0,278,160,1226578720,CRE018,Retargeting
+41,Long Weekend Promo,Email Campaign,The Mulia Nusa Dua,2024-02-18,73756,4819,2245953.0,145,120,724544760,CRE004,Broad
+42,Valentine Weekend,Meta Ads,Alaya Ubud,2024-03-16,29192,447,8538895.0,16,12,27243168,CRE040,Interest
+43,Eid Holiday Package,Organic,Bisma Eight,2024-03-21,56747,3212,10225864.0,305,262,933255266,CRE026,Broad
+44,Valentine Weekend,Google Ads,The Layar Seminyak,2024-03-27,32886,765,10814605.0,47,34,180701262,CRE006,Lookalike
+45,Eid Holiday Package,Organic,Komaneka Bisma,2024-02-03,18720,829,2103123.0,88,60,91074780,CRE033,
+46, Valentine Weekend,Meta Ads,Bisma Eight,2024-01-14,77302,1312,,153,123,500851326,CRE036,Interest
+47,Eid Holiday Package,Email Campaign,The Layar Seminyak,2024-03-22,18283,1267,7483786.0,139,81,274608387,CRE014,Retargeting
+48,Long Weekend Promo,TikTok Ads,Komaneka Bisma,2024-02-07,57195,3451,3418725.0,172,137,668928119,CRE014,Interest
+49, Valentine Weekend,Email Campaign,The Layar Seminyak,2024-01-01,36619,944,17006360.0,21,15,79700805,CRE011,Lookalike
+50,Loyalty Member Deal,TikTok Ads,Katamama Resort,2024-03-17,24408,1555,10148399.0,151,107,832672074,CRE019,Retargeting
+51,Eid Holiday Package ,Email Campaign,Komaneka Bisma,2024-02-05,43911,1776,4065991.0,200,155,488145685,CRE027,Interest
+52,Long Weekend Promo,Email Campaign,The Layar Seminyak,2024-01-31,29355,1171,16617510.0,40,21,74855508,CRE037,
+53, Summer Escape 2024,Email Campaign,The Layar Seminyak,2024-03-28,61115,4530,14637704.0,139,113,379471967,CRE003,
+54,flash sale 48h,Meta Ads,Komaneka Bisma,2024-02-02,37369,1365,1265647.0,113,35,220975895,CRE031,
+55,Summer Escape 2024,TikTok Ads,Komaneka Bisma,2024-01-08,73895,4722,21681112.0,476,419,1764962918,CRE020,
+56,Loyalty Member Deal,Email Campaign,Alaya Ubud,2024-02-01,64377,4013,21385706.0,437,332,644347924,CRE024,Broad
+57,Flash Sale 48H,Email Campaign,The Layar Seminyak,2024-01-14,33395,516,13602228.0,50,31,134592359,CRE016,
+58,Flash Sale 48H,Organic,Katamama Resort,2024-02-20,62048,1302,13635229.0,48,23,130658699,CRE043,Interest
+59, Valentine Weekend,Meta Ads,The Mulia Nusa Dua,2024-03-03,5127,80,21048158.0,1,0,0,CRE020,Broad
+60,Summer Escape 2024,Meta Ads,Bisma Eight,2024-01-27,29146,1371,21296281.0,139,53,87909086,CRE027,Broad
+61,Loyalty Member Deal,Email Campaign,The Layar Seminyak,2024-02-13,77267,1106,13756535.0,61,44,277058540,CRE027,Retargeting
+62, Long Weekend Promo,Organic,The Layar Seminyak,2024-03-22,62686,2856,20121521.0,308,254,1766591844,,Interest
+63,Summer Escape 2024,Email Campaign,Komaneka Bisma,2024-01-23,67358,3344,7406972.0,178,121,258744827,CRE032,Interest
+64, Valentine Weekend,TikTok Ads,The Mulia Nusa Dua,2024-02-27,34553,2030,4358196.0,121,62,231180764,CRE036,Interest
+65,Long Weekend Promo,Email Campaign,Alaya Ubud,2024-01-13,74195,4461,6756786.0,500,179,465894935,CRE031,Interest
+66,Long Weekend Promo,TikTok Ads,Alaya Ubud,2024-01-28,10917,660,17363719.0,20,11,77443916,CRE042,Retargeting
+67, Flash Sale 48H,Email Campaign,Komaneka Bisma,2024-03-23,6737,128,9409398.0,14,8,45812112,CRE008,Broad
+68,Loyalty Member Deal ,Google Ads,Komaneka Bisma,2024-01-26,52962,1851,10494889.0,116,38,130436368,CRE042,Interest
+69,Valentine Weekend ,TikTok Ads,Katamama Resort,2024-01-18,40569,2764,20817665.0,112,37,228350939,CRE024,Broad
+70,Eid Holiday Package,Google Ads,The Mulia Nusa Dua,2024-03-22,669,46,9992224.0,3,1,2017718,CRE032,Interest
+71,Loyalty Member Deal ,Organic,Alaya Ubud,2024-01-09,22653,599,12954768.0,42,23,153310295,CRE004,Broad
+72,Flash Sale 48H,Organic,Komaneka Bisma,2024-03-22,71923,1360,4880290.0,80,61,189542189,CRE017,Retargeting
+73,Long Weekend Promo,Google Ads,The Layar Seminyak,2024-02-05,42867,3325,661182.0,218,91,546496496,CRE020,Lookalike
+74,Eid Holiday Package,Google Ads,Katamama Resort,2024-03-11,72399,3279,,323,105,703155810,CRE045,
+75,Long Weekend Promo,Google Ads,Bisma Eight,2024-02-29,16338,271,11814485.0,13,5,28149085,,Retargeting
+76,Valentine Weekend,Meta Ads,Katamama Resort,2024-03-25,44742,814,4744567.0,35,10,53278550,CRE011,Retargeting
+77,Loyalty Member Deal,Google Ads,The Mulia Nusa Dua,2024-01-28,1126,41,13013121.0,2,0,0,CRE001,Broad
+78,Long Weekend Promo ,TikTok Ads,Katamama Resort,2024-03-20,52743,1652,9360449.0,158,104,402940512,CRE047,
+79,Valentine Weekend,Meta Ads,Bisma Eight,2024-01-15,13116,222,11384372.0,11,7,30925482,CRE037,Retargeting
+80,loyalty member deal,Organic,The Layar Seminyak,2024-02-20,15734,970,11293276.0,74,52,97786416,CRE045,Interest
+81,Summer Escape 2024,TikTok Ads,Bisma Eight,2024-01-27,73212,3594,16386729.0,148,79,209035027,,Retargeting
+82,SUMMER ESCAPE 2024,Organic,Katamama Resort,2024-02-03,26394,349,6063436.0,37,29,205588511,CRE021,Retargeting
+83,long weekend promo,Meta Ads,The Mulia Nusa Dua,2024-03-11,32672,1731,16902006.0,94,64,360645312,CRE026,Retargeting
+84,Eid Holiday Package,TikTok Ads,The Layar Seminyak,2024-03-25,71056,4211,16869465.0,450,185,1281098545,CRE035,Interest
+85,Valentine Weekend,Organic,The Layar Seminyak,2024-03-04,40955,3067,14943523.0,90,60,246997800,CRE002,Broad
+86,Eid Holiday Package,Meta Ads,Katamama Resort,2024-02-21,55148,2080,,224,103,630095805,CRE013,Retargeting
+87, Long Weekend Promo,Email Campaign,Alaya Ubud,2024-02-17,18432,322,18741959.0,8,2,4125772,CRE003,
+88,Flash Sale 48H,Organic,The Mulia Nusa Dua,2024-01-10,62424,2060,20311360.0,229,152,1015890176,CRE021,Interest
+89,Eid Holiday Package ,TikTok Ads,The Mulia Nusa Dua,2024-02-19,43151,1654,9858786.0,46,16,34198384,CRE043,Lookalike
+90, Long Weekend Promo,TikTok Ads,The Mulia Nusa Dua,2024-03-20,45979,931,4362413.0,23,7,25771298,CRE039,Interest
+91,Summer Escape 2024,TikTok Ads,Katamama Resort,2024-02-17,47666,3646,8018687.0,186,97,410582764,,Retargeting
+92,Long Weekend Promo,TikTok Ads,Bisma Eight,2024-01-20,57889,4139,11210108.0,327,113,178848716,,Retargeting
+93,Eid Holiday Package ,Email Campaign,The Mulia Nusa Dua,2024-02-02,8290,365,17510120.0,34,22,89939564,CRE037,Interest
+94,Summer Escape 2024,Google Ads,Bisma Eight,2024-01-06,24315,292,21689200.0,7,3,14375085,CRE006,Interest
+95,Long Weekend Promo,Email Campaign,Katamama Resort,2024-01-09,54366,1510,,61,26,129704874,CRE032,Lookalike
+96,LOYALTY MEMBER DEAL,Meta Ads,The Mulia Nusa Dua,2024-03-13,57625,3910,20233915.0,436,243,415181052,CRE044,Interest
+97,Valentine Weekend,Organic,Komaneka Bisma,2024-02-13,77370,921,5669960.0,107,74,223996890,CRE007,Lookalike
+98,Loyalty Member Deal,Email Campaign,Katamama Resort,2024-01-04,7676,442,12003484.0,44,35,241379950,CRE031,
+99,VALENTINE WEEKEND,Organic,The Mulia Nusa Dua,2024-01-23,33177,2163,9291399.0,170,133,464117731,CRE011,Interest
+100,Flash Sale 48H ,TikTok Ads,Alaya Ubud,2024-02-28,12572,147,5045320.0,5,3,20495376,CRE020,Broad
+101,Eid Holiday Package,Email Campaign,Komaneka Bisma,2024-02-11,32518,1151,10661470.0,116,71,406866849,CRE015,Retargeting
+102,Long Weekend Promo,Email Campaign,The Layar Seminyak,2024-03-27,37504,2442,17638231.0,201,81,260415891,CRE040,Retargeting
+103,Flash Sale 48H,Email Campaign,The Layar Seminyak,2024-03-03,67050,2978,14347897.0,356,301,559542144,CRE003,Lookalike
+104,Summer Escape 2024,Email Campaign,The Mulia Nusa Dua,2024-03-02,11650,297,5306353.0,19,12,74737536,CRE020,Interest
+105,Eid Holiday Package,Meta Ads,The Mulia Nusa Dua,2024-03-29,21195,914,3319344.0,51,29,135417849,CRE040,
+106,Summer Escape 2024,Email Campaign,The Mulia Nusa Dua,2024-03-04,43468,2255,,229,159,861290280,CRE012,Broad
+107,Long Weekend Promo,Meta Ads,Bisma Eight,2024-01-05,14322,781,13799273.0,59,49,76119687,CRE043,Lookalike
+108,Flash Sale 48H,Organic,Komaneka Bisma,2024-02-08,37636,1136,7309819.0,84,50,229126750,CRE037,Retargeting
+109,Summer Escape 2024,Google Ads,Komaneka Bisma,2024-02-06,48292,595,12929524.0,20,7,46845862,CRE020,
+110,Summer Escape 2024,Organic,Alaya Ubud,2024-01-18,44589,567,10398692.0,43,15,106396035,CRE034,Lookalike
+111,flash sale 48h,Meta Ads,The Layar Seminyak,2024-01-27,49551,2556,21891098.0,85,74,425320402,,Interest
+112,Flash Sale 48H,Organic,Alaya Ubud,2024-03-10,65334,4178,19674887.0,208,155,565626930,CRE043,Lookalike
+113,Flash Sale 48H ,Organic,Katamama Resort,2024-01-17,77564,5599,,521,438,2242747902,CRE020,Lookalike
+114,Valentine Weekend ,Email Campaign,Alaya Ubud,2024-03-16,54444,3383,1790479.0,399,257,564172825,CRE017,
+115,Loyalty Member Deal,Meta Ads,The Mulia Nusa Dua,2024-02-09,59514,4655,9014983.0,356,146,267399000,CRE022,Broad
+116,Valentine Weekend,Email Campaign,Katamama Resort,2024-03-18,44000,2607,7764214.0,54,17,134896870,CRE048,Interest
+117, Summer Escape 2024,Google Ads,The Mulia Nusa Dua,2024-01-31,1733,65,,4,2,13090458,,Interest
+118,Eid Holiday Package,TikTok Ads,Alaya Ubud,2024-01-06,68856,4918,7779553.0,167,147,722220996,,Interest
+119,Summer Escape 2024,TikTok Ads,The Layar Seminyak,2024-02-24,48102,3603,18133139.0,327,212,1388661692,CRE001,Retargeting
+120,Eid Holiday Package,Organic,The Mulia Nusa Dua,2024-01-23,40594,1912,3135141.0,121,75,278197575,CRE022,Interest
+121,VALENTINE WEEKEND,Organic,Bisma Eight,2024-01-08,56592,3741,7086180.0,335,135,370127880,CRE014,Interest
+122,Long Weekend Promo,Meta Ads,The Layar Seminyak,2024-01-29,39331,1187,21578345.0,108,96,299523360,CRE017,Lookalike
+123, Valentine Weekend,TikTok Ads,Komaneka Bisma,2024-03-16,26199,1658,18141951.0,104,66,166535490,CRE033,Broad
+124,Eid Holiday Package,Organic,Komaneka Bisma,2024-01-16,36535,830,2792739.0,28,17,121272764,CRE036,Retargeting
+125,Flash Sale 48H,Meta Ads,Bisma Eight,2024-03-24,4216,97,9282440.0,5,2,15855330,CRE035,Broad
+126,Flash Sale 48H,TikTok Ads,The Layar Seminyak,2024-01-23,14017,1086,7379332.0,37,13,67304874,CRE009,Retargeting
+127,Flash Sale 48H,Meta Ads,Komaneka Bisma,2024-03-13,74121,5642,,196,114,385204404,CRE030,Interest
+128,Long Weekend Promo,Organic,The Mulia Nusa Dua,2024-01-16,70690,2343,12510325.0,110,37,206278182,CRE047,
+129,Valentine Weekend,Meta Ads,Komaneka Bisma,2024-03-03,40322,2162,8662410.0,220,86,297868482,CRE048,Retargeting
+130,Loyalty Member Deal ,Meta Ads,The Layar Seminyak,2024-03-04,43358,1270,23214848.0,113,47,325035550,CRE029,Broad
+131,Long Weekend Promo,Email Campaign,Alaya Ubud,2024-03-26,44294,1803,9748270.0,69,38,247001368,,Lookalike
+132,loyalty member deal,Email Campaign,Bisma Eight,2024-01-03,18889,699,24219872.0,61,41,148052066,CRE049,Retargeting
+133,Loyalty Member Deal,Email Campaign,The Mulia Nusa Dua,2024-01-15,42419,956,24648142.0,100,46,321666592,CRE002,Retargeting
+134,Summer Escape 2024,Email Campaign,Alaya Ubud,2024-02-24,53594,3995,8552914.0,149,107,471418032,CRE040,Broad
+135,Valentine Weekend ,Email Campaign,The Mulia Nusa Dua,2024-03-05,9280,117,14889562.0,8,7,44369829,CRE009,Lookalike
+136,Summer Escape 2024,Meta Ads,Katamama Resort,2024-01-16,32835,1064,,30,14,22672762,CRE015,Retargeting
+137,Valentine Weekend,Email Campaign,Alaya Ubud,2024-03-31,14073,1114,16711164.0,60,46,75270030,,Retargeting
+138,Eid Holiday Package,Organic,Komaneka Bisma,2024-03-07,13031,213,13615075.0,23,7,11152197,CRE012,Lookalike
+139,flash sale 48h,TikTok Ads,The Layar Seminyak,2024-01-15,4325,248,17427527.0,28,18,69070302,CRE017,Interest
+140,Eid Holiday Package,Email Campaign,The Layar Seminyak,2024-01-31,33244,1259,16254075.0,88,78,126082398,CRE033,Broad
+141,Long Weekend Promo,Google Ads,Alaya Ubud,2024-02-13,60643,2913,7818799.0,330,103,431490484,CRE003,Interest
+142,Eid Holiday Package,Google Ads,The Mulia Nusa Dua,2024-01-30,29776,704,22842740.0,15,11,64218418,CRE031,Lookalike
+143,Flash Sale 48H,Meta Ads,Katamama Resort,2024-03-12,43742,616,17000708.0,32,16,118678000,CRE045,Retargeting
+144,Long Weekend Promo,Organic,Bisma Eight,2024-01-03,36848,2239,14419341.0,222,135,802424205,CRE028,Retargeting
+145,Long Weekend Promo,Organic,Katamama Resort,2024-03-16,69481,2402,7266037.0,245,107,190567321,CRE026,Interest
+146,Summer Escape 2024,Email Campaign,The Layar Seminyak,2024-02-13,10995,164,,4,2,4374854,,Retargeting
+147,Valentine Weekend,Email Campaign,Katamama Resort,2024-01-30,4008,300,18832745.0,20,7,20675620,CRE011,Lookalike
+148, Summer Escape 2024,TikTok Ads,Komaneka Bisma,2024-03-04,655,40,20189085.0,2,1,7311058,CRE027,Retargeting
+149, Loyalty Member Deal,Organic,Alaya Ubud,2024-01-31,79847,4367,808534.0,265,222,1491775620,CRE034,Interest
+150,Loyalty Member Deal,Meta Ads,Katamama Resort,2024-03-02,19704,768,21997978.0,64,25,88455325,CRE035,Retargeting
+151,Valentine Weekend ,Google Ads,The Mulia Nusa Dua,2024-01-17,58989,1266,5840021.0,55,25,42858425,CRE004,
+152,Valentine Weekend,Email Campaign,The Layar Seminyak,2024-03-07,62186,3548,14885780.0,261,142,816726632,CRE011,Interest
+153,EID HOLIDAY PACKAGE,TikTok Ads,The Layar Seminyak,2024-01-20,58363,3040,23436061.0,238,154,1030712760,CRE007,Lookalike
+154,Eid Holiday Package,Meta Ads,Alaya Ubud,2024-02-20,18972,426,11445821.0,37,17,132537083,CRE009,Interest
+155,Summer Escape 2024,Organic,Alaya Ubud,2024-03-19,8120,365,8369997.0,17,8,35395544,CRE033,Lookalike
+156,Flash Sale 48H,Meta Ads,Alaya Ubud,2024-02-03,7007,79,17158388.0,8,4,19357172,CRE024,Broad
+157,Eid Holiday Package,Organic,The Mulia Nusa Dua,2024-01-22,50167,3786,3117260.0,385,220,1177294800,CRE047,Broad
+158,Long Weekend Promo,Email Campaign,The Layar Seminyak,2024-03-02,69436,1448,13473548.0,120,90,382271040,CRE025,Broad
+159,Eid Holiday Package,Meta Ads,The Layar Seminyak,2024-01-02,27822,1164,22096531.0,111,92,718003788,CRE016,Interest
+160,Valentine Weekend,Google Ads,Komaneka Bisma,2024-01-08,73662,1581,15966599.0,102,50,265419600,CRE014,Retargeting
+161,eid holiday package,Organic,The Mulia Nusa Dua,2024-01-20,19720,531,16167937.0,42,25,42944250,CRE026,Retargeting
+162,Long Weekend Promo,Meta Ads,The Layar Seminyak,2024-03-30,13842,202,12085881.0,20,7,33620678,CRE028,Interest
+163, Flash Sale 48H,TikTok Ads,Katamama Resort,2024-03-20,38246,2766,1364813.0,79,40,113482120,CRE049,Lookalike
+164,Eid Holiday Package,TikTok Ads,Katamama Resort,2024-01-10,28337,769,13500383.0,70,33,72631317,CRE018,Broad
+165,Flash Sale 48H,Email Campaign,The Layar Seminyak,2024-03-26,69183,5192,12878384.0,270,172,512269320,CRE003,Lookalike
+166,Long Weekend Promo ,TikTok Ads,Katamama Resort,2024-01-09,62558,1779,15373048.0,68,43,307050143,CRE045,Broad
+167,Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-01-08,75554,1680,,187,147,363002535,CRE023,Lookalike
+168,Loyalty Member Deal,Meta Ads,The Layar Seminyak,2024-01-19,75761,5127,20383292.0,553,303,1811152200,CRE028,Retargeting
+169,valentine weekend,Google Ads,The Layar Seminyak,2024-03-25,24373,1793,6438326.0,140,77,248183397,,Broad
+170,Flash Sale 48H,TikTok Ads,The Layar Seminyak,2024-01-30,19204,786,,41,20,127977040,CRE005,Interest
+171,Flash Sale 48H ,Google Ads,The Mulia Nusa Dua,2024-03-02,66259,1398,12552177.0,130,66,415400568,CRE043,Retargeting
+172,VALENTINE WEEKEND,TikTok Ads,The Layar Seminyak,2024-03-27,7255,79,22012426.0,3,1,4256624,CRE026,Interest
+173,loyalty member deal,Organic,Alaya Ubud,2024-01-11,37319,1090,15928096.0,93,38,149897080,CRE031,Broad
+174, Long Weekend Promo,Email Campaign,Bisma Eight,2024-02-19,35219,587,20480351.0,65,34,167579574,CRE010,Lookalike
+175,Eid Holiday Package,TikTok Ads,Bisma Eight,2024-02-26,12053,599,14131871.0,40,22,87041988,CRE032,Lookalike
+176,LOYALTY MEMBER DEAL,Google Ads,Bisma Eight,2024-01-14,63746,3506,6553285.0,181,144,1128962880,,Interest
+177,Summer Escape 2024,Google Ads,Alaya Ubud,2024-03-24,43180,1347,19495317.0,98,70,414220590,,
+178,Summer Escape 2024,TikTok Ads,Katamama Resort,2024-02-25,52344,1292,7881579.0,133,97,634159907,,Broad
+179,Long Weekend Promo,Google Ads,The Layar Seminyak,2024-03-08,52961,1812,17646558.0,52,37,127328618,,Retargeting
+180,Flash Sale 48H,Google Ads,Bisma Eight,2024-03-05,57044,1690,17332999.0,74,46,170097558,CRE009,Interest
+181,Flash Sale 48H,Google Ads,Katamama Resort,2024-01-10,23645,754,11936137.0,74,39,302538639,CRE024,Lookalike
+182,Valentine Weekend,Google Ads,Bisma Eight,2024-02-11,71345,5084,542249.0,278,120,185300640,CRE031,Lookalike
+183,Long Weekend Promo,Meta Ads,The Layar Seminyak,2024-02-25,60086,903,15442130.0,20,12,61741896,CRE006,Interest
+184,Valentine Weekend,TikTok Ads,Komaneka Bisma,2024-03-15,6598,207,3454570.0,8,6,42048354,CRE011,Retargeting
+185,Flash Sale 48H,Google Ads,Alaya Ubud,2024-03-12,31444,980,8814024.0,95,46,287322348,CRE043,Lookalike
+186,Flash Sale 48H,Meta Ads,The Layar Seminyak,2024-01-14,31268,559,832855.0,58,48,226208928,CRE023,Broad
+187,Valentine Weekend,Email Campaign,The Layar Seminyak,2024-02-14,77928,3032,13869597.0,184,64,127267712,CRE010,Retargeting
+188,Eid Holiday Package,TikTok Ads,Komaneka Bisma,2024-02-15,31290,1445,17208168.0,46,17,75759361,CRE050,Broad
+189,Flash Sale 48H,Meta Ads,Bisma Eight,2024-02-13,32455,1480,6874793.0,85,55,371253740,CRE015,Lookalike
+190,Valentine Weekend,Meta Ads,The Layar Seminyak,2024-03-28,36942,533,9084919.0,38,25,136250800,,
+191,eid holiday package,TikTok Ads,Katamama Resort,2024-02-28,10155,807,6106571.0,73,47,91940695,,Interest
+192,Loyalty Member Deal,Email Campaign,The Layar Seminyak,2024-01-30,76328,5423,24368848.0,165,84,185567172,CRE010,Lookalike
+193,Valentine Weekend,TikTok Ads,Alaya Ubud,2024-02-25,30632,1769,21461163.0,196,107,842527095,,Lookalike
+194,Flash Sale 48H,Meta Ads,Bisma Eight,2024-02-14,20622,1394,2293089.0,84,39,81683667,CRE032,Retargeting
+195,Loyalty Member Deal,Google Ads,Komaneka Bisma,2024-03-10,7043,428,10399724.0,36,11,42141088,CRE036,Lookalike
+196,loyalty member deal,Organic,Katamama Resort,2024-02-24,31022,378,5941006.0,13,4,24393488,CRE006,Broad
+197,Summer Escape 2024,TikTok Ads,Katamama Resort,2024-02-23,8004,110,22972337.0,3,1,2175537,,Interest
+198, Flash Sale 48H,Email Campaign,The Mulia Nusa Dua,2024-01-23,38726,2428,6008679.0,52,33,261068808,CRE035,Retargeting
+199,Valentine Weekend,TikTok Ads,Komaneka Bisma,2024-01-10,69719,2969,10448010.0,73,29,230444324,CRE050,Retargeting
+200,Summer Escape 2024,Meta Ads,The Layar Seminyak,2024-01-09,77646,5726,,142,105,493720605,CRE035,Lookalike
+201,Flash Sale 48H,Email Campaign,The Mulia Nusa Dua,2024-02-21,49837,2360,,272,168,743955744,CRE017,Interest
+202,Eid Holiday Package,Meta Ads,The Mulia Nusa Dua,2024-01-30,60606,3234,17805563.0,331,211,438307979,CRE039,Broad
+203,Summer Escape 2024,Organic,Bisma Eight,2024-01-22,46510,2472,18250383.0,261,167,410547122,CRE013,
+204,Summer Escape 2024,TikTok Ads,The Layar Seminyak,2024-01-24,26306,1754,24357472.0,57,18,125707644,CRE019,Lookalike
+205,Eid Holiday Package,Google Ads,Alaya Ubud,2024-02-23,17557,1200,20883195.0,128,70,467461680,,Broad
+206,Flash Sale 48H,Organic,The Layar Seminyak,2024-03-18,56572,3173,12876364.0,295,112,373483712,CRE019,Broad
+207,Flash Sale 48H ,Meta Ads,Katamama Resort,2024-03-04,68456,1484,7000594.0,40,18,34664256,CRE033,Retargeting
+208,Valentine Weekend ,Email Campaign,The Layar Seminyak,2024-02-02,77768,2954,,331,117,417759147,CRE006,Retargeting
+209,Eid Holiday Package,Email Campaign,The Mulia Nusa Dua,2024-02-07,2510,185,12274807.0,4,1,6800087,CRE021,
+210,Loyalty Member Deal ,TikTok Ads,Komaneka Bisma,2024-01-28,38217,1849,13203441.0,52,40,140581560,CRE006,Lookalike
+211,loyalty member deal,TikTok Ads,Katamama Resort,2024-02-12,22773,911,2560032.0,82,56,357730744,CRE043,Lookalike
+212,Eid Holiday Package ,Email Campaign,The Mulia Nusa Dua,2024-03-11,77490,1013,23798122.0,27,22,117552116,,Retargeting
+213,Eid Holiday Package,Email Campaign,The Layar Seminyak,2024-01-12,23289,1300,21324542.0,138,87,661801866,CRE014,Retargeting
+214,Summer Escape 2024,Email Campaign,The Mulia Nusa Dua,2024-02-29,70870,3996,4755997.0,423,297,1918748304,CRE033,Broad
+215,Long Weekend Promo,Email Campaign,Komaneka Bisma,2024-03-01,21496,1442,1202192.0,37,17,110716070,CRE046,Lookalike
+216,Summer Escape 2024,Meta Ads,Komaneka Bisma,2024-03-30,50952,1025,6121575.0,76,34,52714314,CRE029,Retargeting
+217,Long Weekend Promo,TikTok Ads,Komaneka Bisma,2024-01-08,12668,740,24519915.0,72,45,212205420,CRE036,Retargeting
+218,Loyalty Member Deal,TikTok Ads,The Mulia Nusa Dua,2024-03-05,1509,49,4395568.0,5,3,10178688,CRE022,Interest
+219, Flash Sale 48H,Organic,The Mulia Nusa Dua,2024-02-25,48984,3811,19715532.0,81,25,127714675,CRE046,Interest
+220,FLASH SALE 48H,Google Ads,The Mulia Nusa Dua,2024-03-15,33862,1730,11838186.0,120,51,292825425,CRE021,Interest
+221,Summer Escape 2024,Meta Ads,Bisma Eight,2024-01-15,48091,3522,16724670.0,187,165,711654240,,Interest
+222, Valentine Weekend,Organic,The Layar Seminyak,2024-02-24,32229,1239,11376644.0,67,56,115629640,CRE026,Interest
+223,Flash Sale 48H,Email Campaign,Komaneka Bisma,2024-02-11,43751,1960,19684177.0,110,97,388031137,CRE012,Broad
+224,Valentine Weekend,Email Campaign,Alaya Ubud,2024-01-07,52825,1931,19687947.0,212,74,410709546,CRE026,Broad
+225,Eid Holiday Package,Email Campaign,Alaya Ubud,2024-01-24,46510,1451,22511195.0,166,60,391897980,CRE015,Lookalike
+226,Summer Escape 2024,TikTok Ads,The Layar Seminyak,2024-02-26,46718,723,14835263.0,52,43,301678239,CRE040,Broad
+227, Valentine Weekend,Organic,Alaya Ubud,2024-02-12,48623,2418,,202,88,527759672,CRE030,Broad
+228,Valentine Weekend ,Meta Ads,Komaneka Bisma,2024-01-25,10718,226,21313641.0,20,9,35710182,CRE009,Retargeting
+229,Long Weekend Promo,Email Campaign,The Mulia Nusa Dua,2024-03-20,13561,693,9715255.0,68,36,277340904,CRE044,Lookalike
+230,Valentine Weekend,TikTok Ads,Katamama Resort,2024-01-04,6405,281,22903227.0,8,5,35278835,CRE040,Retargeting
+231, Summer Escape 2024,TikTok Ads,Bisma Eight,2024-02-04,36974,459,6925154.0,32,10,23302020,CRE013,Retargeting
+232,Loyalty Member Deal,Organic,Bisma Eight,2024-01-31,74297,1822,13785708.0,73,60,406095300,CRE017,
+233,Summer Escape 2024,Email Campaign,Komaneka Bisma,2024-02-07,43180,1206,,127,104,492506872,CRE031,Lookalike
+234,Long Weekend Promo,Google Ads,The Layar Seminyak,2024-01-01,8652,421,7008979.0,23,13,48167782,CRE042,Retargeting
+235,Summer Escape 2024,TikTok Ads,The Layar Seminyak,2024-01-13,33528,876,12705253.0,45,23,153351373,CRE026,Retargeting
+236,Loyalty Member Deal,Email Campaign,The Mulia Nusa Dua,2024-02-14,69358,3883,14454088.0,441,211,495105592,CRE010,Interest
+237,Loyalty Member Deal ,TikTok Ads,Komaneka Bisma,2024-03-01,19804,577,1658087.0,13,5,10974035,CRE042,Retargeting
+238,Loyalty Member Deal,TikTok Ads,Alaya Ubud,2024-03-24,77235,1203,6867005.0,117,36,105060816,CRE021,Broad
+239,Summer Escape 2024,Google Ads,Bisma Eight,2024-01-13,2140,85,14848625.0,9,3,8707254,CRE038,Lookalike
+240,Valentine Weekend ,Google Ads,Alaya Ubud,2024-03-20,74059,1991,14244306.0,195,94,285595876,CRE026,
+241,Flash Sale 48H,Organic,The Layar Seminyak,2024-03-05,74194,2582,9574833.0,65,33,254213982,CRE036,Interest
+242,Loyalty Member Deal,Email Campaign,Alaya Ubud,2024-02-05,28180,1577,12481054.0,87,53,100621454,CRE036,Lookalike
+243,Flash Sale 48H,Google Ads,Alaya Ubud,2024-01-29,46187,580,17648178.0,56,36,113090940,CRE040,Lookalike
+244,Eid Holiday Package ,Organic,Alaya Ubud,2024-02-10,1995,95,659575.0,8,7,36339772,CRE021,Interest
+245,Loyalty Member Deal,TikTok Ads,Bisma Eight,2024-01-15,77823,2765,3139810.0,100,83,423571825,CRE021,Interest
+246,Summer Escape 2024,Organic,The Layar Seminyak,2024-01-20,12621,718,22959637.0,56,21,144498480,CRE039,Retargeting
+247,Long Weekend Promo,TikTok Ads,Katamama Resort,2024-02-07,24242,374,19176891.0,38,25,38909175,CRE032,Interest
+248,Valentine Weekend,TikTok Ads,The Mulia Nusa Dua,2024-02-29,51903,3008,20063275.0,187,133,376992357,CRE047,Lookalike
+249,Flash Sale 48H,Email Campaign,The Layar Seminyak,2024-01-09,43508,2576,24573425.0,276,170,1345112760,,
+250,Flash Sale 48H,Google Ads,The Layar Seminyak,2024-03-21,23622,914,5755577.0,19,6,26966202,CRE029,Broad
+251,Long Weekend Promo,Meta Ads,Komaneka Bisma,2024-02-28,62923,789,10037799.0,42,15,86474670,,
+252,Flash Sale 48H,TikTok Ads,The Mulia Nusa Dua,2024-02-03,50674,2389,6185649.0,276,165,829743090,CRE047,Interest
+253,Long Weekend Promo,TikTok Ads,Komaneka Bisma,2024-03-27,39450,1667,10156687.0,76,62,291664430,CRE008,Lookalike
+254,Summer Escape 2024,Email Campaign,Bisma Eight,2024-03-06,59047,1322,19498027.0,43,29,168421038,CRE004,Lookalike
+255,Loyalty Member Deal,TikTok Ads,The Mulia Nusa Dua,2024-01-07,73980,1113,3942133.0,98,39,119299713,CRE022,Broad
+256,Loyalty Member Deal ,TikTok Ads,Bisma Eight,2024-01-27,14488,395,4204355.0,13,11,81558411,CRE049,Lookalike
+257,Loyalty Member Deal,TikTok Ads,Katamama Resort,2024-02-04,23162,328,19403422.0,17,10,28104040,CRE010,
+258,Valentine Weekend,Meta Ads,Komaneka Bisma,2024-02-12,18115,446,19600527.0,13,4,20980232,CRE002,Broad
+259,Loyalty Member Deal,Google Ads,Katamama Resort,2024-01-28,44682,1637,5009517.0,108,62,249309812,CRE025,Lookalike
+260,Summer Escape 2024,Google Ads,The Layar Seminyak,2024-01-07,62677,3141,13976121.0,288,150,738732600,CRE009,Retargeting
+261, Summer Escape 2024,Email Campaign,The Mulia Nusa Dua,2024-03-20,50086,918,14523656.0,65,40,249669840,CRE029,Retargeting
+262,Valentine Weekend,Google Ads,Bisma Eight,2024-03-19,58696,1272,15785202.0,45,22,80698222,CRE028,Retargeting
+263,Summer Escape 2024,Google Ads,Alaya Ubud,2024-02-04,30395,457,13952297.0,40,21,75788391,CRE050,
+264,Summer Escape 2024,Google Ads,Bisma Eight,2024-01-24,66077,4695,8530923.0,474,226,905949702,CRE044,Retargeting
+265,Loyalty Member Deal,Google Ads,The Layar Seminyak,2024-02-08,57871,2896,11473598.0,265,173,444279743,CRE038,Broad
+266,long weekend promo,Organic,Alaya Ubud,2024-03-04,51949,2891,10978603.0,163,97,252152567,CRE039,Broad
+267,Loyalty Member Deal,Meta Ads,The Layar Seminyak,2024-03-09,21678,537,2311339.0,51,19,119785215,CRE006,Lookalike
+268,loyalty member deal,TikTok Ads,The Mulia Nusa Dua,2024-01-04,40284,3124,6878869.0,148,49,118109600,CRE048,
+269,Long Weekend Promo,TikTok Ads,Bisma Eight,2024-03-20,692,36,6725456.0,2,0,0,CRE045,Broad
+270,Flash Sale 48H,Google Ads,Komaneka Bisma,2024-03-11,42863,2409,7451207.0,89,64,375501504,CRE003,Lookalike
+271,FLASH SALE 48H,Organic,The Layar Seminyak,2024-03-30,54908,3920,1469024.0,294,114,898839612,CRE019,Broad
+272,Flash Sale 48H,Organic,The Mulia Nusa Dua,2024-01-06,63470,2611,15564822.0,104,80,277858800,CRE020,
+273,Long Weekend Promo,TikTok Ads,The Mulia Nusa Dua,2024-01-05,37248,2677,6088010.0,306,222,705906498,,Retargeting
+274,LOYALTY MEMBER DEAL,Email Campaign,Bisma Eight,2024-03-21,69619,3455,14029834.0,198,139,840227756,,Retargeting
+275,Long Weekend Promo,Meta Ads,Katamama Resort,2024-03-13,11636,192,24446044.0,21,12,75323448,CRE040,Lookalike
+276,Long Weekend Promo,Meta Ads,Komaneka Bisma,2024-03-21,79786,4188,22075413.0,202,180,432962280,CRE044,Lookalike
+277,Loyalty Member Deal ,Organic,The Mulia Nusa Dua,2024-03-09,60033,2768,20820837.0,109,45,138955365,CRE046,Interest
+278,flash sale 48h,Google Ads,Bisma Eight,2024-03-04,52305,1291,11688353.0,144,128,724273408,,Broad
+279,LONG WEEKEND PROMO,Email Campaign,Katamama Resort,2024-02-05,32831,2182,8881170.0,228,116,211598616,CRE048,Broad
+280,Summer Escape 2024,Email Campaign,Komaneka Bisma,2024-01-25,13306,614,6500472.0,72,22,133963632,CRE004,Interest
+281, Summer Escape 2024,Meta Ads,Bisma Eight,2024-03-30,28781,388,14356564.0,38,24,88389312,CRE047,Lookalike
+282,Eid Holiday Package,Email Campaign,Bisma Eight,2024-02-20,10941,459,23276516.0,43,21,142720893,,Lookalike
+283,Valentine Weekend,Organic,The Layar Seminyak,2024-01-02,8657,324,16099540.0,26,11,61090700,CRE012,Lookalike
+284,Valentine Weekend ,Email Campaign,Alaya Ubud,2024-01-20,31345,1155,886044.0,131,87,413754426,,Retargeting
+285, Loyalty Member Deal,Google Ads,Bisma Eight,2024-02-11,60332,3947,5000864.0,311,225,1024824375,CRE006,Interest
+286,Long Weekend Promo,TikTok Ads,Bisma Eight,2024-01-14,62191,3036,4436820.0,289,201,918747885,CRE020,Retargeting
+287,Summer Escape 2024,Meta Ads,Bisma Eight,2024-02-09,41872,1103,11653573.0,109,51,286918248,CRE030,Interest
+288,Summer Escape 2024 ,TikTok Ads,Komaneka Bisma,2024-02-18,33369,1278,,111,54,85644486,,Lookalike
+289,Eid Holiday Package,Meta Ads,Bisma Eight,2024-01-21,7802,396,2022004.0,8,6,35313300,CRE008,Retargeting
+290,Flash Sale 48H,Email Campaign,Komaneka Bisma,2024-03-04,10379,252,18172775.0,14,12,27834576,CRE010,Broad
+291,Summer Escape 2024,Meta Ads,The Mulia Nusa Dua,2024-01-06,67315,4859,22054944.0,517,218,928501894,,Retargeting
+292,loyalty member deal,TikTok Ads,Katamama Resort,2024-02-05,70725,1307,5718339.0,138,91,309642333,CRE039,Retargeting
+293,Valentine Weekend,Meta Ads,Komaneka Bisma,2024-01-27,16107,960,14559470.0,86,37,189479109,CRE038,Retargeting
+294,long weekend promo,Email Campaign,Katamama Resort,2024-02-11,65685,4335,17566966.0,119,59,380372056,CRE046,Lookalike
+295,Long Weekend Promo,Meta Ads,Komaneka Bisma,2024-03-28,76568,5606,10395180.0,394,140,286737360,CRE025,Lookalike
+296,Summer Escape 2024,Meta Ads,Komaneka Bisma,2024-02-01,41147,672,2806937.0,79,44,334569312,CRE020,Broad
+297,Loyalty Member Deal,Meta Ads,Katamama Resort,2024-01-05,29099,1158,13306920.0,57,22,124719408,CRE020,Retargeting
+298,Loyalty Member Deal,Google Ads,Komaneka Bisma,2024-02-29,13077,474,23596671.0,42,23,69088044,CRE014,Broad
+299,Long Weekend Promo,Google Ads,Bisma Eight,2024-02-24,58038,3441,3330354.0,393,201,915298524,CRE017,Interest
+300,Summer Escape 2024 ,TikTok Ads,Katamama Resort,2024-02-09,54417,3428,3379952.0,306,190,1394357180,CRE020,Interest
+301,Summer Escape 2024,TikTok Ads,Katamama Resort,2024-01-13,55440,617,,24,19,147567870,CRE042,Interest
+302,Flash Sale 48H,TikTok Ads,The Layar Seminyak,2024-03-23,59532,3766,15179593.0,381,169,1139066760,CRE018,Lookalike
+303,Summer Escape 2024,Meta Ads,Bisma Eight,2024-01-20,76785,1505,12790003.0,138,53,221232176,CRE026,Broad
+304,Summer Escape 2024 ,Email Campaign,The Mulia Nusa Dua,2024-02-15,555,42,6465844.0,1,0,0,CRE035,Lookalike
+305, Eid Holiday Package,Organic,Bisma Eight,2024-02-06,26629,379,18586554.0,39,22,172535814,CRE006,Retargeting
+306,Long Weekend Promo,Google Ads,Komaneka Bisma,2024-01-02,47575,1310,13251296.0,48,19,99985163,CRE016,Interest
+307,Eid Holiday Package,Organic,The Layar Seminyak,2024-01-28,68348,708,,31,16,110698224,,Retargeting
+308,Long Weekend Promo ,TikTok Ads,The Mulia Nusa Dua,2024-01-28,46841,2920,22967167.0,234,89,660830251,CRE030,Broad
+309,Flash Sale 48H,Google Ads,Komaneka Bisma,2024-01-25,50905,1074,,102,54,181182096,,Interest
+310,Summer Escape 2024 ,TikTok Ads,Katamama Resort,2024-01-04,3365,238,5742516.0,26,22,90943864,CRE012,
+311,Long Weekend Promo,Organic,Bisma Eight,2024-03-18,23212,672,,66,58,191150774,CRE002,Interest
+312,Eid Holiday Package,Google Ads,Alaya Ubud,2024-01-10,76877,4823,,556,484,2024988240,CRE035,
+313,LOYALTY MEMBER DEAL,Organic,Katamama Resort,2024-01-11,20585,498,2252821.0,23,13,81184896,,Broad
+314, Long Weekend Promo,Google Ads,Bisma Eight,2024-01-19,44157,2376,2050310.0,96,55,299221285,CRE019,Interest
+315, Loyalty Member Deal,Meta Ads,The Mulia Nusa Dua,2024-02-26,13569,1001,10714029.0,33,23,179800108,CRE017,Lookalike
+316,Eid Holiday Package ,TikTok Ads,The Layar Seminyak,2024-01-05,1517,54,17123656.0,4,3,10669410,CRE014,Retargeting
+317,Long Weekend Promo,TikTok Ads,Bisma Eight,2024-03-03,16737,1129,4060314.0,22,10,76583070,CRE038,Interest
+318,Long Weekend Promo,Email Campaign,Alaya Ubud,2024-01-28,64794,2049,,190,120,492806040,CRE025,Lookalike
+319,Long Weekend Promo,Meta Ads,Komaneka Bisma,2024-01-16,67016,1563,2095902.0,140,93,379393779,CRE015,Lookalike
+320,Long Weekend Promo,Meta Ads,Bisma Eight,2024-02-18,15523,1137,806787.0,113,38,234684618,CRE037,Retargeting
+321,Long Weekend Promo ,TikTok Ads,The Mulia Nusa Dua,2024-03-23,5633,348,3269958.0,30,22,94930550,CRE031,Lookalike
+322,Flash Sale 48H ,Google Ads,Alaya Ubud,2024-02-22,58042,668,18183147.0,47,37,69963041,CRE030,Broad
+323,Flash Sale 48H,Google Ads,Alaya Ubud,2024-02-28,37965,2778,23648158.0,185,109,567564308,CRE047,
+324,Flash Sale 48H,Organic,Bisma Eight,2024-02-18,57676,3945,6029729.0,369,193,998601107,CRE036,Lookalike
+325,Summer Escape 2024,TikTok Ads,Komaneka Bisma,2024-01-17,9518,312,,30,24,117773688,CRE019,Broad
+326,Long Weekend Promo,TikTok Ads,Alaya Ubud,2024-03-13,70712,2182,3124841.0,110,40,267716880,CRE044,Retargeting
+327,Flash Sale 48H,Email Campaign,Komaneka Bisma,2024-01-29,45476,991,14702978.0,37,23,150568442,CRE019,Lookalike
+328, Summer Escape 2024,Organic,Bisma Eight,2024-03-05,8388,616,10622947.0,70,34,152964878,CRE006,Retargeting
+329,SUMMER ESCAPE 2024,Organic,The Mulia Nusa Dua,2024-01-05,43213,2415,19148509.0,261,164,993799000,CRE035,Lookalike
+330,eid holiday package,TikTok Ads,Komaneka Bisma,2024-02-15,2082,64,19863449.0,1,0,0,CRE017,Lookalike
+331,Eid Holiday Package,Meta Ads,Katamama Resort,2024-03-11,71268,5595,11032044.0,314,176,1136586176,CRE007,Broad
+332,Summer Escape 2024,Organic,The Layar Seminyak,2024-02-16,69589,5312,9511622.0,302,116,712650060,CRE042,
+333,Summer Escape 2024,Email Campaign,Alaya Ubud,2024-03-18,15833,389,10733291.0,28,17,92616357,CRE029,Broad
+334,Summer Escape 2024,TikTok Ads,The Layar Seminyak,2024-01-11,17840,997,9573908.0,116,78,219917724,CRE025,
+335,Long Weekend Promo,Email Campaign,Alaya Ubud,2024-01-04,2523,112,8372823.0,9,3,18005013,CRE017,Interest
+336, Long Weekend Promo,Organic,Bisma Eight,2024-01-31,14913,1091,1312404.0,80,25,69076800,CRE028,
+337,Summer Escape 2024,Google Ads,The Layar Seminyak,2024-02-25,63257,3850,,433,286,1931846774,CRE005,Retargeting
+338,Loyalty Member Deal,Meta Ads,The Mulia Nusa Dua,2024-01-23,49994,2488,24123073.0,256,203,435437842,CRE009,Interest
+339,Loyalty Member Deal,Organic,The Mulia Nusa Dua,2024-02-07,32515,1589,6754168.0,76,31,177437211,CRE019,Retargeting
+340,Valentine Weekend,Google Ads,Komaneka Bisma,2024-01-10,35580,895,15907447.0,54,36,125621388,CRE041,Lookalike
+341, Loyalty Member Deal,Google Ads,Alaya Ubud,2024-01-19,36288,2124,14735061.0,76,43,121085119,CRE037,Retargeting
+342,Long Weekend Promo,Meta Ads,Katamama Resort,2024-01-16,3150,53,10896840.0,1,0,0,CRE047,Retargeting
+343,Flash Sale 48H,Meta Ads,The Mulia Nusa Dua,2024-03-07,39363,1380,,44,19,110609013,CRE032,Lookalike
+344,Summer Escape 2024,Organic,Komaneka Bisma,2024-03-30,66065,924,13519352.0,75,49,166449276,CRE030,Broad
+345,Eid Holiday Package,Email Campaign,Komaneka Bisma,2024-03-26,3220,69,10261304.0,7,5,39044150,CRE040,Lookalike
+346,Loyalty Member Deal,Google Ads,Komaneka Bisma,2024-02-06,67351,704,24080308.0,34,16,71660368,CRE045,Lookalike
+347,Valentine Weekend,Organic,Katamama Resort,2024-02-08,66601,1565,13464669.0,91,65,513532110,,Broad
+348,Eid Holiday Package,Meta Ads,The Layar Seminyak,2024-02-28,61608,2378,9394893.0,219,180,659123100,CRE009,Broad
+349,Valentine Weekend ,Google Ads,Komaneka Bisma,2024-03-17,66601,2216,3290796.0,182,105,359908605,CRE019,Interest
+350,Valentine Weekend,Organic,Bisma Eight,2024-02-08,79906,5389,3734020.0,582,215,1544897765,CRE026,Broad
+351,SUMMER ESCAPE 2024,Email Campaign,Bisma Eight,2024-01-17,77448,3226,9489184.0,135,63,431583768,CRE013,Broad
+352,Long Weekend Promo,Organic,Komaneka Bisma,2024-03-07,39125,2785,11486862.0,143,118,626675698,,Retargeting
+353,Long Weekend Promo,Meta Ads,Komaneka Bisma,2024-01-30,69157,3863,21902464.0,441,177,551071092,,Retargeting
+354,Loyalty Member Deal,Email Campaign,Katamama Resort,2024-01-05,64142,1602,5063990.0,60,44,223079648,CRE049,Retargeting
+355,Long Weekend Promo,Organic,Alaya Ubud,2024-03-10,41893,3302,19281326.0,151,60,281061840,CRE044,
+356,Valentine Weekend,Email Campaign,Katamama Resort,2024-01-22,21481,567,5467755.0,61,48,96799824,CRE032,Retargeting
+357, Eid Holiday Package,Meta Ads,Alaya Ubud,2024-01-05,9177,605,16814728.0,60,35,96017040,CRE032,Retargeting
+358,Summer Escape 2024 ,Email Campaign,The Layar Seminyak,2024-03-14,40002,2985,15703780.0,294,145,676261295,CRE003,Interest
+359,Summer Escape 2024,Organic,Alaya Ubud,2024-01-13,61063,3593,,282,138,489903864,CRE040,Lookalike
+360,EID HOLIDAY PACKAGE,Google Ads,Komaneka Bisma,2024-01-08,27352,986,2374564.0,36,22,148849932,CRE035,Lookalike
+361,Long Weekend Promo,Organic,Alaya Ubud,2024-01-26,15993,914,18143250.0,95,66,119035554,CRE046,Retargeting
+362,long weekend promo,Google Ads,Alaya Ubud,2024-01-31,42488,3166,6038209.0,278,216,372476016,CRE045,Retargeting
+363,Eid Holiday Package,Meta Ads,Komaneka Bisma,2024-03-16,8524,396,6681692.0,31,22,148265238,CRE050,Lookalike
+364,Summer Escape 2024,Google Ads,Komaneka Bisma,2024-03-17,27019,1021,12696593.0,37,16,117193424,,Lookalike
+365,Eid Holiday Package,Meta Ads,The Mulia Nusa Dua,2024-03-04,36815,2533,23582181.0,134,88,451852720,CRE011,
+366, Eid Holiday Package,TikTok Ads,Alaya Ubud,2024-02-06,64682,3010,10589217.0,85,49,253475334,CRE002,Interest
+367,Long Weekend Promo,Google Ads,The Mulia Nusa Dua,2024-03-23,44868,2512,5837637.0,189,81,319413699,CRE010,
+368,Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-02-25,26155,893,2002073.0,50,39,89803584,CRE049,Broad
+369,Loyalty Member Deal,Meta Ads,Komaneka Bisma,2024-03-17,14092,935,11586282.0,21,10,16273170,CRE015,Lookalike
+370, Loyalty Member Deal,Meta Ads,Komaneka Bisma,2024-02-09,46895,854,12201696.0,25,16,52534688,CRE024,Retargeting
+371,Loyalty Member Deal,Email Campaign,Bisma Eight,2024-01-21,48174,3283,10203055.0,350,176,1251452400,CRE037,Lookalike
+372, Valentine Weekend,TikTok Ads,Katamama Resort,2024-02-13,21327,906,18782307.0,46,22,162196782,,Lookalike
+373, Long Weekend Promo,Google Ads,The Layar Seminyak,2024-03-30,65063,4857,2896513.0,370,183,1422221649,CRE004,Broad
+374,Long Weekend Promo,Meta Ads,The Mulia Nusa Dua,2024-01-06,75532,5473,,408,331,1695210542,CRE044,Broad
+375, Valentine Weekend,Email Campaign,The Mulia Nusa Dua,2024-01-06,68403,4065,3656252.0,148,127,482535230,,
+376, Eid Holiday Package,Email Campaign,Katamama Resort,2024-02-24,68193,3941,14869296.0,200,178,909877260,CRE046,Lookalike
+377,VALENTINE WEEKEND,Google Ads,Komaneka Bisma,2024-01-20,41514,621,9451705.0,62,53,348311654,CRE014,Interest
+378, Long Weekend Promo,Meta Ads,Bisma Eight,2024-02-21,57350,2302,,155,103,808781647,CRE008,Lookalike
+379,Valentine Weekend,Meta Ads,Bisma Eight,2024-01-24,57641,2445,7121171.0,163,133,824366585,CRE031,Broad
+380,Valentine Weekend,Organic,Komaneka Bisma,2024-01-13,40743,1184,5017121.0,70,41,278579133,,Retargeting
+381,Summer Escape 2024,TikTok Ads,Katamama Resort,2024-02-29,32600,1479,20521138.0,86,62,276652618,,Broad
+382,loyalty member deal,Google Ads,The Mulia Nusa Dua,2024-01-16,7442,165,920928.0,15,10,61002770,CRE007,Interest
+383,Long Weekend Promo,Organic,Alaya Ubud,2024-01-04,33208,880,5913464.0,103,56,171066056,CRE033,Broad
+384,Valentine Weekend,Email Campaign,Alaya Ubud,2024-02-03,5931,90,19662961.0,2,1,2249827,,Lookalike
+385, Summer Escape 2024,Meta Ads,Alaya Ubud,2024-03-24,74801,2121,19864898.0,110,68,225095028,,Broad
+386,Long Weekend Promo,Email Campaign,Katamama Resort,2024-03-13,5443,238,15177462.0,12,9,34092666,CRE037,Retargeting
+387,Valentine Weekend ,TikTok Ads,Komaneka Bisma,2024-01-14,42182,2249,7418696.0,82,55,183141750,CRE022,Interest
+388,Summer Escape 2024 ,Google Ads,Katamama Resort,2024-02-22,67397,5237,7965374.0,227,148,1136280360,CRE048,Interest
+389,Flash Sale 48H,Google Ads,The Mulia Nusa Dua,2024-02-27,18885,1509,3969517.0,68,28,155715896,CRE044,
+390, Valentine Weekend,TikTok Ads,Alaya Ubud,2024-02-04,37276,2601,23438436.0,104,81,289093293,CRE029,
+391,Flash Sale 48H,Organic,Alaya Ubud,2024-02-18,12829,794,10301732.0,78,26,114626486,CRE007,Broad
+392,Flash Sale 48H,Meta Ads,The Mulia Nusa Dua,2024-01-24,64250,736,9409783.0,80,47,78842453,CRE014,Broad
+393,Eid Holiday Package,Email Campaign,The Layar Seminyak,2024-01-23,78502,5334,,294,149,1112663162,CRE014,Interest
+394,Long Weekend Promo,TikTok Ads,Bisma Eight,2024-01-25,55544,2470,6551122.0,96,85,181738245,CRE012,Lookalike
+395,Loyalty Member Deal,Google Ads,Katamama Resort,2024-01-02,14140,974,,99,80,634127360,CRE030,Lookalike
+396,Loyalty Member Deal,TikTok Ads,Katamama Resort,2024-02-14,15198,676,20777567.0,28,24,92372688,,Interest
+397,summer escape 2024,TikTok Ads,Alaya Ubud,2024-01-08,66517,4727,19413688.0,443,397,3047215979,CRE021,
+398, Valentine Weekend,Organic,The Mulia Nusa Dua,2024-01-18,49290,3302,5951921.0,243,143,431665806,CRE035,Interest
+399,Loyalty Member Deal,Google Ads,Alaya Ubud,2024-01-30,40584,1639,2288388.0,131,45,103465890,CRE030,Interest
+400,Loyalty Member Deal,TikTok Ads,The Mulia Nusa Dua,2024-01-22,14999,814,4327468.0,30,23,47960980,CRE001,Retargeting
+401,long weekend promo,TikTok Ads,The Mulia Nusa Dua,2024-01-28,72804,2783,16197868.0,148,99,748921734,CRE031,Lookalike
+402,Eid Holiday Package,Email Campaign,Komaneka Bisma,2024-02-13,70419,4878,4012634.0,531,355,1469891700,CRE045,Broad
+403,Loyalty Member Deal,Meta Ads,The Layar Seminyak,2024-03-15,9383,734,19300369.0,38,12,26836140,CRE043,Interest
+404,Summer Escape 2024,Meta Ads,The Mulia Nusa Dua,2024-02-16,50863,894,17985502.0,31,13,94484052,CRE038,Broad
+405,Loyalty Member Deal,Meta Ads,The Mulia Nusa Dua,2024-03-02,27304,1805,17036677.0,111,49,292556313,,
+406,Valentine Weekend,Meta Ads,Alaya Ubud,2024-01-22,63832,3245,759990.0,313,237,835921278,CRE019,Lookalike
+407, Flash Sale 48H,Google Ads,Komaneka Bisma,2024-01-08,53190,2680,8392977.0,243,81,610555482,CRE003,Retargeting
+408,Loyalty Member Deal,TikTok Ads,The Mulia Nusa Dua,2024-01-10,1298,96,10182998.0,3,1,5041793,CRE048,Broad
+409,Long Weekend Promo,Meta Ads,The Layar Seminyak,2024-02-20,78281,5697,17977818.0,384,220,1320143880,CRE003,
+410,Long Weekend Promo,Meta Ads,Komaneka Bisma,2024-02-20,54694,2744,24018687.0,138,57,390648417,CRE003,Lookalike
+411,Eid Holiday Package,Organic,Bisma Eight,2024-03-31,53122,3364,8820142.0,220,191,1220787960,CRE046,Interest
+412,Eid Holiday Package,TikTok Ads,Katamama Resort,2024-03-05,77715,2132,24140735.0,161,63,158760189,CRE032,Retargeting
+413,Summer Escape 2024,TikTok Ads,Katamama Resort,2024-03-23,20035,377,1867605.0,16,12,64786824,CRE004,Interest
+414,valentine weekend,Google Ads,The Mulia Nusa Dua,2024-03-03,76764,3991,3562474.0,406,225,857796975,CRE002,Interest
+415,Summer Escape 2024,Meta Ads,Alaya Ubud,2024-01-01,5073,190,,14,6,33578232,CRE042,Interest
+416,Loyalty Member Deal,Google Ads,Katamama Resort,2024-02-17,68505,4215,4418031.0,231,70,268432360,CRE035,Broad
+417,Loyalty Member Deal ,TikTok Ads,Alaya Ubud,2024-01-18,57892,3834,16709283.0,256,145,707298980,CRE027,Retargeting
+418,Valentine Weekend,TikTok Ads,Komaneka Bisma,2024-03-05,73219,984,6567582.0,90,32,189181184,CRE044,Lookalike
+419,Long Weekend Promo,Google Ads,The Layar Seminyak,2024-02-02,10667,250,24719243.0,20,10,43455340,CRE021,Lookalike
+420,Eid Holiday Package,Email Campaign,The Mulia Nusa Dua,2024-02-08,74682,2275,3814381.0,180,65,355562935,CRE005,
+421,SUMMER ESCAPE 2024,TikTok Ads,Bisma Eight,2024-01-01,3677,221,8585649.0,7,2,15717492,CRE030,
+422,long weekend promo,Email Campaign,Bisma Eight,2024-02-16,54441,3145,5693375.0,301,157,1186428904,CRE011,Interest
+423,Flash Sale 48H,Organic,The Mulia Nusa Dua,2024-03-02,73667,5215,12848714.0,141,81,214446366,CRE026,Interest
+424,Summer Escape 2024,Organic,Katamama Resort,2024-03-25,42834,2049,8180023.0,107,40,306072200,CRE042,Retargeting
+425,Loyalty Member Deal,Email Campaign,Alaya Ubud,2024-02-28,8816,617,3729296.0,57,29,83818497,,Broad
+426,Long Weekend Promo,Google Ads,Bisma Eight,2024-03-13,27273,1053,10032439.0,38,23,73354590,CRE031,Retargeting
+427,Summer Escape 2024 ,TikTok Ads,Komaneka Bisma,2024-03-21,44234,3235,9728994.0,333,220,1525927480,CRE040,
+428, Long Weekend Promo,Google Ads,Komaneka Bisma,2024-03-27,8776,478,1586178.0,13,4,20131820,CRE014,Interest
+429,Eid Holiday Package,Meta Ads,The Mulia Nusa Dua,2024-03-23,35222,1932,5587283.0,154,51,236706198,CRE016,Interest
+430,Valentine Weekend,Meta Ads,Bisma Eight,2024-01-24,814,52,15705065.0,2,1,7602405,CRE005,Broad
+431,Long Weekend Promo,TikTok Ads,Alaya Ubud,2024-03-17,5152,248,11276463.0,20,6,40552602,CRE027,Interest
+432,Summer Escape 2024 ,Organic,Bisma Eight,2024-02-13,48810,3380,22681145.0,206,179,1026448113,CRE043,Lookalike
+433,Loyalty Member Deal,Meta Ads,Bisma Eight,2024-01-01,48568,738,,37,18,50054598,,Retargeting
+434,flash sale 48h,Organic,The Layar Seminyak,2024-01-02,21710,826,8069743.0,68,54,301816530,CRE010,Broad
+435,Eid Holiday Package,TikTok Ads,Alaya Ubud,2024-02-22,11300,564,22574593.0,54,42,239151696,CRE041,Broad
+436,EID HOLIDAY PACKAGE,Google Ads,Komaneka Bisma,2024-02-28,76016,919,6913473.0,48,35,106487115,CRE032,Broad
+437,Valentine Weekend,Email Campaign,Komaneka Bisma,2024-03-07,10769,819,10718127.0,36,29,167966521,CRE017,Retargeting
+438,Eid Holiday Package,Organic,Komaneka Bisma,2024-01-04,29049,1570,5641609.0,36,13,28903433,CRE043,Lookalike
+439, Loyalty Member Deal,Meta Ads,Bisma Eight,2024-02-13,41243,3078,22949846.0,324,110,411217620,,Broad
+440, Summer Escape 2024,Google Ads,Komaneka Bisma,2024-03-25,57393,1201,22659164.0,130,89,305308270,CRE007,Broad
+441,Flash Sale 48H,Meta Ads,The Layar Seminyak,2024-02-23,7063,468,2926656.0,25,21,155449140,CRE036,Interest
+442,Loyalty Member Deal,Email Campaign,Katamama Resort,2024-03-23,26769,1321,14847034.0,47,19,63963994,CRE049,
+443, Long Weekend Promo,Email Campaign,Komaneka Bisma,2024-02-01,30188,1307,6901924.0,123,43,199455027,,Lookalike
+444,Flash Sale 48H,Organic,Alaya Ubud,2024-02-07,24264,1416,,53,38,210392624,CRE024,Retargeting
+445,Flash Sale 48H,Meta Ads,Alaya Ubud,2024-03-01,67699,1779,1507625.0,115,70,118042680,,Retargeting
+446,Eid Holiday Package,Meta Ads,The Mulia Nusa Dua,2024-01-23,11162,113,,7,2,10523136,CRE037,Retargeting
+447,EID HOLIDAY PACKAGE,Meta Ads,The Mulia Nusa Dua,2024-01-26,33698,2153,10617273.0,74,54,194341680,CRE017,Lookalike
+448,Flash Sale 48H,Organic,Katamama Resort,2024-03-19,27340,1586,7966493.0,159,70,363300420,CRE011,
+449,eid holiday package,TikTok Ads,Komaneka Bisma,2024-03-04,17851,1225,15311137.0,121,91,724828650,CRE041,Broad
+450,Loyalty Member Deal,Email Campaign,The Mulia Nusa Dua,2024-03-09,21677,762,10917372.0,37,24,144631512,CRE023,Lookalike
+451,Loyalty Member Deal,Meta Ads,The Layar Seminyak,2024-03-02,43701,1323,12034895.0,73,44,123827792,CRE034,Broad
+452,Summer Escape 2024,Organic,Alaya Ubud,2024-02-14,42770,2212,3549581.0,193,134,284427596,CRE008,Broad
+453,long weekend promo,Email Campaign,Katamama Resort,2024-03-06,38688,1725,519513.0,129,103,617892983,CRE020,Interest
+454,Long Weekend Promo,Meta Ads,Komaneka Bisma,2024-03-04,542,14,16603114.0,0,0,0,CRE001,Interest
+455,Loyalty Member Deal ,Google Ads,Alaya Ubud,2024-02-29,22065,993,7580201.0,26,23,49669121,CRE044,Lookalike
+456,Eid Holiday Package,Google Ads,Komaneka Bisma,2024-03-07,37763,1299,22296554.0,101,46,310587170,CRE047,Broad
+457,Long Weekend Promo ,Google Ads,Komaneka Bisma,2024-03-03,34482,771,13288988.0,54,33,248019222,CRE007,Interest
+458,Flash Sale 48H,Email Campaign,Katamama Resort,2024-01-23,66769,5172,15699523.0,286,133,445695768,CRE039,Lookalike
+459,Loyalty Member Deal,Google Ads,Katamama Resort,2024-03-10,65877,1497,2764831.0,170,78,119136264,CRE008,Retargeting
+460,Eid Holiday Package,TikTok Ads,Komaneka Bisma,2024-03-01,75963,2565,22538751.0,282,191,968230570,CRE009,Interest
+461,Summer Escape 2024,Google Ads,Komaneka Bisma,2024-03-12,65639,3357,16189935.0,351,289,485088523,CRE008,Retargeting
+462,Flash Sale 48H ,Google Ads,Komaneka Bisma,2024-01-18,18810,424,10160151.0,43,31,182790508,CRE040,Lookalike
+463,Long Weekend Promo,Organic,Katamama Resort,2024-03-13,47001,3026,3581083.0,127,52,137327372,CRE047,Broad
+464,Valentine Weekend,Meta Ads,Bisma Eight,2024-01-16,13994,739,7255054.0,87,49,114725807,CRE008,Interest
+465,Long Weekend Promo,Organic,The Layar Seminyak,2024-02-19,79397,3204,13876556.0,338,152,1137608280,CRE016,Broad
+466,Summer Escape 2024,Meta Ads,The Mulia Nusa Dua,2024-02-10,34164,2388,22985051.0,180,127,875143792,CRE040,Retargeting
+467,Flash Sale 48H,Organic,Bisma Eight,2024-01-18,35002,1051,8820658.0,72,45,286769160,CRE043,Interest
+468,Eid Holiday Package,Meta Ads,Katamama Resort,2024-02-27,36702,1267,8420105.0,39,30,72792870,CRE029,Broad
+469,Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-03-15,6368,399,14862085.0,36,26,201657586,,
+470, Loyalty Member Deal,Google Ads,The Layar Seminyak,2024-03-24,36131,1889,23534861.0,157,118,858925068,CRE017,Retargeting
+471,Long Weekend Promo ,Google Ads,The Layar Seminyak,2024-01-19,45918,3082,8895750.0,91,43,68750077,CRE040,Broad
+472,Flash Sale 48H,TikTok Ads,Alaya Ubud,2024-02-09,18415,706,21545595.0,80,47,212292232,CRE028,Retargeting
+473,Loyalty Member Deal ,Organic,Katamama Resort,2024-02-25,68031,1394,7957411.0,46,27,54931986,CRE012,Interest
+474,Summer Escape 2024,Organic,Bisma Eight,2024-01-28,49828,1232,21134659.0,105,62,479776212,CRE036,Retargeting
+475,Flash Sale 48H,Email Campaign,Katamama Resort,2024-02-04,54906,3634,7106098.0,119,58,372457498,CRE011,Broad
+476, Eid Holiday Package,TikTok Ads,The Mulia Nusa Dua,2024-01-18,63550,4228,20829969.0,469,204,700321596,CRE011,Lookalike
+477,Loyalty Member Deal ,Google Ads,Alaya Ubud,2024-01-26,19041,447,8250759.0,35,15,97922490,CRE038,Retargeting
+478,Loyalty Member Deal,Organic,The Mulia Nusa Dua,2024-03-31,60530,3747,8936233.0,163,75,562125450,CRE013,
+479, Summer Escape 2024,TikTok Ads,The Layar Seminyak,2024-03-01,18141,646,5153541.0,41,19,97322807,CRE050,Lookalike
+480,Summer Escape 2024,TikTok Ads,Alaya Ubud,2024-02-02,17116,1011,10316108.0,49,24,154832112,CRE011,Lookalike
+481,Eid Holiday Package,Organic,Bisma Eight,2024-02-27,68137,3365,18821676.0,185,141,714609432,CRE026,Lookalike
+482,VALENTINE WEEKEND,TikTok Ads,Bisma Eight,2024-03-15,59953,3846,6906614.0,122,107,261713654,CRE030,Lookalike
+483,summer escape 2024,Google Ads,The Layar Seminyak,2024-03-09,2003,108,14191224.0,3,2,6111698,CRE001,Lookalike
+484,Loyalty Member Deal,Meta Ads,Katamama Resort,2024-03-22,32557,1938,4332103.0,167,71,361881817,CRE029,Interest
+485,Loyalty Member Deal,TikTok Ads,The Layar Seminyak,2024-03-01,53368,2848,3739302.0,91,55,344702820,CRE028,Interest
+486, Summer Escape 2024,TikTok Ads,The Mulia Nusa Dua,2024-03-08,520,15,1545429.0,0,0,0,,Interest
+487, Loyalty Member Deal,Organic,The Mulia Nusa Dua,2024-03-22,42787,1532,24642443.0,101,83,277001544,CRE042,Broad
+488,Valentine Weekend,Organic,Komaneka Bisma,2024-03-16,37434,1237,6687592.0,132,114,788025798,CRE008,Retargeting
+489,Summer Escape 2024,TikTok Ads,The Layar Seminyak,2024-03-08,14289,1058,23244367.0,92,81,437255172,CRE033,Broad
+490,Eid Holiday Package,Email Campaign,The Mulia Nusa Dua,2024-03-10,50116,2903,18110820.0,271,172,488497544,CRE024,Retargeting
+491,Flash Sale 48H,Google Ads,Katamama Resort,2024-01-07,41344,1812,10960534.0,175,110,790206560,CRE016,Lookalike
+492,flash sale 48h,Google Ads,The Layar Seminyak,2024-02-21,13193,548,19887653.0,38,15,90612675,,
+493,Eid Holiday Package,TikTok Ads,Alaya Ubud,2024-03-14,34802,2133,5483418.0,72,38,265644928,CRE041,Interest
+494,Flash Sale 48H ,Email Campaign,Bisma Eight,2024-03-27,52614,3544,21306453.0,391,188,343424676,CRE005,Retargeting
+495,Loyalty Member Deal,TikTok Ads,The Layar Seminyak,2024-02-12,65699,2052,20801258.0,75,28,174380780,,Retargeting
+496,Valentine Weekend,Organic,The Layar Seminyak,2024-03-17,75945,1661,4195990.0,71,47,356938163,CRE042,Broad
+497,Summer Escape 2024,Google Ads,The Layar Seminyak,2024-02-05,31372,1285,2692248.0,83,59,466819800,CRE018,Broad
+498,valentine weekend,Organic,Bisma Eight,2024-01-24,29783,2137,6148578.0,109,40,83290760,CRE016,Interest
+499,Eid Holiday Package,Meta Ads,Alaya Ubud,2024-02-09,19489,1444,17049481.0,60,23,91425391,CRE013,Lookalike
+500,Valentine Weekend,TikTok Ads,Katamama Resort,2024-01-01,38421,1084,14368864.0,79,49,311614961,CRE036,Broad
+501,Eid Holiday Package,Organic,Katamama Resort,2024-03-02,61635,631,18432333.0,24,21,121051077,CRE025,Interest
+502,Loyalty Member Deal,Organic,Bisma Eight,2024-01-09,20423,959,7454408.0,79,32,176237376,CRE043,Lookalike
+503,Loyalty Member Deal ,TikTok Ads,The Mulia Nusa Dua,2024-03-20,67648,2049,10612713.0,142,100,202040500,CRE031,
+504,Valentine Weekend ,TikTok Ads,The Layar Seminyak,2024-03-10,23130,419,18984893.0,11,3,7223157,CRE005,Lookalike
+505,Long Weekend Promo,Email Campaign,Alaya Ubud,2024-01-27,23509,1193,16271129.0,53,39,246442404,CRE037,Retargeting
+506,summer escape 2024,TikTok Ads,Alaya Ubud,2024-01-13,75744,3864,20934178.0,442,208,438283456,CRE050,Interest
+507,Long Weekend Promo,Google Ads,Komaneka Bisma,2024-03-26,54231,1438,19023404.0,106,91,348247354,CRE029,Retargeting
+508,Valentine Weekend,Email Campaign,Bisma Eight,2024-01-30,39560,1621,,85,65,211947840,CRE038,Retargeting
+509,Loyalty Member Deal,Email Campaign,The Mulia Nusa Dua,2024-03-06,47996,3493,12015241.0,109,33,82299657,CRE048,Interest
+510,Flash Sale 48H,TikTok Ads,Bisma Eight,2024-02-08,20137,1141,10070327.0,109,41,78198726,CRE035,Lookalike
+511,Summer Escape 2024,Organic,Bisma Eight,2024-03-01,75979,4069,21225999.0,310,229,665891009,CRE004,Lookalike
+512,Loyalty Member Deal,Email Campaign,Komaneka Bisma,2024-01-09,2887,170,5529086.0,4,1,6212172,,Broad
+513,Valentine Weekend,Google Ads,Alaya Ubud,2024-02-23,16177,734,18148844.0,83,67,211558999,CRE003,Broad
+514,Loyalty Member Deal,Email Campaign,Komaneka Bisma,2024-03-02,61788,2271,5907048.0,54,26,101209290,CRE011,Lookalike
+515,Long Weekend Promo,Meta Ads,Bisma Eight,2024-01-16,10684,432,23722394.0,18,9,54802935,CRE023,Lookalike
+516,Long Weekend Promo,Meta Ads,Bisma Eight,2024-03-24,44375,1719,24938520.0,128,97,231419205,CRE029,Retargeting
+517,Valentine Weekend,Email Campaign,Komaneka Bisma,2024-02-20,55203,3999,7330832.0,251,154,807429854,CRE016,Broad
+518, Eid Holiday Package,Google Ads,Katamama Resort,2024-03-16,50811,1819,19488006.0,93,49,367563357,CRE015,Interest
+519,Summer Escape 2024,Google Ads,Alaya Ubud,2024-01-30,62652,792,14860956.0,49,20,48256640,CRE030,Retargeting
+520,Flash Sale 48H,Google Ads,Komaneka Bisma,2024-01-29,65439,1518,14808104.0,70,22,85315956,CRE001,Retargeting
+521,Long Weekend Promo,Organic,The Layar Seminyak,2024-01-06,16273,619,10866255.0,54,19,47400060,CRE022,Lookalike
+522,Long Weekend Promo,Email Campaign,Alaya Ubud,2024-03-31,37063,2243,16331863.0,226,108,484781868,,
+523,Flash Sale 48H,Organic,Alaya Ubud,2024-03-29,51297,3414,,139,48,143295504,,Lookalike
+524,Eid Holiday Package,Meta Ads,Bisma Eight,2024-03-26,6774,100,1108238.0,2,0,0,CRE034,Interest
+525,Summer Escape 2024,Organic,Bisma Eight,2024-01-28,40981,2082,19561080.0,83,29,61663135,CRE041,Lookalike
+526,Eid Holiday Package,Organic,The Layar Seminyak,2024-01-10,34604,2238,13095457.0,206,89,464904672,CRE007,Interest
+527,Eid Holiday Package,Meta Ads,Alaya Ubud,2024-03-15,79042,2889,13528482.0,166,77,535096870,CRE035,Lookalike
+528,Loyalty Member Deal ,Email Campaign,The Layar Seminyak,2024-01-01,54391,3526,13923852.0,349,234,951414516,CRE050,Retargeting
+529,Long Weekend Promo ,TikTok Ads,The Mulia Nusa Dua,2024-03-17,67983,786,20539245.0,36,18,125088894,CRE009,Lookalike
+530,Eid Holiday Package,TikTok Ads,Katamama Resort,2024-02-28,16010,169,18337160.0,14,11,80639108,CRE020,
+531,Long Weekend Promo,TikTok Ads,Bisma Eight,2024-02-29,38876,1007,10393725.0,67,35,163915990,CRE032,Lookalike
+532,Loyalty Member Deal,Google Ads,Bisma Eight,2024-03-07,21840,1524,23729188.0,180,96,641790432,CRE039,Broad
+533,Long Weekend Promo,Meta Ads,Komaneka Bisma,2024-02-05,12714,748,24907483.0,21,16,107432704,,Retargeting
+534,Flash Sale 48H,Meta Ads,Katamama Resort,2024-02-09,75368,3608,10091155.0,98,63,373908402,CRE007,Interest
+535, Long Weekend Promo,Meta Ads,The Mulia Nusa Dua,2024-03-25,60587,865,15035531.0,42,29,203084738,CRE002,
+536,Loyalty Member Deal,Google Ads,The Layar Seminyak,2024-02-18,34681,2260,21080983.0,101,68,530612908,CRE028,Interest
+537,Flash Sale 48H,Google Ads,Komaneka Bisma,2024-03-26,63900,2985,10911158.0,237,108,420410844,CRE039,Retargeting
+538,long weekend promo,Email Campaign,The Mulia Nusa Dua,2024-01-18,34422,1302,11195299.0,28,21,121829778,CRE018,Interest
+539,Eid Holiday Package,Organic,Komaneka Bisma,2024-02-10,1832,51,21693746.0,1,0,0,CRE003,Broad
+540,Valentine Weekend,Email Campaign,The Layar Seminyak,2024-03-29,14915,1067,5139934.0,117,100,177107600,CRE029,
+541,Eid Holiday Package,Organic,Alaya Ubud,2024-02-22,77324,3070,13792319.0,295,112,736993040,,Broad
+542,Eid Holiday Package,Google Ads,The Layar Seminyak,2024-03-26,73455,1888,13403660.0,198,149,998632270,CRE030,Lookalike
+543,Long Weekend Promo,Google Ads,Komaneka Bisma,2024-02-07,75197,3696,11847833.0,242,187,1212965963,CRE001,Lookalike
+544,LONG WEEKEND PROMO,TikTok Ads,Bisma Eight,2024-03-13,49246,3279,6278004.0,244,74,326800428,,
+545,Loyalty Member Deal,Meta Ads,Bisma Eight,2024-03-29,27068,527,14171911.0,38,21,95866134,,Broad
+546,Valentine Weekend ,Email Campaign,Alaya Ubud,2024-01-26,11732,302,5632762.0,17,13,96860881,,Lookalike
+547,Summer Escape 2024,Meta Ads,Katamama Resort,2024-03-27,26284,1975,19918056.0,139,120,840105120,,Lookalike
+548,VALENTINE WEEKEND,TikTok Ads,The Mulia Nusa Dua,2024-02-18,29986,2049,3525649.0,237,102,573957162,CRE001,Retargeting
+549,Eid Holiday Package,TikTok Ads,Bisma Eight,2024-01-01,53514,4105,9328053.0,333,149,353665208,CRE048,Interest
+550,eid holiday package,Organic,Bisma Eight,2024-03-14,6210,204,24019418.0,17,13,87891908,CRE033,Interest
+551,Flash Sale 48H,Organic,Komaneka Bisma,2024-01-29,41512,2927,16493331.0,347,147,589093974,CRE036,Lookalike
+552, Long Weekend Promo,Google Ads,Bisma Eight,2024-01-25,4867,215,11054575.0,7,6,15872316,CRE035,Retargeting
+553,Eid Holiday Package,TikTok Ads,Bisma Eight,2024-01-16,11722,194,20805464.0,7,6,12088710,CRE046,Lookalike
+554,Flash Sale 48H,TikTok Ads,Katamama Resort,2024-03-19,63549,2944,,298,153,295250985,CRE037,Interest
+555,Summer Escape 2024,Google Ads,The Layar Seminyak,2024-03-25,59203,3445,10130374.0,322,253,1433265240,CRE003,Lookalike
+556,Eid Holiday Package,Email Campaign,The Layar Seminyak,2024-03-14,690,32,16390360.0,0,0,0,CRE043,Broad
+557, Summer Escape 2024,Email Campaign,Katamama Resort,2024-02-09,24787,1037,11834150.0,47,32,185063968,CRE011,Interest
+558,Loyalty Member Deal,Organic,The Layar Seminyak,2024-03-02,10889,743,22521135.0,26,20,152403680,CRE038,Interest
+559,Long Weekend Promo,Meta Ads,Komaneka Bisma,2024-01-13,34735,2027,9495142.0,182,127,756053479,CRE044,Interest
+560,Loyalty Member Deal,Meta Ads,Komaneka Bisma,2024-01-14,26613,645,625606.0,29,22,159524420,CRE006,Interest
+561,Flash Sale 48H,Organic,Bisma Eight,2024-01-12,52888,3130,20100283.0,363,208,1360666112,CRE011,Retargeting
+562,Flash Sale 48H,Google Ads,The Mulia Nusa Dua,2024-02-20,61112,2326,24670355.0,253,126,912862188,CRE009,
+563,Eid Holiday Package,Organic,Katamama Resort,2024-03-27,48298,759,18393128.0,17,8,30028720,CRE004,Lookalike
+564,long weekend promo,Meta Ads,Komaneka Bisma,2024-03-31,50223,1938,2550844.0,114,70,507040520,CRE043,Lookalike
+565,Summer Escape 2024,Google Ads,The Layar Seminyak,2024-01-28,47960,2157,21498836.0,156,69,148494348,CRE031,Retargeting
+566,Flash Sale 48H,Email Campaign,Alaya Ubud,2024-03-02,33263,1213,24950437.0,52,29,69690277,CRE026,Retargeting
+567,Flash Sale 48H,Google Ads,Alaya Ubud,2024-01-09,1301,37,12460862.0,3,2,13132328,CRE016,
+568,FLASH SALE 48H,Organic,Komaneka Bisma,2024-01-09,34111,2174,7390950.0,182,132,322270872,CRE023,Retargeting
+569,Flash Sale 48H,Organic,The Layar Seminyak,2024-01-02,69077,5434,3703334.0,391,347,1874784439,CRE038,Lookalike
+570, Valentine Weekend,TikTok Ads,Komaneka Bisma,2024-02-08,31548,648,17366264.0,27,22,113105256,CRE023,
+571,Summer Escape 2024,Google Ads,The Mulia Nusa Dua,2024-01-06,56570,1610,12142229.0,57,50,379014200,CRE026,
+572,Summer Escape 2024,TikTok Ads,The Mulia Nusa Dua,2024-02-24,8437,477,7100286.0,36,30,193566300,,Retargeting
+573,Valentine Weekend,Organic,Alaya Ubud,2024-03-27,52774,2783,,309,248,403726144,CRE029,Lookalike
+574, Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-03-19,7784,155,564107.0,18,14,67696090,CRE043,Broad
+575,Long Weekend Promo,TikTok Ads,Alaya Ubud,2024-02-14,10005,257,12537881.0,22,12,75723996,CRE022,Lookalike
+576,Flash Sale 48H,Organic,The Layar Seminyak,2024-01-12,50533,4021,,168,104,216011640,CRE002,Broad
+577,Summer Escape 2024,Meta Ads,The Mulia Nusa Dua,2024-02-24,45156,3266,16413331.0,380,332,646773184,,Lookalike
+578,summer escape 2024,Organic,Katamama Resort,2024-01-28,23377,903,20060424.0,77,61,165262969,CRE050,Interest
+579,Long Weekend Promo,Organic,Alaya Ubud,2024-02-29,63328,3252,,115,101,648890862,CRE041,Retargeting
+580,eid holiday package,Google Ads,The Layar Seminyak,2024-01-17,15421,803,4307354.0,75,33,225277404,,Broad
+581,Summer Escape 2024,TikTok Ads,Alaya Ubud,2024-03-10,43383,727,21468188.0,60,53,209516155,CRE040,Interest
+582,Valentine Weekend,Organic,Bisma Eight,2024-01-16,7755,290,24839400.0,12,8,58397648,CRE034,Broad
+583,Eid Holiday Package,TikTok Ads,Katamama Resort,2024-01-25,1768,42,15694424.0,3,1,5682827,CRE032,Retargeting
+584,Loyalty Member Deal,Organic,Bisma Eight,2024-03-14,55362,1959,15405507.0,92,57,191695788,,Interest
+585,Eid Holiday Package,Organic,Katamama Resort,2024-01-12,42373,1705,11064955.0,126,39,86683194,CRE015,Retargeting
+586,Valentine Weekend,Organic,Komaneka Bisma,2024-03-26,30895,1004,13559684.0,31,23,86891217,CRE001,Interest
+587,long weekend promo,Meta Ads,The Mulia Nusa Dua,2024-03-16,25280,760,23165037.0,44,28,149539628,CRE030,Broad
+588, Summer Escape 2024,TikTok Ads,The Mulia Nusa Dua,2024-01-08,41588,575,9014275.0,55,26,174689684,CRE037,Retargeting
+589,Summer Escape 2024 ,TikTok Ads,Bisma Eight,2024-01-28,56077,1874,13206458.0,165,99,249228936,,Retargeting
+590,Long Weekend Promo ,Meta Ads,Alaya Ubud,2024-01-23,3507,276,14115021.0,12,4,22521040,CRE049,Lookalike
+591,Eid Holiday Package ,Organic,Alaya Ubud,2024-02-06,17788,1404,12846199.0,128,65,506018110,CRE005,Broad
+592,Flash Sale 48H,TikTok Ads,Komaneka Bisma,2024-03-07,30262,1122,21503162.0,130,49,266378749,CRE016,Interest
+593,Summer Escape 2024,Email Campaign,Komaneka Bisma,2024-02-04,29314,1547,9690887.0,150,87,452029728,,Broad
+594,Valentine Weekend,Email Campaign,The Layar Seminyak,2024-03-05,36348,2416,12554590.0,264,95,617285205,,Interest
+595, Loyalty Member Deal,Meta Ads,Komaneka Bisma,2024-03-23,74310,1257,14471489.0,79,65,455619840,CRE031,Lookalike
+596,Loyalty Member Deal,Google Ads,Komaneka Bisma,2024-03-14,66135,2780,13568024.0,277,195,352319175,CRE034,Retargeting
+597,Summer Escape 2024,TikTok Ads,Bisma Eight,2024-03-23,41160,1901,14592081.0,208,150,618254550,,Interest
+598,Long Weekend Promo,TikTok Ads,Alaya Ubud,2024-02-27,12873,238,11647493.0,19,15,84172620,CRE032,Broad
+599,Valentine Weekend,Meta Ads,Alaya Ubud,2024-02-27,35233,1537,,109,82,595971080,,
+600,Long Weekend Promo ,TikTok Ads,The Layar Seminyak,2024-02-27,79022,2945,12807297.0,139,62,128373356,CRE006,Lookalike
+601, Valentine Weekend,Google Ads,The Layar Seminyak,2024-03-02,62801,2764,14785559.0,112,94,196671688,,Lookalike
+602,Valentine Weekend,Google Ads,Katamama Resort,2024-02-18,58346,3113,20397323.0,340,217,484168881,CRE031,Retargeting
+603,Flash Sale 48H,TikTok Ads,The Mulia Nusa Dua,2024-03-10,77051,3207,9094335.0,205,130,703322620,CRE011,Retargeting
+604,VALENTINE WEEKEND,Organic,Bisma Eight,2024-02-03,1994,31,17973992.0,3,1,3954706,CRE006,Interest
+605,Valentine Weekend,Meta Ads,The Layar Seminyak,2024-01-08,55393,3329,3326275.0,315,235,1153464835,CRE007,Interest
+606,FLASH SALE 48H,Organic,Alaya Ubud,2024-01-20,25930,329,22331749.0,9,3,21958419,CRE031,Lookalike
+607,Valentine Weekend,Organic,Katamama Resort,2024-02-05,42782,460,14580509.0,24,14,84140952,CRE022,Interest
+608,Eid Holiday Package,TikTok Ads,Alaya Ubud,2024-01-18,46482,2250,9273111.0,150,49,180014926,CRE016,Broad
+609,Eid Holiday Package,Email Campaign,The Layar Seminyak,2024-02-13,33902,2466,19825706.0,94,65,279901050,CRE029,Lookalike
+610,Loyalty Member Deal,Google Ads,The Layar Seminyak,2024-03-04,31548,357,9550688.0,18,8,34106984,CRE026,Broad
+611,flash sale 48h,Email Campaign,Bisma Eight,2024-01-20,62004,705,13684657.0,63,21,128645433,CRE014,Broad
+612,Long Weekend Promo,Email Campaign,Bisma Eight,2024-03-29,4772,357,15520399.0,23,12,27004116,,Lookalike
+613,Long Weekend Promo,Google Ads,Alaya Ubud,2024-03-09,50943,3715,3563125.0,259,207,1538160489,,Interest
+614,Summer Escape 2024,Organic,Katamama Resort,2024-03-25,13018,245,23238501.0,23,17,26878411,CRE048,Interest
+615,summer escape 2024,Email Campaign,The Layar Seminyak,2024-03-04,75140,1007,17843315.0,20,14,83432594,CRE038,Retargeting
+616,Summer Escape 2024,TikTok Ads,Bisma Eight,2024-02-20,33218,2340,19440934.0,202,177,850565712,CRE049,Retargeting
+617,Flash Sale 48H,TikTok Ads,Alaya Ubud,2024-01-31,25176,300,21337327.0,16,10,48380370,CRE019,Interest
+618,Summer Escape 2024 ,TikTok Ads,Alaya Ubud,2024-03-06,67190,4083,3580299.0,342,239,418004547,CRE015,Retargeting
+619,Long Weekend Promo,Email Campaign,Bisma Eight,2024-01-07,63136,2575,18138013.0,273,193,1246846006,CRE047,Broad
+620,Loyalty Member Deal,Google Ads,Alaya Ubud,2024-03-28,68498,1094,15559828.0,90,64,387122368,,
+621,Eid Holiday Package,Google Ads,Komaneka Bisma,2024-01-09,38544,3025,22744280.0,327,242,1034886864,,Interest
+622,Long Weekend Promo,TikTok Ads,The Mulia Nusa Dua,2024-02-21,73630,1901,15120595.0,181,149,954851302,,Interest
+623,Eid Holiday Package,Email Campaign,The Layar Seminyak,2024-01-09,70788,1472,2498680.0,102,31,144952187,CRE017,Broad
+624,Eid Holiday Package ,TikTok Ads,The Mulia Nusa Dua,2024-02-09,27387,633,13806702.0,55,24,166256424,CRE033,Interest
+625,Valentine Weekend,Organic,The Layar Seminyak,2024-03-23,75138,4118,24155340.0,448,325,2425816900,CRE017,Retargeting
+626,Long Weekend Promo,Organic,Bisma Eight,2024-02-18,34349,930,14080562.0,69,33,147697110,CRE034,Lookalike
+627,Valentine Weekend,Email Campaign,Katamama Resort,2024-03-14,47768,3741,11667439.0,256,206,849023232,CRE049,Broad
+628,Loyalty Member Deal,Email Campaign,The Mulia Nusa Dua,2024-01-22,75121,1892,24794968.0,66,57,446844147,,Broad
+629,Loyalty Member Deal,Organic,Katamama Resort,2024-03-17,75343,5424,5249010.0,413,238,619188654,CRE023,Broad
+630,Summer Escape 2024 ,Organic,Katamama Resort,2024-03-12,48836,3906,21172925.0,423,264,1732173432,CRE027,Broad
+631,Eid Holiday Package,Organic,The Layar Seminyak,2024-01-29,18040,668,6148375.0,57,25,140315225,CRE010,Lookalike
+632,VALENTINE WEEKEND,TikTok Ads,The Layar Seminyak,2024-02-14,753,52,8595762.0,4,1,5893626,CRE034,Lookalike
+633,eid holiday package,Email Campaign,Alaya Ubud,2024-03-20,42139,2435,2619858.0,288,169,755799603,CRE033,Lookalike
+634,Long Weekend Promo,Organic,Katamama Resort,2024-01-20,20089,415,6248931.0,46,35,127838270,CRE046,
+635,Valentine Weekend,TikTok Ads,The Mulia Nusa Dua,2024-02-16,44479,2872,19480606.0,232,82,495241624,CRE050,Interest
+636, Long Weekend Promo,Google Ads,Bisma Eight,2024-03-01,60107,1324,19875039.0,58,32,194634112,,Interest
+637,Summer Escape 2024,Email Campaign,The Mulia Nusa Dua,2024-03-08,66869,2899,5848498.0,144,76,217517472,CRE045,
+638,Loyalty Member Deal,Organic,Katamama Resort,2024-03-10,40589,795,6250151.0,29,25,151263875,CRE029,Broad
+639,Loyalty Member Deal ,Organic,Alaya Ubud,2024-03-31,6087,119,16772161.0,10,7,27545413,CRE033,Retargeting
+640,Valentine Weekend,TikTok Ads,The Mulia Nusa Dua,2024-01-02,22529,1627,16426310.0,106,64,206343872,CRE040,Lookalike
+641,Flash Sale 48H,Email Campaign,Katamama Resort,2024-03-16,21623,838,14502147.0,68,52,236164344,CRE027,Interest
+642,Eid Holiday Package,Meta Ads,Katamama Resort,2024-03-11,30342,596,12136148.0,63,52,363091560,,Retargeting
+643, Flash Sale 48H,TikTok Ads,Bisma Eight,2024-03-14,57848,2893,18787623.0,240,99,309076812,CRE042,Lookalike
+644,Summer Escape 2024,TikTok Ads,The Mulia Nusa Dua,2024-01-05,65345,1070,6811383.0,23,15,50009400,CRE009,
+645,Flash Sale 48H,Meta Ads,The Layar Seminyak,2024-01-17,26660,1322,4741287.0,95,58,454242602,,Interest
+646,valentine weekend,Google Ads,Katamama Resort,2024-03-07,12382,761,22371787.0,77,49,363776539,CRE043,Broad
+647,eid holiday package,Meta Ads,The Mulia Nusa Dua,2024-01-16,52981,537,9018994.0,36,29,169305422,CRE037,Broad
+648,Valentine Weekend ,Email Campaign,Alaya Ubud,2024-01-26,13449,470,21396486.0,21,8,56160440,,Lookalike
+649,Long Weekend Promo,Meta Ads,Bisma Eight,2024-01-16,25798,479,21774851.0,13,4,6920144,CRE044,Broad
+650,Summer Escape 2024,Meta Ads,Katamama Resort,2024-01-15,41522,1462,3752191.0,153,109,505892762,CRE047,Lookalike
+651,Loyalty Member Deal ,Organic,Alaya Ubud,2024-03-22,53357,2178,,253,138,819531492,CRE009,Retargeting
+652,summer escape 2024,Organic,The Mulia Nusa Dua,2024-01-29,60109,2159,17461355.0,46,26,173835168,CRE050,Lookalike
+653,Summer Escape 2024,Meta Ads,Bisma Eight,2024-03-08,76781,2296,18677422.0,235,180,1146580380,CRE024,Lookalike
+654, Flash Sale 48H,Email Campaign,The Mulia Nusa Dua,2024-03-16,45379,910,24985843.0,88,35,109785130,CRE006,Broad
+655,Eid Holiday Package,TikTok Ads,Bisma Eight,2024-01-19,49184,2330,24110943.0,89,58,458308286,CRE050,Retargeting
+656,Eid Holiday Package,Meta Ads,Komaneka Bisma,2024-02-04,62242,3958,2921710.0,285,105,205666650,CRE050,Interest
+657,valentine weekend,TikTok Ads,Bisma Eight,2024-01-24,53810,1947,6125181.0,180,132,792774840,CRE024,Retargeting
+658,Loyalty Member Deal,Email Campaign,Bisma Eight,2024-01-28,79326,3944,16733448.0,281,102,632154894,CRE031,Lookalike
+659,Long Weekend Promo,Google Ads,The Mulia Nusa Dua,2024-03-09,44347,2926,17655083.0,154,70,351399510,,Lookalike
+660,Flash Sale 48H ,Email Campaign,Katamama Resort,2024-02-24,36290,466,,53,31,188738199,CRE018,Interest
+661,Valentine Weekend,TikTok Ads,The Mulia Nusa Dua,2024-02-08,67095,4628,16579567.0,102,31,49199976,CRE010,Retargeting
+662,Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-03-23,79676,1916,1578424.0,153,107,502538661,CRE019,Retargeting
+663,Long Weekend Promo,Google Ads,Alaya Ubud,2024-02-21,14276,1113,2653302.0,111,50,202429550,CRE036,Broad
+664,Summer Escape 2024,Email Campaign,Bisma Eight,2024-02-20,36327,1426,20445561.0,110,79,485606522,CRE041,
+665,Flash Sale 48H,Email Campaign,Alaya Ubud,2024-01-08,79160,3377,2771509.0,372,203,1380540882,CRE025,Broad
+666,Flash Sale 48H,TikTok Ads,Katamama Resort,2024-03-24,33468,2392,5703377.0,228,88,480200160,CRE047,Lookalike
+667,Long Weekend Promo,Organic,The Layar Seminyak,2024-01-14,32900,1585,,84,42,216188532,CRE001,Broad
+668,Flash Sale 48H,TikTok Ads,Bisma Eight,2024-02-29,29030,1362,9366963.0,90,38,125150112,CRE020,Lookalike
+669, Summer Escape 2024,TikTok Ads,Katamama Resort,2024-03-16,34504,700,3325306.0,63,45,267446205,,Retargeting
+670, Long Weekend Promo,Organic,The Layar Seminyak,2024-01-16,39992,2195,22014890.0,146,107,722690947,CRE005,Interest
+671,long weekend promo,Meta Ads,Alaya Ubud,2024-01-01,8385,386,14480088.0,7,6,24667344,,Lookalike
+672,Valentine Weekend,Organic,Bisma Eight,2024-03-25,66676,3465,14608138.0,87,66,145334112,CRE048,Lookalike
+673,flash sale 48h,Meta Ads,Alaya Ubud,2024-03-01,39703,647,18005334.0,49,37,270223025,CRE002,Retargeting
+674,Flash Sale 48H,TikTok Ads,Katamama Resort,2024-03-19,54624,3057,23332672.0,349,251,1750982024,CRE038,Interest
+675,Loyalty Member Deal,Organic,Bisma Eight,2024-03-26,38368,2233,23803849.0,65,36,178622604,CRE026,Lookalike
+676,Long Weekend Promo,TikTok Ads,Bisma Eight,2024-01-07,46891,2483,14955551.0,132,41,252049222,CRE041,Retargeting
+677, Valentine Weekend,Organic,Katamama Resort,2024-03-12,40313,891,15195376.0,56,23,158989570,CRE043,Retargeting
+678,flash sale 48h,Email Campaign,Bisma Eight,2024-02-06,11493,166,3911020.0,15,4,23386924,CRE037,Retargeting
+679,Eid Holiday Package,Meta Ads,Katamama Resort,2024-01-08,44103,1374,8994673.0,78,52,183930032,CRE043,
+680,Summer Escape 2024,Email Campaign,The Mulia Nusa Dua,2024-03-06,26097,1717,5737437.0,151,81,366942312,CRE012,Retargeting
+681,Long Weekend Promo,TikTok Ads,The Mulia Nusa Dua,2024-01-16,6515,119,13910061.0,6,2,6270348,CRE008,
+682,Loyalty Member Deal,Google Ads,Katamama Resort,2024-02-04,62337,4303,17361584.0,513,276,1473202716,CRE002,Broad
+683,Long Weekend Promo,Meta Ads,The Layar Seminyak,2024-01-14,58861,3093,23973822.0,74,65,136561945,,Broad
+684,Valentine Weekend,Organic,Komaneka Bisma,2024-03-30,54124,4065,3096364.0,285,159,478665525,CRE025,Retargeting
+685,Valentine Weekend,Organic,Alaya Ubud,2024-03-14,27378,1930,4957001.0,118,41,73002181,CRE046,Retargeting
+686,Valentine Weekend,TikTok Ads,Bisma Eight,2024-02-07,23332,1798,5354412.0,41,23,126926213,CRE036,Lookalike
+687, Summer Escape 2024,Google Ads,Bisma Eight,2024-01-10,31099,1607,674463.0,133,110,343245870,CRE036,Retargeting
+688,Summer Escape 2024,TikTok Ads,Katamama Resort,2024-03-28,79101,3135,19803454.0,157,99,520784055,CRE011,Retargeting
+689,Eid Holiday Package,Meta Ads,The Mulia Nusa Dua,2024-01-04,44842,1919,16811587.0,54,44,206628576,CRE037,Retargeting
+690,valentine weekend,TikTok Ads,Bisma Eight,2024-01-23,25525,556,9069880.0,62,34,198855596,CRE011,Retargeting
+691,Loyalty Member Deal,Google Ads,Katamama Resort,2024-03-14,50650,2207,11017878.0,158,97,399625644,CRE050,Lookalike
+692,Eid Holiday Package,TikTok Ads,Katamama Resort,2024-02-26,34981,1627,21782370.0,186,69,223743678,,Interest
+693,Summer Escape 2024,Email Campaign,The Mulia Nusa Dua,2024-02-21,51286,2432,22658698.0,233,183,1117010955,CRE047,Lookalike
+694,Valentine Weekend,Email Campaign,Alaya Ubud,2024-01-16,31575,2412,2697237.0,89,27,152755524,CRE004,Interest
+695,Summer Escape 2024,Meta Ads,Bisma Eight,2024-03-31,18136,611,4455367.0,27,23,36879511,CRE024,Lookalike
+696,valentine weekend,Google Ads,Katamama Resort,2024-01-27,8512,401,18631074.0,22,10,57437930,CRE043,Retargeting
+697,FLASH SALE 48H,Meta Ads,Komaneka Bisma,2024-01-11,28805,1644,22185276.0,194,102,549090378,CRE043,Interest
+698, Flash Sale 48H,Email Campaign,The Mulia Nusa Dua,2024-03-23,46201,973,3407263.0,76,54,400491540,CRE044,Broad
+699,Loyalty Member Deal,TikTok Ads,Bisma Eight,2024-03-09,9933,539,19113569.0,30,25,134339425,CRE049,Interest
+700,Valentine Weekend,TikTok Ads,Komaneka Bisma,2024-03-17,76077,4995,22548680.0,492,396,2268676872,,Broad
+701,Eid Holiday Package,Google Ads,Bisma Eight,2024-03-13,11462,478,10514837.0,21,18,95867820,CRE011,Lookalike
+702,Long Weekend Promo,Email Campaign,The Layar Seminyak,2024-01-14,42256,2143,21869099.0,166,80,145410640,,Lookalike
+703,Long Weekend Promo,Email Campaign,Katamama Resort,2024-03-06,78896,3858,1912402.0,317,109,834055029,CRE020,Retargeting
+704,Loyalty Member Deal,Organic,The Mulia Nusa Dua,2024-01-16,72450,5488,10341043.0,114,47,107109428,CRE013,Lookalike
+705,Flash Sale 48H,Email Campaign,Alaya Ubud,2024-03-22,1005,54,15700061.0,1,0,0,CRE025,Broad
+706,Loyalty Member Deal,Meta Ads,Katamama Resort,2024-02-08,2237,125,,2,1,7289201,CRE034,Lookalike
+707,Flash Sale 48H,Organic,The Layar Seminyak,2024-03-18,52683,2725,1498008.0,58,36,56468232,,Retargeting
+708,LONG WEEKEND PROMO,Email Campaign,The Layar Seminyak,2024-01-30,70423,1092,12411529.0,82,63,174433518,CRE006,Lookalike
+709,Loyalty Member Deal,Google Ads,The Layar Seminyak,2024-01-01,35373,1636,15722414.0,88,62,108010138,CRE018,Broad
+710, Eid Holiday Package,Google Ads,Alaya Ubud,2024-01-12,10502,598,5088639.0,66,52,133557008,CRE001,
+711,eid holiday package,Email Campaign,The Mulia Nusa Dua,2024-03-22,4011,215,16433821.0,4,1,1824788,CRE047,
+712,long weekend promo,Email Campaign,The Layar Seminyak,2024-03-22,2720,59,6167429.0,4,2,8595244,CRE049,
+713,Loyalty Member Deal,Google Ads,Bisma Eight,2024-01-07,72829,5232,13576777.0,615,417,2535451323,CRE018,Retargeting
+714,Valentine Weekend,TikTok Ads,Alaya Ubud,2024-03-08,70900,1527,15465454.0,80,63,319887477,CRE043,Retargeting
+715,Long Weekend Promo,Meta Ads,The Mulia Nusa Dua,2024-01-24,47126,2429,1900409.0,218,150,735449550,CRE045,Retargeting
+716,Eid Holiday Package,Meta Ads,Bisma Eight,2024-03-23,55697,822,1087628.0,53,45,147277890,CRE026,Interest
+717,Eid Holiday Package,Meta Ads,Bisma Eight,2024-02-11,2813,111,18297457.0,6,3,5206020,,
+718,Summer Escape 2024,Organic,Katamama Resort,2024-01-23,29992,1353,20436879.0,158,51,226485033,CRE027,Interest
+719,Flash Sale 48H ,TikTok Ads,The Mulia Nusa Dua,2024-03-22,73175,4438,16288278.0,307,98,202899984,CRE001,Retargeting
+720,Valentine Weekend,TikTok Ads,Katamama Resort,2024-01-04,10705,735,24793288.0,35,26,115220066,CRE015,Broad
+721,flash sale 48h,Organic,The Layar Seminyak,2024-03-16,78403,2496,6978149.0,207,170,480720220,CRE046,Broad
+722,Summer Escape 2024,Google Ads,The Mulia Nusa Dua,2024-02-01,40908,1426,8105728.0,107,45,110539215,,Interest
+723,Valentine Weekend,TikTok Ads,Alaya Ubud,2024-01-26,8858,150,2930966.0,14,11,68641958,CRE014,Broad
+724,Eid Holiday Package,Email Campaign,The Layar Seminyak,2024-01-16,71444,4855,22883197.0,151,78,402258402,CRE008,Retargeting
+725,Loyalty Member Deal ,Organic,The Layar Seminyak,2024-02-09,21975,723,1180417.0,24,11,62807921,CRE015,Retargeting
+726, Loyalty Member Deal,TikTok Ads,The Mulia Nusa Dua,2024-01-07,58020,1341,13724299.0,98,49,347078417,CRE041,Retargeting
+727,Eid Holiday Package,Google Ads,Komaneka Bisma,2024-03-19,63640,4549,20252582.0,375,181,1415115196,CRE020,Lookalike
+728,Long Weekend Promo,Organic,The Mulia Nusa Dua,2024-01-19,29481,1320,23817808.0,137,76,345947212,CRE030,Broad
+729,Summer Escape 2024,Email Campaign,The Layar Seminyak,2024-03-01,30120,1911,13387176.0,147,98,699073592,CRE025,Broad
+730,Valentine Weekend ,Email Campaign,Alaya Ubud,2024-03-02,53053,3964,21343499.0,340,181,1394000641,CRE044,Broad
+731,Long Weekend Promo,Meta Ads,Alaya Ubud,2024-01-05,72907,4218,18148927.0,115,90,275751450,CRE036,Retargeting
+732,Loyalty Member Deal,Google Ads,Bisma Eight,2024-02-05,6052,341,17726404.0,38,30,88861020,CRE047,Broad
+733,Long Weekend Promo,Google Ads,The Layar Seminyak,2024-01-09,4808,234,14858679.0,19,15,110050020,CRE044,Lookalike
+734,Eid Holiday Package,TikTok Ads,Alaya Ubud,2024-01-05,8816,277,5880770.0,16,10,52088660,CRE026,Broad
+735,Long Weekend Promo,Email Campaign,The Layar Seminyak,2024-01-13,53688,1218,4963396.0,123,83,233293578,CRE006,Lookalike
+736,VALENTINE WEEKEND,Google Ads,The Layar Seminyak,2024-02-08,51600,3956,4511161.0,250,162,423061380,CRE026,Retargeting
+737,Summer Escape 2024,Meta Ads,The Layar Seminyak,2024-03-10,32942,832,24818509.0,76,43,183805220,CRE043,Broad
+738,LOYALTY MEMBER DEAL,Meta Ads,Komaneka Bisma,2024-03-20,57237,4317,3612467.0,289,170,386282500,CRE035,Broad
+739,Valentine Weekend,Email Campaign,Alaya Ubud,2024-03-27,41267,2980,15439253.0,268,131,784121067,CRE004,Interest
+740,Eid Holiday Package,TikTok Ads,Katamama Resort,2024-03-12,33744,848,24282641.0,19,15,77756610,CRE032,
+741,loyalty member deal,Email Campaign,Alaya Ubud,2024-01-13,55720,2495,3762018.0,86,32,100469920,CRE021,Interest
+742,Loyalty Member Deal,Organic,Katamama Resort,2024-03-03,68940,4655,4920707.0,526,296,1217610208,CRE010,Lookalike
+743,long weekend promo,Meta Ads,Komaneka Bisma,2024-01-16,10336,159,1703409.0,9,3,18228453,,Broad
+744,Eid Holiday Package,TikTok Ads,Bisma Eight,2024-02-14,16470,780,21453244.0,67,27,160001001,,Interest
+745,Eid Holiday Package,Google Ads,Alaya Ubud,2024-03-28,12749,183,19415779.0,21,9,47787444,CRE042,Interest
+746,Summer Escape 2024 ,Google Ads,Komaneka Bisma,2024-02-14,33608,2199,23870844.0,125,48,208185792,CRE050,Retargeting
+747,Valentine Weekend,Meta Ads,The Mulia Nusa Dua,2024-03-26,17502,1068,17130930.0,89,26,187655962,CRE040,Broad
+748, Valentine Weekend,Meta Ads,The Layar Seminyak,2024-03-18,34121,619,14515496.0,58,18,34778754,CRE029,Retargeting
+749, Valentine Weekend,Google Ads,The Mulia Nusa Dua,2024-01-07,59218,1271,6785507.0,97,45,174559905,CRE015,Interest
+750,Summer Escape 2024,Organic,The Layar Seminyak,2024-03-11,68798,1945,7034616.0,85,26,39908544,CRE001,Retargeting
+751,Loyalty Member Deal,Email Campaign,Alaya Ubud,2024-01-06,47339,1315,14673379.0,61,35,66029845,CRE034,Interest
+752,Eid Holiday Package,Meta Ads,The Layar Seminyak,2024-03-06,55473,1423,15400067.0,88,69,124186752,CRE026,Broad
+753,Loyalty Member Deal,Meta Ads,The Mulia Nusa Dua,2024-01-26,3687,171,23451167.0,6,2,5126052,CRE046,Broad
+754,Summer Escape 2024 ,Organic,Katamama Resort,2024-03-12,16386,735,4779989.0,23,17,38900471,CRE015,Retargeting
+755,FLASH SALE 48H,Meta Ads,The Mulia Nusa Dua,2024-01-28,73559,3017,10620201.0,75,38,140734254,,Lookalike
+756,Summer Escape 2024,Email Campaign,The Layar Seminyak,2024-03-06,2376,98,17751685.0,11,4,22550928,CRE005,Retargeting
+757,Flash Sale 48H,Organic,Alaya Ubud,2024-02-25,9569,142,19024433.0,3,1,4193889,CRE044,Retargeting
+758,Eid Holiday Package,Organic,Komaneka Bisma,2024-02-17,53530,1659,22407286.0,122,42,70770168,CRE034,Interest
+759,Loyalty Member Deal,TikTok Ads,The Mulia Nusa Dua,2024-02-12,12388,215,16180336.0,18,6,40304364,CRE026,Interest
+760, Valentine Weekend,Email Campaign,Komaneka Bisma,2024-01-02,34288,1399,21566936.0,52,40,206371280,CRE003,Broad
+761,Flash Sale 48H ,Email Campaign,The Mulia Nusa Dua,2024-02-19,55029,688,18976710.0,30,21,128856672,CRE004,Retargeting
+762,Valentine Weekend,TikTok Ads,The Mulia Nusa Dua,2024-02-07,65915,1094,13755358.0,91,81,188629884,,Interest
+763,loyalty member deal,Meta Ads,Alaya Ubud,2024-03-30,22417,752,12649087.0,81,45,186507360,CRE016,Broad
+764,Loyalty Member Deal,Google Ads,Bisma Eight,2024-02-26,57697,2573,,182,85,350436130,,Lookalike
+765, Loyalty Member Deal,Google Ads,Alaya Ubud,2024-03-02,12441,860,24338106.0,88,27,61880301,CRE022,Interest
+766,Summer Escape 2024,Google Ads,Alaya Ubud,2024-01-01,55293,2272,9827474.0,234,107,844371240,,Lookalike
+767,Loyalty Member Deal,Google Ads,Bisma Eight,2024-01-08,54567,2095,3582392.0,84,47,233867817,,Lookalike
+768, Loyalty Member Deal,TikTok Ads,Komaneka Bisma,2024-01-22,45864,2959,3581698.0,262,181,592265485,CRE017,
+769,Valentine Weekend,Email Campaign,The Mulia Nusa Dua,2024-01-28,54184,2195,15362516.0,161,71,176578633,CRE048,Retargeting
+770,eid holiday package,TikTok Ads,The Layar Seminyak,2024-01-30,16813,1154,13461785.0,80,27,76602456,CRE044,Lookalike
+771,Long Weekend Promo,Organic,Katamama Resort,2024-03-28,13927,801,7391128.0,80,27,87702750,CRE017,Retargeting
+772,Valentine Weekend,Meta Ads,Komaneka Bisma,2024-03-20,31652,1252,3984489.0,25,19,96615171,CRE003,Retargeting
+773,Loyalty Member Deal,Google Ads,Komaneka Bisma,2024-01-05,68430,2573,13910952.0,108,47,121365468,CRE047,Interest
+774,Flash Sale 48H,Organic,Alaya Ubud,2024-03-14,14994,481,1578939.0,24,10,46999600,CRE050,Broad
+775,VALENTINE WEEKEND,Email Campaign,Bisma Eight,2024-03-23,6963,319,18149687.0,27,24,42910656,CRE015,
+776,LOYALTY MEMBER DEAL,Meta Ads,The Mulia Nusa Dua,2024-01-06,12653,202,14431028.0,8,4,25786220,CRE019,Retargeting
+777,Loyalty Member Deal ,TikTok Ads,The Layar Seminyak,2024-02-06,47704,3642,22258977.0,283,134,1052016714,CRE046,Retargeting
+778,long weekend promo,Organic,Katamama Resort,2024-03-17,26669,937,6749613.0,84,71,388265417,CRE034,Retargeting
+779,Valentine Weekend,Organic,Alaya Ubud,2024-02-17,29784,1994,14740882.0,193,170,725772330,CRE034,
+780,Loyalty Member Deal ,TikTok Ads,Alaya Ubud,2024-02-17,44586,1750,5336817.0,180,151,856430475,,Retargeting
+781,Summer Escape 2024,TikTok Ads,Alaya Ubud,2024-02-17,2217,23,14713898.0,2,1,2668579,CRE014,Lookalike
+782,valentine weekend,TikTok Ads,Bisma Eight,2024-02-05,67155,3078,9924768.0,195,169,449759869,CRE038,Retargeting
+783,VALENTINE WEEKEND,Meta Ads,Alaya Ubud,2024-01-05,22329,1295,18331367.0,106,56,219700096,CRE024,Interest
+784,Flash Sale 48H,Email Campaign,The Mulia Nusa Dua,2024-02-29,25001,294,5560898.0,23,9,22269753,,Broad
+785,Flash Sale 48H,Meta Ads,The Layar Seminyak,2024-01-04,50639,2869,24571509.0,222,149,974385202,CRE046,Lookalike
+786,Summer Escape 2024,Organic,Katamama Resort,2024-01-15,46069,3506,4203727.0,393,328,2509128496,CRE034,Broad
+787,Valentine Weekend ,Email Campaign,Komaneka Bisma,2024-02-15,61755,4133,1668964.0,354,293,710716329,CRE014,Interest
+788,Summer Escape 2024,Google Ads,Katamama Resort,2024-03-02,3245,214,23648845.0,11,5,20453210,CRE034,Lookalike
+789,Loyalty Member Deal,Google Ads,Komaneka Bisma,2024-03-08,47985,2859,,57,24,178597056,CRE049,Retargeting
+790,Flash Sale 48H,Google Ads,The Layar Seminyak,2024-02-17,60101,2048,3306100.0,56,19,90146203,CRE030,Retargeting
+791,Valentine Weekend,Organic,Katamama Resort,2024-01-01,69100,5028,14570224.0,386,290,1562752290,CRE018,Lookalike
+792,Flash Sale 48H,Meta Ads,Bisma Eight,2024-01-22,17921,765,20190446.0,82,64,457205312,CRE031,Lookalike
+793,Valentine Weekend,Email Campaign,Katamama Resort,2024-01-04,67447,4798,5151807.0,253,81,373595328,,Retargeting
+794,Loyalty Member Deal,Organic,The Mulia Nusa Dua,2024-02-14,9437,189,23888581.0,8,6,16273494,CRE014,Broad
+795,Valentine Weekend ,TikTok Ads,The Mulia Nusa Dua,2024-01-05,53486,2764,6441983.0,273,234,701754300,CRE029,Interest
+796,Eid Holiday Package,Google Ads,Alaya Ubud,2024-02-03,77693,3865,2859255.0,241,212,832711832,CRE017,Retargeting
+797,Valentine Weekend,Email Campaign,Katamama Resort,2024-02-14,24109,452,9614174.0,46,24,57443808,CRE041,Lookalike
+798,Eid Holiday Package,Meta Ads,Katamama Resort,2024-03-23,7827,394,11129913.0,22,7,37150379,CRE017,Lookalike
+799,Valentine Weekend,Email Campaign,The Layar Seminyak,2024-03-18,70347,4894,1295370.0,228,114,607239468,CRE034,Retargeting
+800,Eid Holiday Package,Meta Ads,Bisma Eight,2024-03-09,16702,404,6774061.0,40,12,94927260,CRE005,Broad
+801,Loyalty Member Deal,Organic,Katamama Resort,2024-02-25,70359,4451,7196093.0,136,98,632558836,CRE042,Interest
+802,Summer Escape 2024,Meta Ads,Katamama Resort,2024-03-12,65612,3254,,264,121,707144086,CRE025,Retargeting
+803,Flash Sale 48H,Meta Ads,Bisma Eight,2024-01-01,9387,728,,55,24,164091960,CRE018,Lookalike
+804,long weekend promo,Organic,The Layar Seminyak,2024-01-15,870,36,20397887.0,1,0,0,CRE046,Retargeting
+805, Valentine Weekend,Google Ads,Komaneka Bisma,2024-01-28,71038,4910,18248250.0,100,89,562433275,CRE033,Broad
+806,Valentine Weekend,Google Ads,Katamama Resort,2024-01-25,54097,1771,8008098.0,70,51,262012857,CRE044,Interest
+807,Flash Sale 48H,Organic,The Mulia Nusa Dua,2024-01-30,53324,3266,19689373.0,374,335,2027373100,CRE009,
+808,Eid Holiday Package,TikTok Ads,The Mulia Nusa Dua,2024-01-17,17747,279,4068413.0,12,4,31450052,CRE009,Lookalike
+809,Eid Holiday Package,Email Campaign,Katamama Resort,2024-03-17,25912,954,8728302.0,100,32,152478528,CRE005,Interest
+810,VALENTINE WEEKEND,TikTok Ads,Alaya Ubud,2024-02-05,22190,1301,3416510.0,128,40,252026360,CRE010,Broad
+811,Loyalty Member Deal,Google Ads,The Layar Seminyak,2024-03-15,26094,1035,1126672.0,36,27,190279287,,Lookalike
+812,Eid Holiday Package,Google Ads,Katamama Resort,2024-02-13,25060,1076,1752996.0,104,80,314654480,CRE042,
+813,Valentine Weekend ,Google Ads,The Mulia Nusa Dua,2024-03-19,21635,774,15572999.0,23,11,25964521,CRE017,Retargeting
+814, Flash Sale 48H,Organic,The Layar Seminyak,2024-01-06,77534,1233,,135,104,569275408,CRE044,Lookalike
+815,loyalty member deal,Google Ads,The Mulia Nusa Dua,2024-02-24,33374,1672,24529608.0,136,95,340151490,CRE031,Interest
+816, Loyalty Member Deal,Google Ads,The Mulia Nusa Dua,2024-02-28,3841,204,22534302.0,24,16,121163344,CRE019,Retargeting
+817,Summer Escape 2024,Email Campaign,Katamama Resort,2024-02-25,35421,1420,7739687.0,135,118,190455776,CRE044,Retargeting
+818,Long Weekend Promo,Meta Ads,Komaneka Bisma,2024-03-28,59451,4367,8607565.0,157,64,224510720,,Interest
+819,FLASH SALE 48H,Organic,The Layar Seminyak,2024-02-08,16973,633,13902717.0,15,5,22805125,CRE039,Broad
+820,Valentine Weekend,Organic,The Layar Seminyak,2024-02-28,39774,1619,1474404.0,99,56,350202384,CRE032,Broad
+821,Summer Escape 2024,Organic,The Layar Seminyak,2024-03-18,10375,778,611845.0,35,30,236632860,CRE023,Broad
+822, Valentine Weekend,Organic,Komaneka Bisma,2024-02-04,65774,4571,23082767.0,510,404,1448091944,CRE020,Broad
+823,Flash Sale 48H,Google Ads,Bisma Eight,2024-02-25,65157,3250,3733314.0,139,46,189346580,CRE045,Lookalike
+824, Loyalty Member Deal,Google Ads,Alaya Ubud,2024-01-12,36294,1089,21470261.0,75,31,197859391,CRE035,Broad
+825, Loyalty Member Deal,TikTok Ads,Bisma Eight,2024-02-08,62475,1204,3117725.0,105,33,153283251,CRE037,Broad
+826,Eid Holiday Package,Organic,Alaya Ubud,2024-02-07,45088,3509,5773000.0,127,99,751976181,CRE008,Retargeting
+827,Long Weekend Promo,TikTok Ads,The Mulia Nusa Dua,2024-03-09,27960,611,9422610.0,70,53,214412825,CRE011,Broad
+828,Loyalty Member Deal,TikTok Ads,The Mulia Nusa Dua,2024-03-04,58666,3906,10969178.0,291,112,338199680,CRE019,
+829,Flash Sale 48H,Google Ads,Bisma Eight,2024-01-07,56867,2548,14217650.0,143,61,375166592,CRE010,Broad
+830,long weekend promo,Meta Ads,The Mulia Nusa Dua,2024-02-20,78319,5488,18002751.0,528,318,762144876,CRE007,Broad
+831,Loyalty Member Deal,Meta Ads,Alaya Ubud,2024-01-04,67944,3297,3992709.0,292,165,803203830,CRE001,Retargeting
+832,loyalty member deal,Meta Ads,Alaya Ubud,2024-02-20,16020,930,5592625.0,45,29,91439494,,Retargeting
+833,EID HOLIDAY PACKAGE,Organic,The Mulia Nusa Dua,2024-02-21,32139,1303,19677860.0,103,43,95640385,CRE013,Retargeting
+834,Summer Escape 2024,Email Campaign,Alaya Ubud,2024-02-10,14215,941,1210120.0,81,64,476318464,CRE029,Broad
+835,Long Weekend Promo,Google Ads,The Layar Seminyak,2024-02-27,36735,1757,24843358.0,154,64,241211328,CRE009,Broad
+836,Eid Holiday Package,Google Ads,Alaya Ubud,2024-03-26,75802,1811,16932802.0,142,94,166216252,CRE017,Broad
+837,Valentine Weekend,Google Ads,Katamama Resort,2024-02-27,59068,1921,8534411.0,191,63,113587173,CRE006,Lookalike
+838,Long Weekend Promo,Organic,Bisma Eight,2024-02-07,38214,590,15435747.0,44,21,136182522,CRE025,
+839,Loyalty Member Deal,Google Ads,Alaya Ubud,2024-03-17,52777,3233,11827237.0,69,40,147534360,,Retargeting
+840,summer escape 2024,Email Campaign,The Mulia Nusa Dua,2024-02-26,13061,674,8348024.0,70,47,350099898,CRE036,Retargeting
+841,loyalty member deal,Email Campaign,Alaya Ubud,2024-02-14,74469,1481,18883335.0,109,88,162254576,CRE049,Lookalike
+842,Valentine Weekend,Email Campaign,Katamama Resort,2024-03-04,21570,1704,18608691.0,158,110,879213170,CRE006,Retargeting
+843,Eid Holiday Package,Organic,The Mulia Nusa Dua,2024-02-10,20723,1410,18598734.0,155,55,418560120,CRE050,
+844, Valentine Weekend,Google Ads,Alaya Ubud,2024-03-22,16618,670,16643695.0,74,50,198689650,CRE004,
+845,Valentine Weekend,Meta Ads,The Mulia Nusa Dua,2024-02-10,70106,1777,5296068.0,157,52,180773476,CRE004,Retargeting
+846,Valentine Weekend,TikTok Ads,The Layar Seminyak,2024-01-28,72008,3243,23904289.0,189,129,538785528,CRE015,Retargeting
+847,Loyalty Member Deal,Meta Ads,The Layar Seminyak,2024-03-22,3721,292,8936863.0,13,7,48535452,CRE024,Broad
+848,Summer Escape 2024,Google Ads,The Mulia Nusa Dua,2024-03-10,31905,1852,11745990.0,184,81,274910517,CRE039,Broad
+849,Valentine Weekend,TikTok Ads,The Mulia Nusa Dua,2024-02-18,36648,2350,21447036.0,236,171,691466544,CRE041,Interest
+850,Loyalty Member Deal,Google Ads,Katamama Resort,2024-02-25,12242,583,3518530.0,48,14,97054048,CRE011,Retargeting
+851,Summer Escape 2024,TikTok Ads,Alaya Ubud,2024-01-28,23720,1296,1228285.0,154,110,280845070,CRE022,Retargeting
+852,Eid Holiday Package ,TikTok Ads,Katamama Resort,2024-02-15,4322,245,10580888.0,25,8,31022760,CRE016,Lookalike
+853,LOYALTY MEMBER DEAL,Meta Ads,Alaya Ubud,2024-03-11,21776,954,9983761.0,31,14,22433068,,Lookalike
+854,Eid Holiday Package ,Google Ads,The Mulia Nusa Dua,2024-03-24,24758,583,19092847.0,65,20,74881180,CRE040,Interest
+855,Valentine Weekend,Meta Ads,Bisma Eight,2024-01-01,48076,1717,3246818.0,195,77,244684363,CRE032,Retargeting
+856,Summer Escape 2024 ,Google Ads,Alaya Ubud,2024-01-31,48068,2303,24424101.0,114,59,327931204,CRE038,Broad
+857,Eid Holiday Package,TikTok Ads,Katamama Resort,2024-01-04,863,16,3592534.0,1,0,0,,Broad
+858, Valentine Weekend,Google Ads,Katamama Resort,2024-01-17,30193,484,3062606.0,44,31,230108164,CRE046,
+859,summer escape 2024,Email Campaign,Katamama Resort,2024-03-18,78273,1995,12436823.0,148,61,402095774,CRE043,Lookalike
+860, Valentine Weekend,TikTok Ads,Katamama Resort,2024-01-23,77635,1468,4073108.0,107,33,61919187,CRE028,Retargeting
+861,Summer Escape 2024,TikTok Ads,The Mulia Nusa Dua,2024-03-25,5997,283,17107920.0,32,24,187491096,CRE017,
+862,flash sale 48h,TikTok Ads,The Layar Seminyak,2024-01-05,24048,417,19043260.0,37,24,129017184,CRE038,Lookalike
+863,long weekend promo,TikTok Ads,The Layar Seminyak,2024-03-26,64903,1805,14761470.0,166,53,398058832,,Retargeting
+864,Flash Sale 48H,Meta Ads,Bisma Eight,2024-03-07,32307,1729,2904685.0,162,130,620875840,CRE042,Broad
+865,Loyalty Member Deal,TikTok Ads,The Layar Seminyak,2024-03-29,54609,1367,8521349.0,150,90,447251040,CRE041,
+866,Eid Holiday Package,Organic,The Mulia Nusa Dua,2024-03-25,70918,3869,22678181.0,282,192,1490138496,CRE033,Lookalike
+867,Summer Escape 2024,Organic,The Layar Seminyak,2024-01-08,23003,998,9947666.0,67,20,153832120,,Lookalike
+868,Flash Sale 48H ,Meta Ads,Alaya Ubud,2024-01-16,64665,2762,21865514.0,147,47,314217466,CRE015,Broad
+869,Long Weekend Promo,TikTok Ads,Katamama Resort,2024-02-24,22686,1469,16548003.0,147,128,547920768,CRE012,Retargeting
+870, Flash Sale 48H,Google Ads,Komaneka Bisma,2024-01-15,14257,914,18520298.0,50,38,210866712,CRE026,Lookalike
+871,long weekend promo,TikTok Ads,Alaya Ubud,2024-02-03,61795,3917,,309,130,784310020,CRE036,Retargeting
+872,Valentine Weekend,TikTok Ads,The Layar Seminyak,2024-03-13,22759,928,3519949.0,108,76,277093492,CRE017,Broad
+873,Flash Sale 48H,TikTok Ads,Komaneka Bisma,2024-01-22,71501,3436,6999455.0,81,67,415828532,,Retargeting
+874,Valentine Weekend,Meta Ads,Katamama Resort,2024-03-14,57168,1457,6626264.0,174,105,216831825,CRE043,Retargeting
+875,Long Weekend Promo ,Google Ads,Komaneka Bisma,2024-01-10,72694,2918,15931023.0,162,50,181064450,CRE010,Broad
+876,Eid Holiday Package,Meta Ads,The Layar Seminyak,2024-01-13,38561,574,13146489.0,17,15,63366015,,Broad
+877,Long Weekend Promo,Google Ads,Komaneka Bisma,2024-01-04,7514,538,1497737.0,19,10,16631490,CRE010,Broad
+878,Eid Holiday Package,Google Ads,The Mulia Nusa Dua,2024-01-13,65405,3392,4458573.0,122,46,138684434,,Retargeting
+879,Flash Sale 48H,Organic,Komaneka Bisma,2024-02-05,59247,615,7471088.0,42,27,123390540,CRE007,Retargeting
+880,Summer Escape 2024,Google Ads,The Mulia Nusa Dua,2024-01-29,25011,333,16362129.0,29,24,37411800,CRE026,Lookalike
+881,Flash Sale 48H,Google Ads,Alaya Ubud,2024-03-10,44352,3365,7865534.0,361,285,460035885,CRE024,Broad
+882,Loyalty Member Deal ,Organic,Katamama Resort,2024-01-29,34902,1072,22672218.0,123,66,267489948,CRE003,Retargeting
+883,long weekend promo,Organic,Bisma Eight,2024-02-05,20158,1276,9724193.0,40,18,31437522,CRE014,Retargeting
+884,Flash Sale 48H,Email Campaign,The Mulia Nusa Dua,2024-02-26,38027,1308,21232172.0,140,87,147703989,CRE030,Broad
+885,Loyalty Member Deal,Google Ads,Katamama Resort,2024-01-16,70542,3980,11204359.0,317,167,926784870,CRE022,Broad
+886,Summer Escape 2024,TikTok Ads,Komaneka Bisma,2024-01-29,77941,1230,712078.0,75,30,62985570,CRE027,Interest
+887,Eid Holiday Package,Google Ads,The Mulia Nusa Dua,2024-02-10,74553,3225,8180052.0,297,147,850102617,CRE023,Broad
+888,Eid Holiday Package,TikTok Ads,Alaya Ubud,2024-02-05,56989,1029,11771985.0,67,21,70655802,CRE027,Broad
+889,Eid Holiday Package,Email Campaign,The Mulia Nusa Dua,2024-03-10,63201,3029,7219925.0,254,104,512826808,CRE004,Broad
+890,Summer Escape 2024,Google Ads,Bisma Eight,2024-01-28,55574,3603,5028663.0,392,338,1145639846,CRE036,Lookalike
+891,loyalty member deal,Meta Ads,Katamama Resort,2024-01-23,25127,1870,8858058.0,38,19,146630258,CRE007,Lookalike
+892, Eid Holiday Package,Meta Ads,Bisma Eight,2024-02-29,72425,5204,,500,388,1313687684,CRE005,Broad
+893,Loyalty Member Deal,Meta Ads,Katamama Resort,2024-03-15,72297,3138,14641447.0,194,119,735183428,CRE030,Interest
+894,Summer Escape 2024,Organic,Bisma Eight,2024-03-21,26853,654,16743200.0,45,23,59090726,CRE004,
+895,Long Weekend Promo ,Google Ads,The Layar Seminyak,2024-03-19,54462,4142,14077965.0,363,157,499533023,CRE005,Broad
+896,Loyalty Member Deal,Organic,The Mulia Nusa Dua,2024-01-12,1988,26,2079770.0,1,0,0,,
+897, Flash Sale 48H,Organic,Alaya Ubud,2024-02-04,6554,457,8785579.0,36,13,79067820,CRE037,Retargeting
+898,Eid Holiday Package,Meta Ads,The Layar Seminyak,2024-01-09,14631,297,9253332.0,19,6,37934970,,Interest
+899,Valentine Weekend,TikTok Ads,The Layar Seminyak,2024-01-18,41016,734,21021717.0,62,53,121599225,,Broad
+900,Long Weekend Promo,Email Campaign,Bisma Eight,2024-01-31,42995,1458,,118,47,123327718,CRE013,Broad
+901,flash sale 48h,Meta Ads,Komaneka Bisma,2024-01-19,4451,88,9585283.0,4,1,7642445,CRE003,Broad
+902,flash sale 48h,TikTok Ads,The Mulia Nusa Dua,2024-01-23,1244,47,8271071.0,5,2,14955720,CRE021,Retargeting
+903,Summer Escape 2024,Google Ads,Katamama Resort,2024-01-13,64890,4261,5899592.0,436,273,700445109,,Broad
+904,Loyalty Member Deal,Meta Ads,Bisma Eight,2024-02-16,72229,3695,2134462.0,415,278,2223310282,CRE017,
+905,Summer Escape 2024 ,Organic,The Layar Seminyak,2024-01-13,3494,209,17829527.0,18,13,23772970,CRE019,Broad
+906,Eid Holiday Package,Google Ads,The Mulia Nusa Dua,2024-02-05,15382,450,,33,28,151010440,CRE030,Broad
+907,Valentine Weekend,TikTok Ads,Bisma Eight,2024-01-24,37515,462,15535271.0,26,21,109045713,CRE015,
+908,Eid Holiday Package,TikTok Ads,Bisma Eight,2024-02-28,66300,897,3081247.0,29,21,69366129,CRE008,Retargeting
+909,Valentine Weekend,TikTok Ads,Komaneka Bisma,2024-01-26,23719,1372,4236719.0,71,63,418935510,CRE027,Broad
+910,Eid Holiday Package ,Google Ads,Katamama Resort,2024-01-17,3050,203,5104714.0,21,8,12469904,CRE050,
+911,Summer Escape 2024,TikTok Ads,Katamama Resort,2024-01-23,78134,4267,20792144.0,480,373,2547402008,CRE029,Interest
+912,Flash Sale 48H ,Meta Ads,Bisma Eight,2024-03-13,50173,3162,20317290.0,213,96,262284096,,Interest
+913,Loyalty Member Deal,Organic,Bisma Eight,2024-01-20,66881,1555,3351697.0,175,124,216034908,CRE044,Lookalike
+914,Valentine Weekend,Organic,The Mulia Nusa Dua,2024-03-27,8798,146,20730614.0,9,5,38530800,CRE044,
+915,Summer Escape 2024 ,Organic,Bisma Eight,2024-01-05,4656,77,12702812.0,3,1,6464296,CRE007,Interest
+916, Summer Escape 2024,Google Ads,The Mulia Nusa Dua,2024-02-04,40824,721,9645405.0,73,59,344477459,CRE028,Lookalike
+917,Valentine Weekend,Email Campaign,The Mulia Nusa Dua,2024-03-25,56594,1221,19178276.0,80,28,55215636,,Broad
+918,EID HOLIDAY PACKAGE,Organic,Alaya Ubud,2024-03-19,42061,3200,8069073.0,378,200,822709200,CRE039,Interest
+919,Flash Sale 48H,Email Campaign,Komaneka Bisma,2024-01-28,24458,295,5404976.0,26,19,59508665,CRE026,Interest
+920,Summer Escape 2024,TikTok Ads,Komaneka Bisma,2024-03-21,34374,1254,4079455.0,75,37,103322981,CRE032,Broad
+921,Flash Sale 48H,Meta Ads,Bisma Eight,2024-01-28,30405,1099,1470955.0,25,14,51419522,CRE037,Broad
+922,eid holiday package,Google Ads,Bisma Eight,2024-01-30,5743,102,10240897.0,2,1,3363104,CRE029,Lookalike
+923,Valentine Weekend,TikTok Ads,Katamama Resort,2024-01-06,19868,528,21194307.0,26,19,87246632,CRE023,Lookalike
+924,Loyalty Member Deal,Google Ads,Alaya Ubud,2024-03-01,25565,1036,9066628.0,46,20,139123060,CRE023,Interest
+925,summer escape 2024,Organic,Komaneka Bisma,2024-02-17,51772,1178,6042510.0,48,35,102974550,CRE003,Interest
+926,Summer Escape 2024,Organic,Bisma Eight,2024-02-12,71774,2182,4266282.0,57,40,128785440,CRE029,Lookalike
+927,Summer Escape 2024,Meta Ads,The Layar Seminyak,2024-02-26,60223,1697,16507068.0,194,135,1057440555,CRE034,Lookalike
+928,Loyalty Member Deal,Meta Ads,Bisma Eight,2024-02-01,38036,2294,15238234.0,50,27,101582478,CRE041,Interest
+929,Valentine Weekend,Google Ads,Bisma Eight,2024-03-11,69570,906,2359648.0,25,21,83849283,,Interest
+930,Summer Escape 2024,Meta Ads,The Layar Seminyak,2024-02-19,11354,383,16073465.0,37,24,77034072,CRE007,Lookalike
+931,Long Weekend Promo,Google Ads,Komaneka Bisma,2024-02-13,16804,1320,15970820.0,124,70,200235490,CRE031,Interest
+932,Long Weekend Promo,Email Campaign,Komaneka Bisma,2024-03-29,31230,537,13881436.0,12,4,19996552,CRE021,Broad
+933,Valentine Weekend,Organic,Bisma Eight,2024-01-08,75027,1350,12401341.0,67,55,420176185,CRE039,Interest
+934,Long Weekend Promo,Meta Ads,Katamama Resort,2024-03-22,4261,137,22272505.0,7,2,12102994,CRE028,Interest
+935,Flash Sale 48H,Google Ads,Katamama Resort,2024-03-23,18991,1377,24743264.0,106,38,88960204,CRE013,Lookalike
+936,Loyalty Member Deal,Google Ads,Alaya Ubud,2024-03-01,7594,332,,9,3,6134991,CRE037,Interest
+937,Flash Sale 48H,Email Campaign,The Layar Seminyak,2024-03-09,27943,1269,24990677.0,53,30,63037140,CRE031,Lookalike
+938,Flash Sale 48H,Google Ads,The Layar Seminyak,2024-02-26,11670,496,16653875.0,37,23,111282671,,Interest
+939, Valentine Weekend,TikTok Ads,The Mulia Nusa Dua,2024-01-11,35999,888,19651322.0,74,24,37968264,CRE049,Lookalike
+940, Flash Sale 48H,Meta Ads,Bisma Eight,2024-01-03,17634,965,9157626.0,45,19,142620992,CRE048,Retargeting
+941,Summer Escape 2024,Organic,Alaya Ubud,2024-02-06,53100,2042,20771987.0,45,20,57299260,CRE024,Broad
+942,Eid Holiday Package,Meta Ads,The Layar Seminyak,2024-01-24,60235,2423,6034202.0,139,122,347459904,CRE031,Retargeting
+943,Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-01-03,54229,4030,24483240.0,106,46,276387228,,Interest
+944,Loyalty Member Deal,TikTok Ads,The Mulia Nusa Dua,2024-03-07,54645,1716,24058402.0,52,32,204209824,,
+945,Flash Sale 48H,Email Campaign,Alaya Ubud,2024-03-23,39477,2381,8082390.0,144,126,880838028,CRE033,Retargeting
+946,Valentine Weekend,Meta Ads,Bisma Eight,2024-03-16,50796,3287,24561795.0,333,283,630923030,CRE047,Retargeting
+947,loyalty member deal,Meta Ads,Alaya Ubud,2024-01-22,38970,1874,19254852.0,110,73,215970792,CRE001,Lookalike
+948,Eid Holiday Package,TikTok Ads,The Layar Seminyak,2024-01-06,33565,1619,20791485.0,166,90,245689200,CRE032,Lookalike
+949, Long Weekend Promo,Email Campaign,The Mulia Nusa Dua,2024-03-29,57230,4519,16386310.0,486,337,1387753531,,Broad
+950,Summer Escape 2024,Email Campaign,The Layar Seminyak,2024-01-19,67597,3719,1851168.0,352,156,548575404,,Lookalike
+951,Summer Escape 2024,Meta Ads,The Layar Seminyak,2024-02-23,58952,2678,4687029.0,169,74,232632098,CRE042,Retargeting
+952, Valentine Weekend,Organic,The Mulia Nusa Dua,2024-03-31,55943,1896,17792887.0,42,28,189419328,CRE009,Broad
+953,long weekend promo,Meta Ads,The Layar Seminyak,2024-03-25,14536,200,15727382.0,4,1,7465943,CRE032,Retargeting
+954,Eid Holiday Package,Google Ads,Komaneka Bisma,2024-03-24,60984,3474,11296555.0,209,180,787043340,,Retargeting
+955,Long Weekend Promo,TikTok Ads,Bisma Eight,2024-02-24,75085,1881,7599996.0,196,126,384653682,CRE025,Lookalike
+956,Eid Holiday Package,Organic,The Mulia Nusa Dua,2024-03-19,47135,3344,3881702.0,211,79,440234294,,Retargeting
+957,Loyalty Member Deal,TikTok Ads,Bisma Eight,2024-01-06,19885,478,22715973.0,23,14,39736382,CRE013,Lookalike
+958,Flash Sale 48H,TikTok Ads,Bisma Eight,2024-01-07,29408,975,1237926.0,88,66,257710530,CRE031,Interest
+959, Summer Escape 2024,TikTok Ads,Katamama Resort,2024-02-08,2488,68,9895828.0,5,2,8716132,CRE031,Retargeting
+960,EID HOLIDAY PACKAGE,Google Ads,Komaneka Bisma,2024-03-20,54855,1452,12751012.0,71,44,334935392,CRE026,Retargeting
+961,Loyalty Member Deal,Organic,Alaya Ubud,2024-01-01,3771,266,3726938.0,12,7,18331964,CRE035,Broad
+962,Summer Escape 2024,Meta Ads,The Mulia Nusa Dua,2024-02-26,63842,2802,16689537.0,165,50,287050250,CRE046,Retargeting
+963,Eid Holiday Package,Email Campaign,The Mulia Nusa Dua,2024-03-11,12847,958,1956576.0,42,20,102084760,CRE006,Broad
+964, Flash Sale 48H,Google Ads,The Mulia Nusa Dua,2024-03-25,42914,805,5208483.0,46,24,127257720,CRE050,
+965,Flash Sale 48H,Google Ads,Bisma Eight,2024-01-15,47891,1263,5256913.0,67,50,193590950,,Interest
+966,Valentine Weekend,Google Ads,The Mulia Nusa Dua,2024-01-27,29648,824,12811651.0,88,72,140226192,CRE001,Lookalike
+967, Summer Escape 2024,Organic,The Layar Seminyak,2024-02-15,62790,696,8933052.0,25,21,84890568,CRE039,Broad
+968, Summer Escape 2024,Organic,Alaya Ubud,2024-02-18,78285,1535,6071039.0,68,23,128360723,CRE011,Interest
+969,Eid Holiday Package,TikTok Ads,Katamama Resort,2024-02-09,17463,478,11565512.0,52,30,119726910,,Broad
+970,Summer Escape 2024,Meta Ads,The Mulia Nusa Dua,2024-01-10,15996,1181,19827127.0,24,16,86960464,CRE038,Interest
+971,Summer Escape 2024,Meta Ads,Komaneka Bisma,2024-01-04,32690,2271,16380018.0,204,177,732481224,CRE014,Broad
+972, Valentine Weekend,Email Campaign,Komaneka Bisma,2024-02-15,58283,3804,7652713.0,216,174,490690266,CRE010,Broad
+973,summer escape 2024,TikTok Ads,Bisma Eight,2024-03-13,43694,1339,744933.0,39,26,179136594,CRE045,Retargeting
+974,Long Weekend Promo,Google Ads,Bisma Eight,2024-01-14,7273,282,3198998.0,33,26,131634204,CRE036,Retargeting
+975,Valentine Weekend,Organic,Alaya Ubud,2024-03-15,26957,1279,8636252.0,78,42,100466352,CRE050,
+976,EID HOLIDAY PACKAGE,Google Ads,Alaya Ubud,2024-01-04,14991,539,19009103.0,14,10,68687770,CRE008,Lookalike
+977,Eid Holiday Package,Google Ads,Katamama Resort,2024-01-18,15477,681,24982032.0,68,52,267890064,CRE035,Broad
+978,Long Weekend Promo,Organic,The Mulia Nusa Dua,2024-03-17,29118,360,5496756.0,9,5,20610550,,Broad
+979,Loyalty Member Deal,Email Campaign,The Mulia Nusa Dua,2024-01-14,7293,537,17640263.0,36,22,54437658,CRE011,Retargeting
+980,Flash Sale 48H,Email Campaign,Katamama Resort,2024-03-21,43948,3226,13584349.0,214,185,1127197785,CRE008,Broad
+981,Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-02-08,53451,1804,19089235.0,48,39,136983561,CRE003,Interest
+982,Long Weekend Promo,Meta Ads,Bisma Eight,2024-02-28,37647,2930,1358788.0,71,41,72373897,CRE003,Interest
+983,Loyalty Member Deal,Meta Ads,Alaya Ubud,2024-01-24,24366,1222,22659030.0,38,20,79634940,CRE043,
+984,Long Weekend Promo ,Meta Ads,The Mulia Nusa Dua,2024-02-18,39895,851,15528234.0,18,9,59761404,CRE017,Interest
+985,Valentine Weekend,TikTok Ads,Komaneka Bisma,2024-02-19,12198,485,3011621.0,49,43,288838224,CRE035,
+986,Summer Escape 2024 ,Email Campaign,Katamama Resort,2024-03-17,74960,4547,1859220.0,314,139,1092517899,CRE039,Retargeting
+987,Summer Escape 2024,Google Ads,Alaya Ubud,2024-02-14,31842,1516,12666324.0,95,54,423157068,CRE028,Retargeting
+988,Eid Holiday Package,Meta Ads,Komaneka Bisma,2024-01-14,64318,4288,12955743.0,220,153,453860883,,Broad
+989,Eid Holiday Package,TikTok Ads,Komaneka Bisma,2024-03-28,5734,115,10411131.0,8,5,33971120,CRE034,Broad
+990,eid holiday package,Organic,The Layar Seminyak,2024-03-26,17058,683,976425.0,21,17,37292577,CRE024,Retargeting
+991,Long Weekend Promo,Meta Ads,Katamama Resort,2024-03-09,78625,5046,13959269.0,348,274,678850070,CRE041,Broad
+992,Summer Escape 2024,TikTok Ads,Komaneka Bisma,2024-03-11,4885,310,20531255.0,26,18,33415326,CRE049,Interest
+993,Valentine Weekend,Meta Ads,Komaneka Bisma,2024-01-27,15308,1144,2250368.0,42,30,179021280,CRE017,Retargeting
+994,Long Weekend Promo,Meta Ads,The Mulia Nusa Dua,2024-03-06,48943,2414,8643857.0,106,34,53240736,CRE041,Lookalike
+995,VALENTINE WEEKEND,TikTok Ads,Katamama Resort,2024-03-01,61145,2448,4584492.0,121,74,338292850,CRE038,
+996,VALENTINE WEEKEND,Organic,The Mulia Nusa Dua,2024-01-19,49129,3496,7810478.0,88,55,248345185,CRE039,Interest
+997,Valentine Weekend ,TikTok Ads,The Mulia Nusa Dua,2024-02-21,75843,5428,24574408.0,638,537,2335967721,CRE039,Broad
+998,Long Weekend Promo ,TikTok Ads,The Layar Seminyak,2024-01-10,28984,1578,18436082.0,78,45,128144520,CRE019,Broad
+999,Flash Sale 48H,Email Campaign,The Mulia Nusa Dua,2024-02-25,3313,43,21392435.0,4,1,2743499,,Broad
+1000,eid holiday package,Email Campaign,The Mulia Nusa Dua,2024-01-02,10326,312,21015933.0,12,6,22845360,CRE046,Interest
+1001,Loyalty Member Deal,Google Ads,Bisma Eight,2024-03-24,14103,789,941471.0,94,79,247963541,CRE045,Retargeting
+1002,Flash Sale 48H,Google Ads,Bisma Eight,2024-02-26,10853,658,13837336.0,70,59,315498488,CRE039,Lookalike
+1003, Loyalty Member Deal,Email Campaign,Katamama Resort,2024-02-22,36864,1292,,100,51,83399331,CRE023,Interest
+1004,Summer Escape 2024,Meta Ads,Komaneka Bisma,2024-03-28,51090,2681,23154036.0,220,128,720569216,CRE038,
+1005,summer escape 2024,TikTok Ads,Katamama Resort,2024-01-24,58666,3505,2282861.0,203,173,361943161,CRE017,Retargeting
+1006,SUMMER ESCAPE 2024,Google Ads,The Layar Seminyak,2024-02-05,20972,299,2573127.0,24,19,99743749,,Broad
+1007,Eid Holiday Package,TikTok Ads,The Layar Seminyak,2024-02-27,19029,1036,20469978.0,121,97,750015349,CRE045,Interest
+1008,Eid Holiday Package,Organic,The Mulia Nusa Dua,2024-02-05,70573,4530,13421069.0,366,120,755703120,CRE012,Lookalike
+1009,Long Weekend Promo,Organic,Katamama Resort,2024-01-24,75218,3294,10367853.0,140,59,419798570,CRE004,Broad
+1010,Summer Escape 2024 ,Meta Ads,Bisma Eight,2024-03-26,21071,333,5084144.0,31,25,151410250,CRE049,Lookalike
+1011, Eid Holiday Package,Meta Ads,Katamama Resort,2024-03-07,5877,114,14118726.0,5,3,11320209,CRE012,Retargeting
+1012,Flash Sale 48H,Google Ads,Bisma Eight,2024-03-09,63749,4362,4346668.0,229,164,710149520,CRE007,Broad
+1013,Flash Sale 48H,Organic,Komaneka Bisma,2024-02-19,16992,1191,12745682.0,52,44,264765644,,Lookalike
+1014,Valentine Weekend,Meta Ads,The Mulia Nusa Dua,2024-01-02,44117,1033,,83,53,188649525,CRE013,Retargeting
+1015,Summer Escape 2024,Email Campaign,The Layar Seminyak,2024-02-15,9826,698,16017690.0,21,18,139551912,CRE031,Lookalike
+1016, Loyalty Member Deal,TikTok Ads,The Mulia Nusa Dua,2024-01-07,34285,1549,2118260.0,56,47,286884475,CRE025,Lookalike
+1017, Valentine Weekend,Google Ads,Katamama Resort,2024-02-11,50006,1068,15311687.0,32,17,108488509,CRE046,Interest
+1018,long weekend promo,Meta Ads,Alaya Ubud,2024-02-20,6822,178,24545053.0,10,7,12227040,CRE026,Retargeting
+1019,Loyalty Member Deal,Meta Ads,The Mulia Nusa Dua,2024-02-04,65677,4237,20127623.0,440,209,1281202604,CRE040,
+1020, Flash Sale 48H,Meta Ads,The Layar Seminyak,2024-02-10,75127,4152,12521295.0,155,117,652693977,CRE044,Lookalike
+1021,Flash Sale 48H,Meta Ads,Katamama Resort,2024-03-09,26721,707,12254536.0,14,11,87293008,CRE028,Retargeting
+1022,loyalty member deal,Meta Ads,The Mulia Nusa Dua,2024-01-02,40639,2150,12064327.0,245,208,1286473968,CRE035,Interest
+1023,Flash Sale 48H,Google Ads,Bisma Eight,2024-01-27,48680,1696,15742829.0,131,98,268167494,,Interest
+1024,Flash Sale 48H,TikTok Ads,Bisma Eight,2024-03-12,1933,61,15107205.0,5,1,7129782,CRE006,Lookalike
+1025,Long Weekend Promo,Organic,Komaneka Bisma,2024-01-23,54295,3063,13632078.0,70,27,104072526,CRE023,Broad
+1026,Eid Holiday Package,Email Campaign,The Mulia Nusa Dua,2024-02-26,31317,892,16555200.0,39,12,58679988,CRE001,Interest
+1027,Long Weekend Promo,Organic,Katamama Resort,2024-03-13,15091,276,6638245.0,18,7,20472424,CRE039,Broad
+1028,Summer Escape 2024,Email Campaign,The Mulia Nusa Dua,2024-02-09,36461,2117,2785881.0,179,136,773643752,CRE017,Lookalike
+1029,Valentine Weekend,Email Campaign,The Layar Seminyak,2024-03-16,58565,2758,,294,191,350951231,CRE033,Lookalike
+1030,Flash Sale 48H,Google Ads,Bisma Eight,2024-01-31,70165,2539,20212636.0,127,58,365679386,CRE034,Broad
+1031,Loyalty Member Deal,Email Campaign,Komaneka Bisma,2024-02-03,69722,2454,8595908.0,209,66,374955570,CRE014,Lookalike
+1032,Flash Sale 48H ,Meta Ads,The Layar Seminyak,2024-03-14,54841,630,4801786.0,72,26,122418166,CRE042,Retargeting
+1033,Flash Sale 48H,Organic,The Mulia Nusa Dua,2024-03-27,5064,124,24394549.0,2,0,0,,Lookalike
+1034,Valentine Weekend,Organic,The Mulia Nusa Dua,2024-01-13,73142,2969,17424971.0,217,167,754262013,CRE039,Broad
+1035, Flash Sale 48H,Email Campaign,Komaneka Bisma,2024-03-13,45138,1566,24496520.0,145,87,313969602,CRE039,Broad
+1036,Summer Escape 2024,Organic,The Layar Seminyak,2024-01-26,10528,359,6215484.0,23,8,33800680,CRE026,Broad
+1037,Loyalty Member Deal,TikTok Ads,Bisma Eight,2024-03-30,24485,1637,21958895.0,106,59,180636701,CRE040,Retargeting
+1038, Valentine Weekend,Email Campaign,Komaneka Bisma,2024-02-02,32083,1015,11143491.0,68,21,139701114,CRE045,Retargeting
+1039,summer escape 2024,Email Campaign,The Mulia Nusa Dua,2024-01-22,40901,1579,551975.0,47,31,186802032,,
+1040,Eid Holiday Package,Google Ads,Komaneka Bisma,2024-02-05,68337,3057,13590399.0,302,233,1217749103,CRE037,
+1041,Summer Escape 2024,Organic,Alaya Ubud,2024-01-05,37713,1764,9350715.0,63,35,176940015,CRE009,Interest
+1042, Long Weekend Promo,TikTok Ads,Komaneka Bisma,2024-02-24,19747,573,23851865.0,39,23,98415183,CRE036,Lookalike
+1043,Loyalty Member Deal,Google Ads,Komaneka Bisma,2024-03-31,53962,2811,577739.0,232,129,921452418,CRE019,Interest
+1044,Eid Holiday Package,Meta Ads,The Mulia Nusa Dua,2024-01-28,38150,2804,2818963.0,326,252,1702960308,CRE005,
+1045,LOYALTY MEMBER DEAL,Meta Ads,Komaneka Bisma,2024-01-18,60630,4150,9982001.0,415,254,770787638,CRE049,Retargeting
+1046,Loyalty Member Deal ,TikTok Ads,Alaya Ubud,2024-03-13,32117,1978,18128612.0,207,127,811351565,CRE008,Lookalike
+1047,Summer Escape 2024 ,Organic,Alaya Ubud,2024-03-16,50712,1874,14404240.0,141,103,597156405,CRE011,Lookalike
+1048,EID HOLIDAY PACKAGE,TikTok Ads,The Layar Seminyak,2024-03-18,3979,257,1117818.0,9,7,43397816,CRE047,Retargeting
+1049, Eid Holiday Package,Organic,Bisma Eight,2024-03-27,10124,485,9939316.0,16,10,19939890,,Broad
+1050,Summer Escape 2024 ,Email Campaign,The Mulia Nusa Dua,2024-02-15,31388,1252,20638935.0,69,57,305512533,CRE030,Retargeting
+1051,Loyalty Member Deal,Google Ads,Katamama Resort,2024-02-12,48005,2412,24796373.0,148,99,499591620,CRE018,Lookalike
+1052,Summer Escape 2024 ,Organic,Bisma Eight,2024-02-13,70337,2505,8281004.0,56,17,106576944,CRE047,Broad
+1053,Valentine Weekend,TikTok Ads,The Mulia Nusa Dua,2024-03-25,56799,1919,6301371.0,104,81,383519043,CRE028,Broad
+1054,Valentine Weekend,Email Campaign,The Mulia Nusa Dua,2024-02-18,49447,3819,6522465.0,389,204,1534395384,,
+1055, Loyalty Member Deal,Email Campaign,Alaya Ubud,2024-01-27,68108,688,20033176.0,70,40,167964880,CRE014,Lookalike
+1056, Flash Sale 48H,Meta Ads,Katamama Resort,2024-02-12,61260,4247,16426908.0,149,133,744062382,CRE028,Retargeting
+1057,Eid Holiday Package,Google Ads,The Layar Seminyak,2024-01-08,75408,4230,9493279.0,117,104,629889312,CRE038,
+1058,Long Weekend Promo,Email Campaign,The Mulia Nusa Dua,2024-02-05,46254,2719,,160,105,528744825,CRE045,
+1059,Summer Escape 2024,Google Ads,The Layar Seminyak,2024-01-25,34500,1068,2871533.0,44,35,225891015,CRE029,
+1060,Loyalty Member Deal,Email Campaign,Komaneka Bisma,2024-02-07,12509,918,766890.0,61,28,128287264,CRE048,
+1061,Summer Escape 2024,Organic,Katamama Resort,2024-02-28,68618,2882,20512154.0,295,255,1630448325,CRE035,Retargeting
+1062,Summer Escape 2024,Email Campaign,The Layar Seminyak,2024-01-18,28800,2061,13552661.0,153,65,512958420,CRE044,Retargeting
+1063,long weekend promo,Meta Ads,The Layar Seminyak,2024-02-14,68114,4381,17710840.0,289,129,354930987,CRE029,
+1064,Long Weekend Promo,Organic,The Layar Seminyak,2024-01-13,64561,918,6576560.0,67,43,171369190,CRE050,Broad
+1065,Long Weekend Promo,Organic,The Mulia Nusa Dua,2024-02-11,39453,1996,2987559.0,60,48,207360672,CRE037,Interest
+1066,LONG WEEKEND PROMO,TikTok Ads,Bisma Eight,2024-02-05,73241,4919,24180624.0,524,418,2570679936,CRE006,Lookalike
+1067,Eid Holiday Package,Google Ads,The Mulia Nusa Dua,2024-02-29,30909,1407,7334336.0,34,16,85828896,CRE013,Broad
+1068,Valentine Weekend,Meta Ads,Komaneka Bisma,2024-03-09,3001,177,3788833.0,14,9,22531797,CRE041,Interest
+1069,Eid Holiday Package,Email Campaign,The Layar Seminyak,2024-01-10,40273,3010,898552.0,252,106,690898248,CRE002,Retargeting
+1070, Flash Sale 48H,Meta Ads,Bisma Eight,2024-03-25,22768,771,861091.0,68,22,155784926,,Interest
+1071,Loyalty Member Deal,Meta Ads,Bisma Eight,2024-03-08,43229,2512,5912441.0,243,154,749493360,CRE044,Retargeting
+1072,Loyalty Member Deal,Google Ads,Alaya Ubud,2024-01-24,71703,5283,23990395.0,567,261,1624042224,CRE003,Broad
+1073,Loyalty Member Deal,Organic,Komaneka Bisma,2024-03-29,23840,1674,24305205.0,36,19,86504207,CRE021,Interest
+1074,Eid Holiday Package,Meta Ads,Alaya Ubud,2024-01-31,14255,562,8492467.0,38,21,118664091,CRE037,
+1075,Summer Escape 2024,Google Ads,The Mulia Nusa Dua,2024-01-08,25588,569,9149407.0,55,16,115125792,CRE031,Lookalike
+1076,Eid Holiday Package,TikTok Ads,Katamama Resort,2024-01-03,77523,1154,13866711.0,72,42,211611708,,Broad
+1077,Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-03-29,52524,2463,11589623.0,80,39,297877749,CRE003,Broad
+1078,Summer Escape 2024,Google Ads,The Layar Seminyak,2024-03-27,78548,3824,9205639.0,253,115,472228065,CRE014,Broad
+1079,Valentine Weekend,Email Campaign,The Mulia Nusa Dua,2024-01-14,79609,5401,13313462.0,646,374,1509848098,CRE033,Broad
+1080,Long Weekend Promo,Google Ads,Katamama Resort,2024-03-18,21217,1689,638543.0,104,58,236498480,,Retargeting
+1081,eid holiday package,Google Ads,The Mulia Nusa Dua,2024-02-04,77960,3067,23724431.0,68,38,158964108,CRE025,Broad
+1082,Summer Escape 2024,TikTok Ads,The Mulia Nusa Dua,2024-03-08,71498,3223,20587418.0,357,158,674847388,,Interest
+1083,Loyalty Member Deal,Meta Ads,Komaneka Bisma,2024-03-22,21734,1708,9143645.0,195,160,966751680,,Retargeting
+1084,Flash Sale 48H,Meta Ads,Alaya Ubud,2024-01-31,48893,2106,16641186.0,200,166,926184550,CRE033,Broad
+1085,Loyalty Member Deal,Organic,Komaneka Bisma,2024-01-04,14562,635,20848294.0,65,39,169812240,CRE013,Retargeting
+1086,Eid Holiday Package,Meta Ads,Komaneka Bisma,2024-01-10,3091,135,21770124.0,10,5,35089325,CRE025,Broad
+1087,Loyalty Member Deal,Organic,Komaneka Bisma,2024-01-10,67409,2957,8669045.0,211,136,687680600,CRE002,Retargeting
+1088,long weekend promo,Google Ads,Alaya Ubud,2024-02-29,74879,1667,,178,158,446626500,CRE027,Broad
+1089,Long Weekend Promo,Organic,Komaneka Bisma,2024-03-13,62066,3398,1137687.0,134,75,256355325,CRE043,
+1090,Flash Sale 48H,Meta Ads,The Mulia Nusa Dua,2024-01-28,17432,1042,24262131.0,90,49,300848093,CRE033,Retargeting
+1091,Long Weekend Promo,Email Campaign,Katamama Resort,2024-01-21,16741,733,24048180.0,87,37,269420606,CRE046,Lookalike
+1092,Flash Sale 48H,Email Campaign,The Mulia Nusa Dua,2024-01-24,17313,218,2586672.0,9,5,38846220,CRE009,Lookalike
+1093,Summer Escape 2024,Meta Ads,Katamama Resort,2024-01-30,79214,3065,7171946.0,246,118,593698710,CRE005,Retargeting
+1094,Summer Escape 2024,Organic,The Mulia Nusa Dua,2024-01-15,30842,1480,13582844.0,49,22,60109852,CRE025,Interest
+1095,Flash Sale 48H,Google Ads,Bisma Eight,2024-03-25,6576,391,4354692.0,26,10,60738270,CRE041,Retargeting
+1096,Flash Sale 48H ,Organic,Komaneka Bisma,2024-03-10,16341,1127,11790352.0,74,36,276075360,CRE038,
+1097,Loyalty Member Deal,TikTok Ads,The Mulia Nusa Dua,2024-01-03,79643,924,13941118.0,23,11,40769454,CRE040,Interest
+1098,Flash Sale 48H ,TikTok Ads,The Mulia Nusa Dua,2024-03-19,64651,5126,21660941.0,456,156,1085153316,CRE050,Broad
+1099, Valentine Weekend,Email Campaign,Katamama Resort,2024-03-16,20445,421,2636115.0,32,20,114671620,CRE022,Broad
+1100,Loyalty Member Deal,Meta Ads,Bisma Eight,2024-03-03,33649,1740,11305695.0,93,56,290887800,CRE006,Interest
+1101,EID HOLIDAY PACKAGE,Google Ads,The Layar Seminyak,2024-01-15,75519,2139,14530976.0,66,24,168968664,CRE023,Broad
+1102,Eid Holiday Package,Google Ads,Katamama Resort,2024-03-18,13138,455,4871875.0,38,22,55043186,,Interest
+1103,flash sale 48h,Meta Ads,The Layar Seminyak,2024-01-09,49431,1866,24452106.0,39,27,94119867,,
+1104,Long Weekend Promo,Google Ads,Katamama Resort,2024-02-27,30384,1800,704462.0,136,92,222635860,CRE010,
+1105,Long Weekend Promo,Meta Ads,Katamama Resort,2024-02-10,27075,1059,17325568.0,102,74,574674528,CRE047,Retargeting
+1106,Long Weekend Promo ,Email Campaign,Katamama Resort,2024-03-19,42609,1346,18597419.0,159,82,346374068,CRE008,
+1107,Flash Sale 48H,Organic,Bisma Eight,2024-01-07,22523,534,12680335.0,24,18,97094880,CRE001,Retargeting
+1108,Summer Escape 2024,Google Ads,Komaneka Bisma,2024-03-08,55503,2312,8893222.0,146,95,284155070,CRE011,Broad
+1109,flash sale 48h,Google Ads,The Mulia Nusa Dua,2024-01-10,30326,2128,16155955.0,238,175,971863725,CRE022,Retargeting
+1110,Valentine Weekend,Google Ads,Alaya Ubud,2024-03-06,76150,5869,19128162.0,246,94,216368730,CRE026,Broad
+1111,Summer Escape 2024,Google Ads,Katamama Resort,2024-02-23,39490,2402,24864321.0,128,48,222289296,CRE046,Retargeting
+1112,Loyalty Member Deal,Google Ads,Katamama Resort,2024-01-05,40667,2804,24241759.0,231,113,483219753,CRE040,Interest
+1113,Long Weekend Promo,Organic,The Mulia Nusa Dua,2024-01-29,5932,471,14209221.0,45,38,294227540,,Lookalike
+1114,Valentine Weekend,Email Campaign,Bisma Eight,2024-03-23,15025,694,16865116.0,46,30,77136810,CRE019,
+1115,Long Weekend Promo,TikTok Ads,Bisma Eight,2024-02-18,22932,1748,22801215.0,162,58,113587954,,Interest
+1116,Valentine Weekend,Google Ads,Komaneka Bisma,2024-03-27,29081,1459,,156,106,708666922,,Broad
+1117, Eid Holiday Package,Email Campaign,Katamama Resort,2024-02-02,18342,745,11409908.0,61,48,363701280,CRE020,Lookalike
+1118,Loyalty Member Deal ,Organic,Bisma Eight,2024-01-21,75952,3116,24689505.0,119,72,555322248,,Broad
+1119,Flash Sale 48H,TikTok Ads,Alaya Ubud,2024-01-08,11289,327,10090592.0,25,12,60321600,CRE002,Interest
+1120,VALENTINE WEEKEND,Google Ads,Komaneka Bisma,2024-03-06,11461,529,10782299.0,59,27,80522991,CRE035,Retargeting
+1121,Long Weekend Promo,Organic,The Mulia Nusa Dua,2024-03-08,34500,952,21708163.0,78,35,120515745,CRE016,Broad
+1122,Eid Holiday Package,Meta Ads,Alaya Ubud,2024-03-09,11452,892,19181063.0,53,28,186455892,CRE016,Interest
+1123,Long Weekend Promo,Email Campaign,Katamama Resort,2024-01-08,74982,4854,22288377.0,441,162,990730602,CRE050,Retargeting
+1124,Long Weekend Promo,TikTok Ads,Katamama Resort,2024-03-03,61096,2056,4526304.0,77,26,49051366,,Lookalike
+1125,Long Weekend Promo,Organic,Alaya Ubud,2024-01-04,47056,812,21414692.0,24,14,74412128,,Interest
+1126,Eid Holiday Package,Meta Ads,Komaneka Bisma,2024-01-22,7974,636,17971020.0,51,30,211025730,CRE042,Retargeting
+1127,Loyalty Member Deal,Organic,Katamama Resort,2024-01-06,676,13,,1,0,0,CRE026,Lookalike
+1128,Summer Escape 2024,Google Ads,Katamama Resort,2024-02-05,59170,1159,18800331.0,76,61,369896314,CRE050,Retargeting
+1129,LONG WEEKEND PROMO,Meta Ads,The Mulia Nusa Dua,2024-02-22,64900,2343,15707617.0,258,143,973351665,,Retargeting
+1130,long weekend promo,Google Ads,Bisma Eight,2024-03-08,38669,2301,,47,26,168178036,CRE021,Lookalike
+1131,Valentine Weekend,Meta Ads,The Layar Seminyak,2024-03-28,48537,1587,16899328.0,128,49,272283004,,Retargeting
+1132,Summer Escape 2024 ,Email Campaign,The Mulia Nusa Dua,2024-01-07,75534,1914,13260974.0,191,142,465944884,CRE024,Lookalike
+1133,LOYALTY MEMBER DEAL,Organic,Komaneka Bisma,2024-03-23,22559,353,9628617.0,19,9,59411052,CRE009,Retargeting
+1134,valentine weekend,Organic,Alaya Ubud,2024-02-20,79279,3624,16531090.0,256,150,237330300,CRE028,Broad
+1135,Flash Sale 48H,Google Ads,The Layar Seminyak,2024-02-11,13422,803,8568044.0,63,39,79733433,CRE020,Lookalike
+1136,Valentine Weekend,Organic,The Layar Seminyak,2024-03-03,49381,2662,641462.0,155,86,534784292,CRE038,Interest
+1137, Flash Sale 48H,Email Campaign,The Layar Seminyak,2024-01-02,25286,432,12374445.0,13,9,23105610,CRE047,Interest
+1138,Flash Sale 48H,Email Campaign,Bisma Eight,2024-01-08,47141,2052,14077012.0,243,162,352416744,CRE002,
+1139,Summer Escape 2024,Organic,The Mulia Nusa Dua,2024-02-03,54021,1575,19374654.0,83,71,540775973,CRE037,Retargeting
+1140,Loyalty Member Deal,TikTok Ads,Komaneka Bisma,2024-02-16,66906,4313,12411331.0,236,137,335201051,CRE050,Retargeting
+1141,Summer Escape 2024,Organic,Alaya Ubud,2024-01-11,78468,3094,5929564.0,253,185,318744085,,Interest
+1142,Summer Escape 2024,Email Campaign,The Mulia Nusa Dua,2024-01-23,2450,169,3105785.0,5,2,9659026,CRE028,Lookalike
+1143,Summer Escape 2024,TikTok Ads,Komaneka Bisma,2024-03-04,12796,908,22678640.0,60,50,195895450,CRE040,Retargeting
+1144,loyalty member deal,Organic,The Mulia Nusa Dua,2024-02-23,57388,3596,10984449.0,301,172,1157858076,CRE023,Retargeting
+1145,Loyalty Member Deal,Email Campaign,The Mulia Nusa Dua,2024-02-25,62193,3042,,357,288,1094948064,CRE024,Interest
+1146,Valentine Weekend,Organic,The Layar Seminyak,2024-02-13,37625,1958,7012831.0,182,150,1053880200,CRE023,Lookalike
+1147,Summer Escape 2024,TikTok Ads,Komaneka Bisma,2024-02-19,78605,4212,21339831.0,413,339,1152603051,CRE025,Lookalike
+1148,Loyalty Member Deal,Organic,Komaneka Bisma,2024-03-19,79320,1918,11175603.0,171,139,996647931,CRE042,
+1149,Long Weekend Promo,Google Ads,The Layar Seminyak,2024-01-22,25060,745,11863816.0,82,39,296477727,CRE041,Interest
+1150, Flash Sale 48H,TikTok Ads,Alaya Ubud,2024-02-05,20609,1283,10367780.0,100,86,559939378,CRE027,Broad
+1151,Loyalty Member Deal,Meta Ads,The Layar Seminyak,2024-03-02,15863,1008,15824451.0,93,77,254123793,CRE049,Lookalike
+1152,Long Weekend Promo ,Organic,Katamama Resort,2024-01-13,1435,105,11755894.0,9,6,31133046,CRE004,Broad
+1153,Flash Sale 48H,Organic,Bisma Eight,2024-01-05,20326,479,14246431.0,12,5,32593110,CRE011,Retargeting
+1154,Valentine Weekend,Google Ads,Alaya Ubud,2024-03-31,58557,1171,20004487.0,136,81,436945266,,
+1155,Eid Holiday Package,Organic,The Layar Seminyak,2024-03-13,36856,2064,13902157.0,187,164,670274724,,
+1156,Long Weekend Promo,Email Campaign,Katamama Resort,2024-01-29,18901,1183,18735185.0,74,60,131561040,CRE001,Lookalike
+1157,LONG WEEKEND PROMO,Google Ads,The Layar Seminyak,2024-01-14,27110,592,19486240.0,42,15,118469505,CRE028,Interest
+1158,Eid Holiday Package,TikTok Ads,Bisma Eight,2024-01-03,9990,392,3932521.0,43,22,117513902,CRE025,Lookalike
+1159,Long Weekend Promo,Organic,Komaneka Bisma,2024-02-17,70872,776,7237035.0,92,34,270871812,,Retargeting
+1160,Eid Holiday Package,Meta Ads,Komaneka Bisma,2024-03-17,53465,711,1896095.0,34,23,68107554,CRE028,Lookalike
+1161,flash sale 48h,Meta Ads,The Mulia Nusa Dua,2024-01-22,47168,1976,20674559.0,169,63,369027540,CRE042,
+1162,Valentine Weekend,Meta Ads,Komaneka Bisma,2024-03-27,44646,2624,4110956.0,143,62,112572904,CRE012,Interest
+1163,Summer Escape 2024,Organic,The Mulia Nusa Dua,2024-02-16,61191,3368,9110752.0,249,147,871443489,CRE001,Interest
+1164,Eid Holiday Package,TikTok Ads,Bisma Eight,2024-03-18,5112,121,12640934.0,12,7,18993345,CRE003,Retargeting
+1165,flash sale 48h,Organic,Komaneka Bisma,2024-03-28,31371,2147,5733047.0,163,109,780378633,CRE005,Broad
+1166,Loyalty Member Deal,Meta Ads,Alaya Ubud,2024-02-27,5925,82,17679664.0,7,3,21264855,CRE040,Interest
+1167,Long Weekend Promo,Meta Ads,Bisma Eight,2024-01-31,52604,3094,6612107.0,185,99,330704847,,Broad
+1168,Summer Escape 2024,Google Ads,Alaya Ubud,2024-02-18,51385,2471,9034379.0,234,208,729420848,CRE036,Broad
+1169,Long Weekend Promo,TikTok Ads,Katamama Resort,2024-03-14,25141,1351,,42,19,149120094,CRE043,Lookalike
+1170,Valentine Weekend,Email Campaign,The Mulia Nusa Dua,2024-02-28,21740,1177,4731792.0,82,42,89000940,,Interest
+1171,Long Weekend Promo,Email Campaign,The Layar Seminyak,2024-02-27,25960,529,22822095.0,22,14,41966932,CRE048,Interest
+1172,Flash Sale 48H,Email Campaign,Bisma Eight,2024-02-11,61022,994,12354391.0,96,50,253819350,CRE032,Broad
+1173,Flash Sale 48H,TikTok Ads,Alaya Ubud,2024-02-10,39182,2220,17451200.0,231,134,972700372,CRE028,Interest
+1174,SUMMER ESCAPE 2024,Meta Ads,Katamama Resort,2024-01-04,37577,2156,19674207.0,159,49,223802208,CRE034,Lookalike
+1175,Summer Escape 2024,Google Ads,Bisma Eight,2024-03-21,73594,3407,22957414.0,369,297,984320964,CRE049,Lookalike
+1176,Valentine Weekend,Organic,Alaya Ubud,2024-02-07,54433,3216,5201592.0,384,304,2296664064,CRE048,Interest
+1177,Eid Holiday Package,Google Ads,The Layar Seminyak,2024-01-15,56436,1157,3002748.0,53,32,153402752,CRE047,Lookalike
+1178,FLASH SALE 48H,Email Campaign,Komaneka Bisma,2024-03-05,23844,1307,19651578.0,151,129,682592535,CRE006,Broad
+1179,Long Weekend Promo,TikTok Ads,The Mulia Nusa Dua,2024-01-02,66344,1330,2744860.0,78,32,189348704,CRE018,Broad
+1180,Valentine Weekend,Google Ads,Alaya Ubud,2024-02-12,23539,939,5925711.0,45,34,264382130,CRE003,Broad
+1181,long weekend promo,Organic,The Mulia Nusa Dua,2024-03-20,1151,75,16624880.0,2,1,1936842,CRE018,Interest
+1182,eid holiday package,TikTok Ads,Bisma Eight,2024-02-18,49091,3554,15573471.0,382,135,767172870,CRE033,
+1183,Loyalty Member Deal,Email Campaign,The Mulia Nusa Dua,2024-01-05,11287,532,17993296.0,31,21,123562971,CRE038,
+1184,Summer Escape 2024,Email Campaign,The Layar Seminyak,2024-03-18,14631,333,1666418.0,24,20,150726000,CRE001,Broad
+1185,Valentine Weekend,TikTok Ads,Komaneka Bisma,2024-03-19,54025,847,17041530.0,94,33,229373793,CRE005,Retargeting
+1186,Loyalty Member Deal,Organic,Bisma Eight,2024-01-04,61870,4104,21369132.0,202,130,846480960,,Interest
+1187,LONG WEEKEND PROMO,Organic,Katamama Resort,2024-03-14,50766,2671,3510589.0,281,194,1151176212,CRE006,Lookalike
+1188, Eid Holiday Package,Meta Ads,Katamama Resort,2024-01-30,7026,399,7200667.0,20,6,33060720,CRE047,Interest
+1189,Valentine Weekend,Email Campaign,Alaya Ubud,2024-02-27,56483,1928,13085088.0,142,80,225026400,CRE011,Interest
+1190,Loyalty Member Deal,TikTok Ads,Katamama Resort,2024-03-30,41040,1159,2632688.0,117,54,211811490,CRE021,Lookalike
+1191,Long Weekend Promo,Meta Ads,Katamama Resort,2024-03-18,33613,611,8002626.0,64,35,138725860,CRE047,Interest
+1192,Loyalty Member Deal,Meta Ads,Alaya Ubud,2024-03-16,12072,498,8342279.0,13,4,19862384,,Broad
+1193, Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-01-17,26842,721,15358491.0,66,52,348680384,CRE025,
+1194,Summer Escape 2024,Google Ads,The Mulia Nusa Dua,2024-02-22,51248,3653,4480707.0,232,136,254523320,CRE004,Lookalike
+1195,Valentine Weekend,Organic,Alaya Ubud,2024-02-13,56440,1449,6316841.0,143,72,212963832,,Lookalike
+1196, Eid Holiday Package,Google Ads,The Layar Seminyak,2024-03-01,55842,2747,8190689.0,120,44,72420656,CRE008,Lookalike
+1197,Loyalty Member Deal,Google Ads,Alaya Ubud,2024-03-17,34337,2624,16210690.0,83,66,300687882,CRE026,Lookalike
+1198,Summer Escape 2024,Organic,Katamama Resort,2024-01-18,69782,4165,16404048.0,421,364,1707687072,,Lookalike
+1199,Long Weekend Promo,TikTok Ads,Komaneka Bisma,2024-02-13,74254,4428,22634983.0,338,219,1468732041,CRE006,Retargeting
+1200, Loyalty Member Deal,Google Ads,Katamama Resort,2024-03-30,32548,1100,17157792.0,52,30,77264820,CRE028,Lookalike
+1201,Valentine Weekend ,Email Campaign,The Layar Seminyak,2024-01-07,58179,2268,17573886.0,173,78,195220896,CRE041,Broad
+1202,Loyalty Member Deal,Organic,Komaneka Bisma,2024-03-02,40633,2174,20590966.0,161,120,445457640,CRE015,Interest
+1203,Loyalty Member Deal,Organic,The Mulia Nusa Dua,2024-01-04,78527,4570,8840502.0,526,323,977056912,,Lookalike
+1204,Eid Holiday Package,Email Campaign,Katamama Resort,2024-01-08,67457,1134,15668379.0,111,90,438228990,CRE017,Lookalike
+1205,long weekend promo,Google Ads,Bisma Eight,2024-03-10,34292,689,6617197.0,45,37,266295179,CRE004,Lookalike
+1206, Loyalty Member Deal,Meta Ads,Alaya Ubud,2024-02-07,14445,790,4254678.0,89,34,229853396,CRE002,Broad
+1207,Valentine Weekend,Organic,The Layar Seminyak,2024-01-03,73207,2294,23896606.0,221,71,159003861,CRE002,Lookalike
+1208,Loyalty Member Deal,Meta Ads,The Mulia Nusa Dua,2024-02-25,57979,1794,6577304.0,63,50,282534550,CRE044,Broad
+1209,Flash Sale 48H,Email Campaign,Komaneka Bisma,2024-02-09,63198,1171,11563232.0,118,41,113582095,CRE025,Interest
+1210,summer escape 2024,Google Ads,Komaneka Bisma,2024-03-19,65822,2770,3454966.0,243,95,565217890,CRE020,Retargeting
+1211,Long Weekend Promo,Organic,Katamama Resort,2024-01-21,12758,874,,87,77,434037065,CRE006,Lookalike
+1212,Eid Holiday Package,TikTok Ads,The Layar Seminyak,2024-01-04,32949,351,2235084.0,32,23,138952131,CRE044,Broad
+1213,loyalty member deal,TikTok Ads,Komaneka Bisma,2024-02-03,36068,1144,4740868.0,48,23,122009664,CRE024,Interest
+1214,Loyalty Member Deal,Google Ads,Komaneka Bisma,2024-02-11,3634,98,16343812.0,10,8,17551920,,Retargeting
+1215,Flash Sale 48H ,Organic,Bisma Eight,2024-01-18,40514,1341,19152583.0,104,49,117688494,CRE044,Broad
+1216, Flash Sale 48H,TikTok Ads,Komaneka Bisma,2024-02-08,2156,109,24088480.0,8,7,55479550,CRE027,Lookalike
+1217,Valentine Weekend ,Email Campaign,Komaneka Bisma,2024-01-29,32456,1968,1385552.0,168,102,441758430,CRE010,
+1218,Long Weekend Promo ,Meta Ads,Alaya Ubud,2024-02-14,65950,4371,23898189.0,97,45,96279795,CRE005,Lookalike
+1219,Valentine Weekend,TikTok Ads,The Layar Seminyak,2024-01-10,47484,918,7244310.0,85,62,419027620,CRE041,
+1220, Long Weekend Promo,TikTok Ads,Komaneka Bisma,2024-02-20,2804,86,11280198.0,4,2,4350818,,Broad
+1221,Summer Escape 2024,Email Campaign,The Mulia Nusa Dua,2024-02-18,35762,1129,13355635.0,93,39,67282449,CRE017,
+1222,Eid Holiday Package,Google Ads,Bisma Eight,2024-03-10,62547,1632,10494349.0,93,70,437605840,CRE050,Retargeting
+1223,Valentine Weekend ,Email Campaign,The Mulia Nusa Dua,2024-02-03,17338,793,22510972.0,57,33,120746109,CRE034,Interest
+1224,Summer Escape 2024,Email Campaign,The Layar Seminyak,2024-01-07,30240,306,5035900.0,28,18,109738170,CRE009,Broad
+1225,FLASH SALE 48H,TikTok Ads,Bisma Eight,2024-01-02,48886,3771,598808.0,318,140,988424220,CRE019,
+1226,Long Weekend Promo,Google Ads,The Layar Seminyak,2024-01-01,43313,1777,9264598.0,117,76,527163056,CRE026,Lookalike
+1227,Valentine Weekend,Organic,Komaneka Bisma,2024-02-24,49044,1292,20783883.0,54,22,118497808,CRE026,Interest
+1228,Valentine Weekend,Meta Ads,Bisma Eight,2024-02-22,52501,1568,21940963.0,162,141,975273312,CRE019,Lookalike
+1229,Loyalty Member Deal,Google Ads,The Layar Seminyak,2024-01-05,59602,1992,18767857.0,174,124,257976916,,Lookalike
+1230,Eid Holiday Package,Google Ads,Alaya Ubud,2024-02-12,65084,884,5813750.0,94,32,158273504,CRE038,
+1231,Summer Escape 2024,Organic,Alaya Ubud,2024-03-23,27027,442,1635814.0,41,14,56414988,CRE014,Interest
+1232,flash sale 48h,Google Ads,Komaneka Bisma,2024-02-23,30176,2004,22475187.0,172,145,942592510,CRE032,Lookalike
+1233,Valentine Weekend,Email Campaign,Alaya Ubud,2024-02-24,69893,5524,9496088.0,312,114,831981234,CRE007,Broad
+1234,summer escape 2024,Meta Ads,Katamama Resort,2024-01-28,16740,670,16924959.0,71,22,53620688,,Retargeting
+1235,Summer Escape 2024,TikTok Ads,Bisma Eight,2024-03-06,76994,2134,5450432.0,86,50,293055700,,Broad
+1236,summer escape 2024,Google Ads,Alaya Ubud,2024-02-02,37784,2015,22973084.0,129,94,503802212,CRE036,Broad
+1237,EID HOLIDAY PACKAGE,Organic,The Mulia Nusa Dua,2024-01-22,49301,3711,16710430.0,270,166,1220481468,CRE027,Lookalike
+1238,Loyalty Member Deal,Meta Ads,Bisma Eight,2024-01-17,12395,985,23859495.0,117,85,437164435,CRE025,Lookalike
+1239, Valentine Weekend,Organic,The Mulia Nusa Dua,2024-01-29,54708,1296,5161452.0,44,31,60616873,CRE032,Broad
+1240,loyalty member deal,Meta Ads,Katamama Resort,2024-02-20,50995,1475,19244139.0,173,104,537742920,CRE005,
+1241,Valentine Weekend,Google Ads,The Mulia Nusa Dua,2024-03-15,46281,1651,16754224.0,33,28,200385920,CRE036,Lookalike
+1242,Flash Sale 48H,TikTok Ads,Bisma Eight,2024-02-15,74489,5774,19003648.0,552,392,2474778320,CRE004,Lookalike
+1243,Eid Holiday Package ,Meta Ads,The Mulia Nusa Dua,2024-03-19,8025,484,24232200.0,49,31,74965564,CRE038,Interest
+1244,Valentine Weekend,TikTok Ads,Komaneka Bisma,2024-03-04,32964,2175,17689764.0,162,69,178952535,CRE041,Retargeting
+1245,valentine weekend,Organic,The Mulia Nusa Dua,2024-01-31,79918,5833,,573,289,1926636996,,Retargeting
+1246, Summer Escape 2024,Organic,Katamama Resort,2024-03-03,5583,209,20894710.0,4,3,23398317,CRE001,Broad
+1247,Valentine Weekend,Meta Ads,The Mulia Nusa Dua,2024-03-04,78028,4945,,279,230,727479880,,
+1248,SUMMER ESCAPE 2024,TikTok Ads,Bisma Eight,2024-01-18,31501,670,10335587.0,44,21,142128420,CRE014,Lookalike
+1249, Long Weekend Promo,Google Ads,Bisma Eight,2024-02-12,76381,4623,7451988.0,138,80,396108320,CRE012,
+1250,Valentine Weekend,Meta Ads,Alaya Ubud,2024-02-20,65940,4828,14944621.0,306,175,1278051950,CRE017,Broad
+1251,Flash Sale 48H,Google Ads,Komaneka Bisma,2024-01-12,32510,1557,16123214.0,76,63,212230305,CRE022,
+1252,Long Weekend Promo,TikTok Ads,The Mulia Nusa Dua,2024-03-02,58522,2311,12108230.0,268,89,629774413,CRE050,Lookalike
+1253,Eid Holiday Package,TikTok Ads,The Layar Seminyak,2024-01-20,14715,765,4567503.0,62,41,314998490,,Retargeting
+1254,Valentine Weekend,Google Ads,Komaneka Bisma,2024-02-06,62364,4205,21836229.0,425,184,767131880,,Interest
+1255, Loyalty Member Deal,Meta Ads,Alaya Ubud,2024-02-13,54717,3908,18268933.0,381,232,1702498592,CRE011,Broad
+1256,Eid Holiday Package,Email Campaign,Komaneka Bisma,2024-03-21,37062,1194,11384549.0,91,45,327140640,CRE032,Interest
+1257,long weekend promo,Email Campaign,Katamama Resort,2024-01-09,15653,1106,20489059.0,102,46,274534808,CRE021,Lookalike
+1258,Flash Sale 48H,Organic,Komaneka Bisma,2024-03-06,14518,1071,4418929.0,45,27,79690122,CRE011,Retargeting
+1259,Flash Sale 48H,Email Campaign,Komaneka Bisma,2024-02-29,6689,530,16842182.0,34,12,92107764,CRE043,Interest
+1260,Long Weekend Promo,Organic,The Layar Seminyak,2024-01-29,26176,756,20461483.0,44,33,126127023,CRE020,Retargeting
+1261,Long Weekend Promo ,Email Campaign,Alaya Ubud,2024-03-25,1820,73,1831699.0,6,2,7893790,CRE043,
+1262,Loyalty Member Deal,Organic,The Layar Seminyak,2024-02-09,50584,3242,4694519.0,88,72,174714768,CRE032,Broad
+1263,Eid Holiday Package,Email Campaign,Alaya Ubud,2024-03-17,32385,1527,6078854.0,177,98,498148406,CRE034,Interest
+1264, Valentine Weekend,Organic,Katamama Resort,2024-01-05,60838,4483,21996015.0,134,73,162566839,,Broad
+1265, Valentine Weekend,Organic,Alaya Ubud,2024-03-22,58744,2748,24910816.0,190,114,622808448,CRE004,Lookalike
+1266,Eid Holiday Package,Email Campaign,Alaya Ubud,2024-03-12,6601,206,17623200.0,4,3,19679601,CRE025,Interest
+1267,Eid Holiday Package,Meta Ads,Alaya Ubud,2024-03-16,15060,206,10874099.0,7,4,28453672,CRE014,Broad
+1268,Long Weekend Promo,TikTok Ads,Bisma Eight,2024-01-16,47552,2078,4773962.0,64,31,202450584,,Interest
+1269,Valentine Weekend,Email Campaign,Alaya Ubud,2024-02-20,15869,760,14257798.0,18,14,25095070,CRE017,Lookalike
+1270,Valentine Weekend ,Google Ads,Komaneka Bisma,2024-02-14,7812,178,12445624.0,5,4,17898716,CRE018,Interest
+1271,loyalty member deal,Email Campaign,Katamama Resort,2024-03-20,19893,850,5896811.0,78,60,275277060,CRE038,Lookalike
+1272,Loyalty Member Deal,Meta Ads,Komaneka Bisma,2024-02-13,15673,604,22713650.0,56,35,120430835,CRE018,Interest
+1273,Loyalty Member Deal,Organic,The Mulia Nusa Dua,2024-03-02,39226,1872,17732329.0,170,75,324281925,CRE029,Retargeting
+1274,Eid Holiday Package,Google Ads,Bisma Eight,2024-02-29,79124,3279,,362,209,1218676492,CRE009,Lookalike
+1275,Eid Holiday Package,Organic,The Mulia Nusa Dua,2024-02-07,5957,380,20114437.0,29,20,77991360,CRE041,Lookalike
+1276,Flash Sale 48H,Organic,Bisma Eight,2024-03-24,8186,348,13100181.0,31,26,62247848,,Lookalike
+1277,Valentine Weekend,Meta Ads,The Mulia Nusa Dua,2024-03-28,5263,419,23986496.0,18,10,70564300,CRE040,
+1278,Summer Escape 2024,Organic,The Mulia Nusa Dua,2024-01-04,73899,3267,10683086.0,197,83,628057265,CRE041,Interest
+1279, Eid Holiday Package,Organic,The Layar Seminyak,2024-01-16,20225,247,21542585.0,13,5,20360605,,Lookalike
+1280,Long Weekend Promo,Google Ads,Katamama Resort,2024-03-25,38702,2719,2653612.0,306,93,640165314,CRE016,Retargeting
+1281,Summer Escape 2024,TikTok Ads,Alaya Ubud,2024-02-26,33711,740,22195941.0,42,35,123156075,CRE024,Broad
+1282,Valentine Weekend,Google Ads,The Layar Seminyak,2024-01-18,75357,2885,,264,98,316625652,CRE004,Retargeting
+1283,Loyalty Member Deal ,TikTok Ads,Bisma Eight,2024-01-29,77048,2457,8121102.0,200,121,703761652,CRE042,Retargeting
+1284,SUMMER ESCAPE 2024,TikTok Ads,The Mulia Nusa Dua,2024-01-06,16516,1269,,136,54,417899412,CRE018,Broad
+1285, Flash Sale 48H,Organic,Bisma Eight,2024-03-23,11861,615,8271577.0,23,9,34260903,CRE044,Lookalike
+1286,Long Weekend Promo,Meta Ads,Komaneka Bisma,2024-02-01,60080,665,16285557.0,36,25,135434550,CRE008,Lookalike
+1287,Eid Holiday Package,TikTok Ads,Komaneka Bisma,2024-03-30,21862,773,8884897.0,66,52,217743916,CRE025,Broad
+1288,Loyalty Member Deal,Meta Ads,Alaya Ubud,2024-01-19,24616,721,10766086.0,26,17,44680148,CRE043,Interest
+1289,Long Weekend Promo,Email Campaign,The Mulia Nusa Dua,2024-03-21,6769,332,16266293.0,18,12,86724408,CRE007,Broad
+1290,Flash Sale 48H,TikTok Ads,Katamama Resort,2024-01-24,29873,2034,4374423.0,144,48,177659184,,Retargeting
+1291,Summer Escape 2024,Email Campaign,Katamama Resort,2024-03-30,12433,874,10772105.0,95,33,191800917,CRE044,
+1292,Valentine Weekend ,Meta Ads,Katamama Resort,2024-01-10,22162,749,24160839.0,21,16,30807552,,
+1293,eid holiday package,Organic,The Mulia Nusa Dua,2024-02-17,36207,694,15482574.0,28,11,69602698,CRE008,Retargeting
+1294,Long Weekend Promo,Organic,Alaya Ubud,2024-02-12,49248,1385,14088887.0,43,22,149788364,CRE031,Broad
+1295,Flash Sale 48H,Google Ads,Bisma Eight,2024-02-16,45009,3092,1078120.0,356,288,567745056,,Interest
+1296,Loyalty Member Deal,Google Ads,Bisma Eight,2024-03-05,28584,1156,1502174.0,23,13,47970520,CRE047,Interest
+1297,Eid Holiday Package,Organic,The Layar Seminyak,2024-03-19,41844,2919,10901012.0,175,105,686230125,CRE031,Lookalike
+1298,eid holiday package,Meta Ads,Komaneka Bisma,2024-03-31,12369,860,17209637.0,61,35,123288830,CRE027,Broad
+1299,Loyalty Member Deal,Organic,Katamama Resort,2024-02-05,71979,3713,10569982.0,109,97,248871445,CRE044,Interest
+1300,Summer Escape 2024,Meta Ads,The Mulia Nusa Dua,2024-03-13,34487,1314,10735421.0,100,86,652462306,CRE018,Broad
+1301,Eid Holiday Package,Google Ads,Bisma Eight,2024-01-18,78500,884,14388650.0,32,11,60475085,CRE020,
+1302, Loyalty Member Deal,Meta Ads,The Mulia Nusa Dua,2024-03-27,29844,378,18995578.0,44,23,75820006,CRE010,Lookalike
+1303,Eid Holiday Package ,Google Ads,The Layar Seminyak,2024-01-05,57476,3121,20686768.0,337,211,1015001785,CRE016,Lookalike
+1304,Loyalty Member Deal,Email Campaign,The Mulia Nusa Dua,2024-01-19,27570,558,9740417.0,23,16,78527568,CRE039,Interest
+1305,Eid Holiday Package,Organic,Alaya Ubud,2024-02-13,59659,4299,10028005.0,417,143,273180193,CRE001,Interest
+1306, Summer Escape 2024,Organic,Alaya Ubud,2024-03-01,56520,4401,10011881.0,463,362,2021331256,CRE015,Interest
+1307,Valentine Weekend,Organic,Katamama Resort,2024-03-03,24446,1655,9965060.0,133,84,552164004,CRE018,Lookalike
+1308, Eid Holiday Package,Meta Ads,Bisma Eight,2024-01-23,51045,2719,24808922.0,151,67,358410537,CRE002,Retargeting
+1309,Eid Holiday Package,TikTok Ads,Komaneka Bisma,2024-02-22,12403,582,13343658.0,63,41,318749457,CRE004,Broad
+1310,Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-02-16,30490,1033,5134755.0,49,37,56013116,CRE015,Interest
+1311,Eid Holiday Package ,Email Campaign,The Mulia Nusa Dua,2024-01-01,74813,5369,22421722.0,626,501,1928449200,CRE001,Lookalike
+1312,Valentine Weekend,TikTok Ads,The Mulia Nusa Dua,2024-02-28,52912,2185,15278121.0,193,136,896238776,CRE042,
+1313,Summer Escape 2024,Organic,Katamama Resort,2024-02-24,67129,3331,,157,71,331052055,,Retargeting
+1314,Flash Sale 48H,Organic,Katamama Resort,2024-03-26,12407,667,15607628.0,34,23,108137674,CRE040,Interest
+1315,Long Weekend Promo,Meta Ads,Bisma Eight,2024-03-22,21822,1444,14529774.0,90,34,236579786,CRE025,Interest
+1316,Flash Sale 48H,Meta Ads,Bisma Eight,2024-03-16,30256,1999,16177036.0,238,83,418161221,CRE047,Retargeting
+1317,summer escape 2024,Meta Ads,Alaya Ubud,2024-01-04,22342,867,22282031.0,20,16,127495312,CRE049,
+1318,Long Weekend Promo,Meta Ads,Komaneka Bisma,2024-02-05,62229,4630,6641575.0,246,193,766648496,CRE037,
+1319,Flash Sale 48H,Organic,The Layar Seminyak,2024-03-01,74228,2348,2424310.0,117,64,203150784,,Interest
+1320,Eid Holiday Package,Organic,The Layar Seminyak,2024-01-30,66172,1724,18915710.0,201,60,270848400,CRE004,Broad
+1321,Valentine Weekend ,Google Ads,Katamama Resort,2024-03-17,61450,2791,3296947.0,69,56,339528672,CRE044,Lookalike
+1322,summer escape 2024,TikTok Ads,Alaya Ubud,2024-02-19,1712,44,10629793.0,4,1,6658981,CRE037,Broad
+1323,Summer Escape 2024,Google Ads,Komaneka Bisma,2024-01-02,33386,1282,1840810.0,99,69,450103215,CRE046,Interest
+1324,Summer Escape 2024,Email Campaign,Bisma Eight,2024-02-06,74175,3087,3769806.0,129,56,423086328,CRE006,Broad
+1325,Long Weekend Promo,Google Ads,The Mulia Nusa Dua,2024-02-10,46259,2948,7593054.0,320,165,598822785,CRE001,Retargeting
+1326,Valentine Weekend,Email Campaign,Komaneka Bisma,2024-02-05,8996,533,6930978.0,13,8,19954256,CRE016,Interest
+1327,EID HOLIDAY PACKAGE,Email Campaign,Alaya Ubud,2024-03-20,38069,2204,22266806.0,56,28,96107816,CRE001,Broad
+1328, Eid Holiday Package,TikTok Ads,Bisma Eight,2024-03-18,78755,5978,19461481.0,535,468,3093280164,CRE003,Lookalike
+1329,Eid Holiday Package ,Organic,Komaneka Bisma,2024-02-27,69296,841,519902.0,18,13,36429406,CRE002,Broad
+1330,Loyalty Member Deal,Organic,Alaya Ubud,2024-03-11,70603,1871,6117313.0,51,18,73112076,CRE009,Broad
+1331,summer escape 2024,TikTok Ads,The Mulia Nusa Dua,2024-02-01,21899,330,20606664.0,37,31,61176175,,Broad
+1332,Eid Holiday Package,Organic,The Layar Seminyak,2024-02-10,10150,275,11280663.0,26,21,46947810,CRE021,Retargeting
+1333,Valentine Weekend,Email Campaign,Katamama Resort,2024-03-15,60753,4223,868141.0,258,125,883159375,CRE028,Retargeting
+1334,LOYALTY MEMBER DEAL,TikTok Ads,The Layar Seminyak,2024-02-11,71421,1053,4676339.0,123,37,202751564,,Broad
+1335,Long Weekend Promo,Google Ads,Alaya Ubud,2024-01-20,11696,218,18906813.0,19,14,35480984,CRE024,Broad
+1336,Loyalty Member Deal,Google Ads,Katamama Resort,2024-03-11,16010,679,8773404.0,54,19,131388420,CRE010,Lookalike
+1337,Flash Sale 48H,Meta Ads,The Mulia Nusa Dua,2024-03-08,67956,5422,15514101.0,326,102,331146162,CRE033,Lookalike
+1338,Eid Holiday Package,Organic,Katamama Resort,2024-03-18,8097,474,21703874.0,34,22,104315728,CRE005,Interest
+1339, Valentine Weekend,Meta Ads,The Mulia Nusa Dua,2024-01-01,79475,6241,14560361.0,467,326,2458155404,CRE004,Broad
+1340,Valentine Weekend,Meta Ads,Alaya Ubud,2024-03-16,40818,1699,10348488.0,153,106,403505112,,
+1341,Loyalty Member Deal,Meta Ads,The Layar Seminyak,2024-02-14,74304,5862,,572,229,492231836,,Interest
+1342,Eid Holiday Package,Email Campaign,Bisma Eight,2024-03-01,79892,6034,20517416.0,281,122,900521284,CRE018,Broad
+1343,summer escape 2024,Google Ads,Bisma Eight,2024-03-27,65585,2679,3768366.0,264,148,789076652,,Broad
+1344,Long Weekend Promo,Organic,Alaya Ubud,2024-03-29,49498,3405,19452189.0,304,173,470276799,CRE038,
+1345, Summer Escape 2024,Organic,The Mulia Nusa Dua,2024-03-22,10017,255,520592.0,9,4,26203888,CRE026,
+1346,Summer Escape 2024,Organic,Komaneka Bisma,2024-03-16,48466,1313,23018389.0,109,55,410497725,CRE047,Retargeting
+1347, Valentine Weekend,TikTok Ads,Komaneka Bisma,2024-02-28,40554,492,13208151.0,26,13,64997452,CRE038,Interest
+1348,Summer Escape 2024,Organic,The Layar Seminyak,2024-02-04,72066,2907,12659417.0,69,34,51639472,CRE005,Broad
+1349,Flash Sale 48H ,Organic,Bisma Eight,2024-03-12,33654,2627,13682232.0,96,81,151793352,CRE019,Interest
+1350,Flash Sale 48H,Meta Ads,The Layar Seminyak,2024-01-05,56159,1684,10508637.0,38,21,166481847,CRE046,Retargeting
+1351, Summer Escape 2024,Email Campaign,Katamama Resort,2024-01-20,32493,2326,2424791.0,77,49,129557617,CRE045,Interest
+1352, Summer Escape 2024,Meta Ads,Alaya Ubud,2024-02-25,19793,750,22555299.0,49,41,101872864,CRE017,
+1353,Loyalty Member Deal,Meta Ads,Komaneka Bisma,2024-03-13,22602,662,3720835.0,76,68,125141012,CRE045,Interest
+1354,Eid Holiday Package ,TikTok Ads,Komaneka Bisma,2024-03-16,72822,2915,15184146.0,125,102,731842962,CRE002,Lookalike
+1355,Loyalty Member Deal ,TikTok Ads,Bisma Eight,2024-02-25,15901,1123,9476495.0,28,8,13207680,CRE045,Lookalike
+1356, Flash Sale 48H,Meta Ads,Katamama Resort,2024-03-18,59666,1736,7363790.0,126,89,455136121,,Interest
+1357,Long Weekend Promo,Google Ads,Bisma Eight,2024-01-06,5044,227,17150286.0,24,15,71025255,CRE016,Interest
+1358,Valentine Weekend ,Email Campaign,Alaya Ubud,2024-03-18,74775,3188,10628286.0,157,60,278938260,CRE006,Retargeting
+1359,Loyalty Member Deal,TikTok Ads,The Layar Seminyak,2024-02-08,41906,2684,22167708.0,223,188,880208480,CRE045,Broad
+1360,Long Weekend Promo,Meta Ads,The Mulia Nusa Dua,2024-03-19,76793,6142,3957001.0,319,137,600226866,CRE046,Retargeting
+1361,Valentine Weekend,Organic,Alaya Ubud,2024-02-13,18766,1340,1126191.0,100,61,422534617,CRE033,Interest
+1362,Flash Sale 48H,Email Campaign,Komaneka Bisma,2024-01-22,54942,1807,6559708.0,109,57,110255499,CRE042,Retargeting
+1363,Loyalty Member Deal,Email Campaign,Komaneka Bisma,2024-02-21,16539,1096,7472653.0,68,49,332468724,CRE010,Broad
+1364,Eid Holiday Package,Google Ads,Bisma Eight,2024-01-31,30151,2162,4804220.0,215,116,230303152,,Broad
+1365,Summer Escape 2024,Organic,Alaya Ubud,2024-03-25,51032,2874,22979674.0,193,86,201829444,CRE025,Retargeting
+1366,Flash Sale 48H,Google Ads,Komaneka Bisma,2024-03-06,59095,1195,24238115.0,120,93,600940053,CRE006,
+1367,Summer Escape 2024,Email Campaign,Komaneka Bisma,2024-02-15,71143,4957,8357349.0,197,115,608374955,CRE022,Lookalike
+1368,Summer Escape 2024,Meta Ads,Katamama Resort,2024-01-12,51141,1438,882822.0,74,45,226068840,,Broad
+1369,Valentine Weekend,Email Campaign,Katamama Resort,2024-03-09,1739,54,9936966.0,2,1,4855122,CRE027,Retargeting
+1370,Long Weekend Promo,Meta Ads,Bisma Eight,2024-03-12,76270,4769,17846243.0,233,122,300000318,CRE028,Lookalike
+1371,Loyalty Member Deal,Organic,The Layar Seminyak,2024-03-11,79184,1843,23040214.0,104,84,252714420,,Lookalike
+1372,Long Weekend Promo,TikTok Ads,Komaneka Bisma,2024-03-15,74759,2522,,196,175,1049124650,CRE028,Retargeting
+1373,valentine weekend,Google Ads,Komaneka Bisma,2024-01-06,67590,4858,16985253.0,108,74,504711672,CRE047,Interest
+1374,Loyalty Member Deal,TikTok Ads,The Layar Seminyak,2024-01-09,69169,4226,5091988.0,99,44,104499868,CRE048,
+1375,Flash Sale 48H ,Email Campaign,Bisma Eight,2024-03-13,39230,2432,14563837.0,185,138,238220844,,Retargeting
+1376,Eid Holiday Package ,Organic,The Layar Seminyak,2024-03-07,52034,1913,24344734.0,160,132,263640432,CRE006,Interest
+1377,Summer Escape 2024 ,Meta Ads,The Mulia Nusa Dua,2024-02-11,66547,1271,9642514.0,127,83,284764368,,Broad
+1378,Valentine Weekend,TikTok Ads,Bisma Eight,2024-02-19,18231,536,1172211.0,58,44,255365088,CRE031,Broad
+1379,Summer Escape 2024,Meta Ads,The Layar Seminyak,2024-03-18,65592,3896,18702520.0,215,185,750405140,CRE001,Interest
+1380,Eid Holiday Package,TikTok Ads,Bisma Eight,2024-01-23,62139,4097,6008546.0,415,137,336005652,CRE045,Broad
+1381,Valentine Weekend,Organic,Katamama Resort,2024-03-31,8139,109,19442603.0,10,3,5750097,CRE026,
+1382,Long Weekend Promo,TikTok Ads,Katamama Resort,2024-03-05,27460,334,24618470.0,10,4,13842572,,Interest
+1383,Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-03-25,9976,475,24901205.0,32,23,109276059,CRE041,Interest
+1384,Eid Holiday Package,Organic,Bisma Eight,2024-03-11,78211,3224,16134376.0,298,116,527859044,CRE005,Broad
+1385,Eid Holiday Package,Email Campaign,Katamama Resort,2024-03-18,74788,1167,12902742.0,83,70,284462570,CRE050,Retargeting
+1386,summer escape 2024,Organic,Alaya Ubud,2024-01-09,69445,4448,14484318.0,152,89,168948433,CRE036,Broad
+1387,Flash Sale 48H,Email Campaign,Komaneka Bisma,2024-01-21,30783,827,779869.0,67,40,196531440,CRE013,Lookalike
+1388, Loyalty Member Deal,Email Campaign,Alaya Ubud,2024-03-27,51343,2429,3469247.0,208,132,324225528,CRE016,Retargeting
+1389,Long Weekend Promo,Meta Ads,Bisma Eight,2024-02-18,18232,1071,16645825.0,123,64,114138112,CRE001,Lookalike
+1390,Long Weekend Promo,Email Campaign,Katamama Resort,2024-01-28,1616,81,24314373.0,9,6,16091640,CRE019,Interest
+1391, Long Weekend Promo,Google Ads,The Layar Seminyak,2024-03-24,42574,650,24261072.0,30,26,64449268,CRE041,Broad
+1392,FLASH SALE 48H,Organic,The Mulia Nusa Dua,2024-03-20,775,37,9950205.0,2,1,3931903,CRE021,Lookalike
+1393,eid holiday package,Google Ads,Katamama Resort,2024-03-22,62858,3219,11749486.0,140,123,914906595,CRE002,Lookalike
+1394,Valentine Weekend ,Email Campaign,The Layar Seminyak,2024-03-20,47116,1361,12956475.0,41,13,26718614,CRE047,Broad
+1395,Flash Sale 48H,Organic,The Layar Seminyak,2024-01-17,25393,1815,13563466.0,120,41,242241530,CRE037,Retargeting
+1396,flash sale 48h,TikTok Ads,Katamama Resort,2024-03-24,74260,4735,12451192.0,362,301,2080539090,CRE041,Lookalike
+1397,Eid Holiday Package,Organic,Bisma Eight,2024-03-06,30381,338,7762432.0,26,20,144531160,CRE043,Broad
+1398,Loyalty Member Deal,Email Campaign,Komaneka Bisma,2024-01-20,23986,922,6257138.0,85,69,311563428,CRE043,
+1399,loyalty member deal,Google Ads,Komaneka Bisma,2024-03-19,37682,1210,650056.0,26,18,104714676,CRE009,Retargeting
+1400,summer escape 2024,TikTok Ads,Komaneka Bisma,2024-02-07,61221,2067,,174,103,752622133,,Broad
+1401,Flash Sale 48H,Google Ads,The Mulia Nusa Dua,2024-01-19,45886,939,10204710.0,56,16,77397968,CRE023,Retargeting
+1402,Eid Holiday Package,TikTok Ads,Katamama Resort,2024-03-26,4454,212,8963397.0,15,9,64440531,CRE014,Broad
+1403,Eid Holiday Package,Meta Ads,Katamama Resort,2024-03-12,40498,1387,11729448.0,146,71,206431293,CRE012,Interest
+1404,Loyalty Member Deal,Meta Ads,Katamama Resort,2024-01-01,57660,4054,10308528.0,414,356,1190136480,CRE016,Retargeting
+1405,Summer Escape 2024,Google Ads,The Layar Seminyak,2024-03-25,76098,2455,20366176.0,151,73,143634946,CRE004,Broad
+1406,Loyalty Member Deal,Meta Ads,Komaneka Bisma,2024-03-30,9373,233,23197666.0,13,9,30010671,CRE031,Interest
+1407,Loyalty Member Deal,Email Campaign,Komaneka Bisma,2024-03-27,49450,3126,8376170.0,199,143,1139523099,CRE018,Broad
+1408,Eid Holiday Package,Organic,Katamama Resort,2024-03-31,47179,1140,20900636.0,43,34,104879902,CRE015,Retargeting
+1409,Summer Escape 2024,TikTok Ads,The Layar Seminyak,2024-03-03,75468,3816,3631139.0,185,81,484892163,CRE036,
+1410,Flash Sale 48H,Email Campaign,Katamama Resort,2024-01-18,55714,1272,2417607.0,63,23,88500481,CRE047,Retargeting
+1411,Eid Holiday Package,Meta Ads,The Mulia Nusa Dua,2024-01-01,43558,1517,7037509.0,95,55,262139020,CRE032,Lookalike
+1412,Eid Holiday Package,Meta Ads,Katamama Resort,2024-01-01,814,22,6162807.0,2,1,5417645,CRE045,Interest
+1413,Flash Sale 48H,Organic,Bisma Eight,2024-01-01,14568,603,17300702.0,38,31,205140113,CRE032,Lookalike
+1414,Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-01-09,60150,3586,23469697.0,225,181,589008933,,Interest
+1415,Long Weekend Promo,Organic,The Mulia Nusa Dua,2024-03-28,71149,5060,652919.0,603,330,2383696920,CRE031,Lookalike
+1416,SUMMER ESCAPE 2024,Organic,Katamama Resort,2024-03-12,31215,1586,15601199.0,48,24,128529600,,Lookalike
+1417, Loyalty Member Deal,Meta Ads,Alaya Ubud,2024-03-22,55805,3149,1332595.0,70,54,368448588,CRE002,Interest
+1418,Summer Escape 2024,Meta Ads,Alaya Ubud,2024-01-28,24163,1029,18766296.0,23,20,57829840,CRE027,Interest
+1419,Flash Sale 48H,TikTok Ads,Katamama Resort,2024-02-08,40598,840,11003819.0,36,28,170380252,CRE038,Lookalike
+1420,Flash Sale 48H,Email Campaign,The Layar Seminyak,2024-01-10,1663,21,1125509.0,0,0,0,CRE015,Retargeting
+1421,Loyalty Member Deal,Organic,Alaya Ubud,2024-01-30,11966,729,1250318.0,40,20,137639280,CRE009,Retargeting
+1422,Flash Sale 48H,TikTok Ads,Katamama Resort,2024-01-11,66638,2827,6310825.0,278,153,982130256,CRE013,Retargeting
+1423,VALENTINE WEEKEND,Meta Ads,Komaneka Bisma,2024-02-08,8999,121,9243835.0,4,1,4247049,CRE028,Retargeting
+1424,Flash Sale 48H,Email Campaign,Alaya Ubud,2024-02-13,68270,2363,5834790.0,108,76,322102288,CRE010,Retargeting
+1425,Valentine Weekend,Email Campaign,Komaneka Bisma,2024-02-26,36455,1967,19495517.0,89,77,241190642,,Broad
+1426,Summer Escape 2024,Organic,Katamama Resort,2024-01-10,62973,925,17309457.0,76,25,160104025,CRE046,Broad
+1427,long weekend promo,TikTok Ads,The Mulia Nusa Dua,2024-02-25,29577,1240,7646702.0,147,122,693072728,,Retargeting
+1428,SUMMER ESCAPE 2024,Email Campaign,The Layar Seminyak,2024-02-17,20860,1208,22407428.0,108,94,275083386,,Broad
+1429,Valentine Weekend,Email Campaign,The Layar Seminyak,2024-01-20,12727,179,7117603.0,3,0,0,,Retargeting
+1430,Eid Holiday Package,Meta Ads,Komaneka Bisma,2024-03-06,42621,2205,4198047.0,55,27,96726852,CRE042,Broad
+1431,valentine weekend,Organic,Alaya Ubud,2024-03-05,62654,2721,15217850.0,299,135,649420740,CRE037,Broad
+1432,Valentine Weekend,Meta Ads,Alaya Ubud,2024-02-22,74125,5097,4217555.0,234,148,475157404,CRE034,Interest
+1433, Loyalty Member Deal,Google Ads,The Layar Seminyak,2024-03-31,31761,1797,3728131.0,78,53,339464947,CRE034,
+1434,Loyalty Member Deal ,Meta Ads,The Layar Seminyak,2024-03-03,52252,1715,15395482.0,98,57,298437579,CRE039,
+1435,Valentine Weekend,TikTok Ads,Komaneka Bisma,2024-02-10,78226,5325,20663906.0,602,258,762963276,CRE017,Broad
+1436,Valentine Weekend,Google Ads,Alaya Ubud,2024-01-05,36709,1625,23365950.0,59,49,109106389,CRE050,Interest
+1437,Valentine Weekend,Email Campaign,Katamama Resort,2024-01-27,1585,107,14909959.0,3,1,5513062,CRE032,Interest
+1438,Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-01-30,22020,1433,7868719.0,116,92,619964540,CRE046,Retargeting
+1439,Valentine Weekend,Meta Ads,Katamama Resort,2024-03-29,35960,1790,13272566.0,132,92,202253720,CRE015,Lookalike
+1440,Eid Holiday Package,TikTok Ads,The Mulia Nusa Dua,2024-02-12,79500,6099,9347248.0,226,97,664244651,CRE016,Retargeting
+1441, Long Weekend Promo,Email Campaign,The Layar Seminyak,2024-03-16,64990,1015,9109778.0,94,78,601368222,,Retargeting
+1442,long weekend promo,TikTok Ads,Katamama Resort,2024-03-08,75513,4346,17977236.0,290,168,1293821256,,Retargeting
+1443,loyalty member deal,Meta Ads,Alaya Ubud,2024-01-18,47020,1405,5746434.0,73,31,170329004,CRE017,Broad
+1444,Long Weekend Promo,Email Campaign,The Mulia Nusa Dua,2024-01-31,25006,924,21266422.0,33,10,72041590,CRE031,Lookalike
+1445,Flash Sale 48H,Meta Ads,Komaneka Bisma,2024-01-28,71148,1591,21750101.0,157,123,358104783,CRE005,Retargeting
+1446,Valentine Weekend,Meta Ads,The Layar Seminyak,2024-01-21,76310,4526,4465490.0,511,280,1256021760,,Lookalike
+1447,Long Weekend Promo,Google Ads,Komaneka Bisma,2024-02-25,6125,202,16407504.0,9,5,21062865,CRE050,Interest
+1448,Flash Sale 48H,TikTok Ads,Bisma Eight,2024-03-04,7380,496,18337541.0,28,23,134941667,,Retargeting
+1449,Loyalty Member Deal,Google Ads,Komaneka Bisma,2024-01-02,5112,289,7171914.0,8,3,8806590,CRE001,Retargeting
+1450,Summer Escape 2024,Email Campaign,The Mulia Nusa Dua,2024-01-04,53355,1988,21366253.0,82,65,331171555,CRE035,Broad
+1451,Summer Escape 2024 ,Meta Ads,The Layar Seminyak,2024-01-31,19505,900,18794888.0,88,74,118550146,CRE007,Retargeting
+1452,Eid Holiday Package,Organic,The Mulia Nusa Dua,2024-03-14,54680,1794,5379687.0,144,118,447189674,,Retargeting
+1453,Loyalty Member Deal,TikTok Ads,Komaneka Bisma,2024-02-25,65111,2032,23431772.0,146,117,542304828,CRE027,Broad
+1454,Summer Escape 2024,TikTok Ads,Komaneka Bisma,2024-01-08,48354,1068,3626835.0,70,24,166440600,CRE013,Lookalike
+1455,Summer Escape 2024,Google Ads,The Mulia Nusa Dua,2024-02-08,52501,2129,13396961.0,205,115,233811675,CRE044,Interest
+1456,Flash Sale 48H,Email Campaign,The Layar Seminyak,2024-02-29,48487,3322,14358052.0,123,81,373972464,CRE007,Broad
+1457,Loyalty Member Deal,Organic,Komaneka Bisma,2024-03-29,25965,1858,4777060.0,62,29,228328252,CRE020,Lookalike
+1458, Eid Holiday Package,Meta Ads,Alaya Ubud,2024-01-24,24137,942,24242325.0,93,41,194115812,CRE046,Interest
+1459,eid holiday package,Email Campaign,The Layar Seminyak,2024-03-11,19967,1145,20537495.0,55,18,84186342,,Broad
+1460,Summer Escape 2024,Google Ads,Alaya Ubud,2024-02-22,39263,1112,,112,66,108260790,CRE042,Interest
+1461,Flash Sale 48H,Email Campaign,Alaya Ubud,2024-01-20,3535,143,23897332.0,8,5,37647010,CRE020,Interest
+1462,Summer Escape 2024,Email Campaign,Alaya Ubud,2024-02-01,22673,528,20584433.0,32,28,48790448,CRE010,Broad
+1463,Long Weekend Promo,Google Ads,The Mulia Nusa Dua,2024-01-27,15206,669,18579494.0,14,8,27048144,CRE015,Retargeting
+1464,Valentine Weekend ,Organic,Alaya Ubud,2024-01-31,70099,2427,23662538.0,199,168,454353816,CRE005,Lookalike
+1465,Valentine Weekend,TikTok Ads,The Mulia Nusa Dua,2024-03-24,24206,952,8264740.0,63,18,104845842,CRE050,Interest
+1466,Long Weekend Promo,Meta Ads,Katamama Resort,2024-03-26,10839,179,6543855.0,19,13,36397270,,Lookalike
+1467,Summer Escape 2024 ,Meta Ads,Komaneka Bisma,2024-02-06,66049,2530,,182,120,910704600,CRE005,Broad
+1468,Eid Holiday Package,Meta Ads,Komaneka Bisma,2024-01-03,12645,582,3646286.0,69,61,275717377,CRE028,Interest
+1469, Valentine Weekend,TikTok Ads,Komaneka Bisma,2024-01-01,68122,2419,2276327.0,284,252,816658920,CRE032,
+1470,Summer Escape 2024,Organic,Katamama Resort,2024-03-21,44775,2956,5633445.0,340,192,986747136,,Lookalike
+1471, Eid Holiday Package,Organic,Bisma Eight,2024-01-02,13598,771,23777934.0,26,17,37479220,,Interest
+1472,Long Weekend Promo ,TikTok Ads,Komaneka Bisma,2024-03-25,45560,2423,2331518.0,111,64,509963392,CRE007,Broad
+1473,Flash Sale 48H,Google Ads,The Layar Seminyak,2024-02-16,68025,1631,7874862.0,144,58,264188724,CRE026,Interest
+1474,Eid Holiday Package,Organic,Bisma Eight,2024-02-03,58094,4339,17804975.0,264,143,951123173,CRE006,Lookalike
+1475,FLASH SALE 48H,Email Campaign,Katamama Resort,2024-02-04,41481,1958,6970298.0,140,115,493889120,CRE034,Lookalike
+1476,Long Weekend Promo,Google Ads,The Mulia Nusa Dua,2024-02-21,993,12,22164613.0,1,0,0,CRE019,Interest
+1477,Loyalty Member Deal,Email Campaign,Bisma Eight,2024-02-09,29950,435,670252.0,42,16,47194592,CRE014,Retargeting
+1478,Flash Sale 48H,Meta Ads,Komaneka Bisma,2024-01-09,66341,3349,8411254.0,216,157,603805044,CRE017,Lookalike
+1479,Summer Escape 2024,Google Ads,Katamama Resort,2024-01-19,56890,3638,7245475.0,380,232,561249528,CRE003,
+1480,Summer Escape 2024,Organic,The Layar Seminyak,2024-03-04,16085,402,18761572.0,17,5,23390255,CRE017,Lookalike
+1481,Valentine Weekend ,Google Ads,The Layar Seminyak,2024-02-14,21934,1711,14495950.0,153,77,584635359,CRE046,Broad
+1482,Long Weekend Promo,Email Campaign,Katamama Resort,2024-02-07,28682,747,5301980.0,15,9,63888408,CRE010,Interest
+1483, Flash Sale 48H,Meta Ads,The Mulia Nusa Dua,2024-03-14,29692,1797,18641996.0,72,37,66518119,CRE011,Broad
+1484,loyalty member deal,Meta Ads,The Mulia Nusa Dua,2024-03-14,30345,852,15330403.0,33,14,35440776,,Retargeting
+1485, Valentine Weekend,Google Ads,Alaya Ubud,2024-01-05,45692,961,20578865.0,84,69,500154711,CRE008,Broad
+1486,Loyalty Member Deal,Organic,Alaya Ubud,2024-03-25,69230,3229,7967871.0,160,122,926307082,CRE011,Retargeting
+1487, Summer Escape 2024,TikTok Ads,Alaya Ubud,2024-03-27,39138,747,16169910.0,80,43,205810513,CRE044,Lookalike
+1488,Summer Escape 2024,Email Campaign,The Layar Seminyak,2024-02-18,51230,2415,1087808.0,80,57,390674466,CRE028,Interest
+1489,Valentine Weekend,Google Ads,The Mulia Nusa Dua,2024-03-10,61984,674,16032541.0,78,50,271402800,CRE030,Interest
+1490,LOYALTY MEMBER DEAL,TikTok Ads,Komaneka Bisma,2024-01-12,10478,605,8263350.0,62,35,264226935,CRE022,Retargeting
+1491,Long Weekend Promo,Google Ads,The Mulia Nusa Dua,2024-01-15,76244,3478,23892885.0,170,63,234600156,CRE047,Broad
+1492,Summer Escape 2024,Google Ads,Bisma Eight,2024-01-07,63206,1088,13703754.0,113,86,279993382,CRE003,Broad
+1493,Long Weekend Promo,Meta Ads,Alaya Ubud,2024-02-24,60090,1320,21815520.0,105,37,108517744,,Lookalike
+1494,Summer Escape 2024 ,Email Campaign,Alaya Ubud,2024-01-08,597,46,2552900.0,5,3,11956938,CRE003,Broad
+1495,Loyalty Member Deal ,Email Campaign,The Layar Seminyak,2024-02-03,63337,4590,13687731.0,222,137,535177896,CRE019,Retargeting
+1496, Valentine Weekend,Google Ads,Komaneka Bisma,2024-01-22,13939,217,15426713.0,7,2,4871452,CRE027,Broad
+1497,Long Weekend Promo,Organic,The Layar Seminyak,2024-01-12,10680,509,7000731.0,47,37,146723759,CRE043,Interest
+1498,Long Weekend Promo,Email Campaign,The Mulia Nusa Dua,2024-01-01,33955,2349,12034117.0,264,128,737026432,CRE002,Lookalike
+1499,Summer Escape 2024,Organic,The Layar Seminyak,2024-02-05,15929,425,21217835.0,44,21,71861517,CRE044,Interest
+1500,Eid Holiday Package,Email Campaign,The Layar Seminyak,2024-03-18,67769,1264,18360599.0,51,16,127308464,CRE049,Lookalike
+1501,EID HOLIDAY PACKAGE,Meta Ads,Komaneka Bisma,2024-01-28,52878,3873,9933279.0,134,104,516832992,CRE001,Broad
+1502,Loyalty Member Deal,Meta Ads,Bisma Eight,2024-03-29,12267,576,2268773.0,25,14,95021052,CRE002,Broad
+1503,Valentine Weekend,Email Campaign,The Mulia Nusa Dua,2024-01-26,62923,3484,2201434.0,158,87,156148731,,Lookalike
+1504,eid holiday package,Email Campaign,Katamama Resort,2024-02-01,69291,1826,7178115.0,146,70,158136230,CRE048,
+1505, Valentine Weekend,Organic,Katamama Resort,2024-03-18,22087,909,,60,51,301597527,,Retargeting
+1506,Loyalty Member Deal,Email Campaign,Bisma Eight,2024-02-13,35187,976,17066867.0,98,52,107214172,CRE040,Retargeting
+1507, Flash Sale 48H,Google Ads,Bisma Eight,2024-02-22,51933,1089,4140714.0,96,61,468644090,CRE026,Lookalike
+1508,Loyalty Member Deal,Email Campaign,The Layar Seminyak,2024-02-22,64698,2644,9692216.0,119,74,153418650,CRE032,Lookalike
+1509,Valentine Weekend,Email Campaign,Alaya Ubud,2024-02-10,29626,440,6140506.0,10,6,15605616,CRE027,Lookalike
+1510,Long Weekend Promo,TikTok Ads,Bisma Eight,2024-03-10,62688,3967,17350237.0,413,274,465105136,,Retargeting
+1511, Loyalty Member Deal,TikTok Ads,Katamama Resort,2024-02-02,45211,2647,11356466.0,198,105,272946135,,Broad
+1512, Loyalty Member Deal,Email Campaign,Komaneka Bisma,2024-03-03,31761,1144,1132974.0,47,18,64326222,CRE042,Broad
+1513,flash sale 48h,Meta Ads,Alaya Ubud,2024-02-28,73425,5298,16778789.0,164,125,231389500,CRE016,
+1514,Loyalty Member Deal,Email Campaign,Alaya Ubud,2024-01-04,18221,1384,15892275.0,49,26,101000796,CRE048,Interest
+1515,loyalty member deal,Organic,Alaya Ubud,2024-03-10,33835,1365,22104781.0,34,19,133431281,CRE031,Retargeting
+1516,Eid Holiday Package,Google Ads,The Mulia Nusa Dua,2024-03-21,50214,712,1430483.0,74,35,107369010,CRE023,Broad
+1517,Summer Escape 2024,Email Campaign,The Layar Seminyak,2024-01-18,75252,4171,11842689.0,339,268,1937594172,CRE026,Lookalike
+1518,Flash Sale 48H ,Google Ads,Bisma Eight,2024-02-04,27032,653,8726035.0,48,22,100248720,CRE041,Lookalike
+1519,eid holiday package,TikTok Ads,Alaya Ubud,2024-03-22,48693,2537,22106880.0,237,147,636803265,CRE041,Interest
+1520,Summer Escape 2024,Organic,Komaneka Bisma,2024-01-15,25345,1942,1582174.0,119,75,207269850,CRE016,Retargeting
+1521,Valentine Weekend ,Meta Ads,The Layar Seminyak,2024-01-15,49629,3444,14740834.0,342,204,328040364,CRE010,Broad
+1522,Flash Sale 48H,TikTok Ads,Komaneka Bisma,2024-03-30,9601,718,1396482.0,36,11,44976459,CRE005,Lookalike
+1523,Summer Escape 2024,TikTok Ads,Komaneka Bisma,2024-02-22,65142,4444,16467885.0,378,195,651470625,CRE013,Interest
+1524,Long Weekend Promo ,Google Ads,Alaya Ubud,2024-03-14,49798,1481,15445193.0,137,72,292646376,,Retargeting
+1525,Long Weekend Promo,Organic,Bisma Eight,2024-01-02,14527,822,23089767.0,50,21,143491131,CRE016,
+1526,Summer Escape 2024,Google Ads,Alaya Ubud,2024-01-09,54497,4086,7549094.0,372,185,326350360,CRE026,Interest
+1527,Summer Escape 2024,Meta Ads,The Mulia Nusa Dua,2024-01-11,67624,3836,4778198.0,150,69,396756417,CRE022,Broad
+1528,Long Weekend Promo ,Email Campaign,The Layar Seminyak,2024-01-15,13139,597,12641287.0,39,31,66534525,CRE023,Lookalike
+1529,Loyalty Member Deal,TikTok Ads,Bisma Eight,2024-03-29,47588,1518,5620199.0,110,45,190833120,CRE029,Retargeting
+1530,valentine weekend,Meta Ads,Alaya Ubud,2024-01-05,6855,386,16436654.0,35,24,149665968,CRE037,Lookalike
+1531,Summer Escape 2024,Google Ads,Katamama Resort,2024-02-28,45403,3315,2155582.0,383,122,836638912,CRE012,
+1532,Long Weekend Promo,TikTok Ads,The Layar Seminyak,2024-03-06,47716,1837,13458246.0,69,48,326542080,,Interest
+1533,Flash Sale 48H,Organic,Bisma Eight,2024-01-10,59608,2307,6087038.0,94,55,304164630,,Retargeting
+1534,Long Weekend Promo,Email Campaign,The Mulia Nusa Dua,2024-01-18,14360,572,10381547.0,44,39,67918656,CRE003,
+1535,Summer Escape 2024,Email Campaign,Katamama Resort,2024-02-26,23293,1170,12273692.0,28,11,87417858,CRE015,Interest
+1536,Long Weekend Promo,Google Ads,Alaya Ubud,2024-03-16,49530,1733,24058701.0,89,46,247440900,CRE037,Broad
+1537, Eid Holiday Package,Email Campaign,The Mulia Nusa Dua,2024-02-08,30807,1717,11506450.0,183,78,536446638,CRE023,Broad
+1538, Long Weekend Promo,Meta Ads,Bisma Eight,2024-03-17,59094,4330,5103080.0,340,161,258055469,CRE025,Retargeting
+1539,Long Weekend Promo,Google Ads,Komaneka Bisma,2024-02-23,46385,2791,1817189.0,257,158,329013986,CRE014,Retargeting
+1540,Summer Escape 2024,Meta Ads,The Layar Seminyak,2024-02-11,37193,780,23851901.0,64,38,92170140,,Lookalike
+1541,Summer Escape 2024 ,Email Campaign,Alaya Ubud,2024-03-28,69188,5275,10501057.0,426,259,1939175994,CRE030,Broad
+1542,Summer Escape 2024,Meta Ads,Komaneka Bisma,2024-01-18,807,52,756728.0,2,1,3803912,CRE049,Broad
+1543, Summer Escape 2024,Meta Ads,The Layar Seminyak,2024-03-07,69270,4204,7182624.0,459,312,574474680,CRE045,Retargeting
+1544,Valentine Weekend,Organic,Komaneka Bisma,2024-01-02,35312,2208,19423004.0,106,70,257147660,CRE004,
+1545,LONG WEEKEND PROMO,Organic,Alaya Ubud,2024-01-19,59603,3555,11659031.0,105,71,179385831,CRE011,
+1546,Flash Sale 48H,Email Campaign,Bisma Eight,2024-03-11,24300,650,11203694.0,25,13,97731673,,Broad
+1547, Eid Holiday Package,Meta Ads,Katamama Resort,2024-01-29,24762,1690,,153,84,671902308,CRE009,Interest
+1548,Long Weekend Promo ,Organic,The Mulia Nusa Dua,2024-03-11,51044,1855,18782965.0,84,73,547641547,,Retargeting
+1549,Loyalty Member Deal,Organic,The Mulia Nusa Dua,2024-02-06,37853,1256,8021321.0,56,20,66549620,CRE019,Broad
+1550,Summer Escape 2024 ,Email Campaign,Komaneka Bisma,2024-01-12,66733,2074,22376890.0,82,72,342423144,CRE044,Retargeting
+1551,Long Weekend Promo,TikTok Ads,Komaneka Bisma,2024-01-25,34266,570,15997606.0,15,8,24156008,,Broad
+1552,Loyalty Member Deal ,Meta Ads,Bisma Eight,2024-02-03,19548,1554,9259429.0,116,94,334612176,CRE024,
+1553,Long Weekend Promo,Google Ads,Alaya Ubud,2024-03-30,1956,149,5946146.0,14,12,59565972,CRE001,Lookalike
+1554,eid holiday package,TikTok Ads,Katamama Resort,2024-03-07,40771,1888,20220590.0,117,69,513945603,CRE032,Interest
+1555,Eid Holiday Package,Email Campaign,The Mulia Nusa Dua,2024-03-07,36500,2416,8817241.0,232,138,824340102,CRE019,Broad
+1556,Summer Escape 2024,Organic,Alaya Ubud,2024-01-09,66157,2492,18012461.0,222,82,213152030,CRE047,Interest
+1557,Valentine Weekend,Meta Ads,The Mulia Nusa Dua,2024-03-19,63375,3265,8884157.0,260,146,254630862,CRE017,
+1558,Valentine Weekend,Organic,The Layar Seminyak,2024-02-29,6145,449,10782150.0,45,18,75987882,CRE025,Interest
+1559,Eid Holiday Package,Organic,Komaneka Bisma,2024-02-09,31004,1851,16191241.0,116,61,269027080,,Interest
+1560,Loyalty Member Deal,Email Campaign,Katamama Resort,2024-02-26,38738,2442,7464019.0,206,129,831676158,CRE013,Retargeting
+1561,Valentine Weekend,Google Ads,The Mulia Nusa Dua,2024-03-08,42773,2688,16750815.0,311,103,613468000,CRE023,Lookalike
+1562,Long Weekend Promo,Google Ads,Katamama Resort,2024-01-26,41286,2104,11835696.0,175,130,459200040,CRE007,Lookalike
+1563, Loyalty Member Deal,TikTok Ads,Alaya Ubud,2024-03-19,38645,1417,22659422.0,95,41,97198085,CRE038,Lookalike
+1564,Long Weekend Promo ,Meta Ads,The Mulia Nusa Dua,2024-02-11,62978,4323,2659445.0,279,191,1175053965,CRE007,
+1565,FLASH SALE 48H,Google Ads,Bisma Eight,2024-02-07,27831,301,1335267.0,17,9,41615181,CRE006,Broad
+1566,Long Weekend Promo,Organic,Bisma Eight,2024-02-20,11296,827,9705917.0,99,80,256609760,,Interest
+1567,Valentine Weekend,Organic,Alaya Ubud,2024-02-11,19691,1321,18442617.0,111,52,359658832,CRE022,Lookalike
+1568,Summer Escape 2024,Email Campaign,Komaneka Bisma,2024-01-21,59391,3109,21109344.0,193,158,712242038,CRE003,Lookalike
+1569,loyalty member deal,Organic,The Mulia Nusa Dua,2024-03-16,7105,235,22766760.0,5,3,8351466,CRE021,Retargeting
+1570,Eid Holiday Package ,Email Campaign,Komaneka Bisma,2024-01-10,9360,660,13704784.0,40,27,191151063,CRE019,Broad
+1571,Eid Holiday Package,Organic,Komaneka Bisma,2024-02-06,12112,714,4071481.0,65,33,58326180,CRE046,Retargeting
+1572,Summer Escape 2024,TikTok Ads,The Layar Seminyak,2024-03-20,53302,4256,24659200.0,308,148,1107423764,CRE034,Lookalike
+1573,Long Weekend Promo,Organic,The Layar Seminyak,2024-01-17,40733,2430,8022716.0,163,129,677677119,,Lookalike
+1574, Loyalty Member Deal,Organic,Katamama Resort,2024-01-22,58656,3708,8615856.0,115,56,162783264,CRE003,Retargeting
+1575,Long Weekend Promo,Email Campaign,Katamama Resort,2024-02-05,13082,381,24753277.0,44,25,105562375,CRE048,Lookalike
+1576,Valentine Weekend,TikTok Ads,Katamama Resort,2024-03-06,69158,4820,1183574.0,575,376,2815704576,,Broad
+1577,flash sale 48h,Meta Ads,The Layar Seminyak,2024-02-10,63569,4990,15801274.0,427,147,468814899,CRE046,Interest
+1578,summer escape 2024,Meta Ads,Komaneka Bisma,2024-01-17,1221,30,16203554.0,1,0,0,CRE045,Retargeting
+1579,Eid Holiday Package,TikTok Ads,Alaya Ubud,2024-01-28,55681,1242,16950496.0,145,72,559793016,CRE015,Retargeting
+1580,LONG WEEKEND PROMO,TikTok Ads,Komaneka Bisma,2024-02-14,4259,51,5890045.0,4,2,15488214,CRE005,
+1581,Long Weekend Promo,TikTok Ads,The Mulia Nusa Dua,2024-01-04,2704,80,,8,3,8539941,CRE016,Lookalike
+1582, Eid Holiday Package,Meta Ads,Katamama Resort,2024-01-25,68781,3805,5960496.0,316,120,862676040,CRE019,
+1583,Eid Holiday Package ,TikTok Ads,Katamama Resort,2024-03-17,53402,745,1334999.0,71,62,368030078,,Interest
+1584, Eid Holiday Package,Google Ads,The Mulia Nusa Dua,2024-01-26,23877,500,5495105.0,27,12,77114064,CRE030,Lookalike
+1585,Valentine Weekend,Email Campaign,The Layar Seminyak,2024-01-14,63575,4854,22865784.0,255,121,194535330,,Broad
+1586,Loyalty Member Deal,Email Campaign,The Layar Seminyak,2024-01-08,10441,176,22200426.0,5,2,6181088,,
+1587,Flash Sale 48H,Meta Ads,The Mulia Nusa Dua,2024-02-23,73360,4979,8218017.0,413,147,273523341,CRE009,Lookalike
+1588,Loyalty Member Deal ,Google Ads,Bisma Eight,2024-01-04,77636,3129,3919639.0,297,242,1702606730,CRE020,Interest
+1589,Long Weekend Promo,Meta Ads,The Layar Seminyak,2024-02-24,31895,378,24828074.0,36,26,76385270,CRE007,Interest
+1590,Summer Escape 2024,Meta Ads,The Layar Seminyak,2024-02-04,70607,2697,10517713.0,187,125,852905250,CRE023,
+1591,Flash Sale 48H,TikTok Ads,The Layar Seminyak,2024-03-08,22392,1029,14422588.0,116,104,452701808,CRE049,Interest
+1592,LOYALTY MEMBER DEAL,Meta Ads,Komaneka Bisma,2024-02-03,50235,3334,10983494.0,366,117,758671875,CRE013,Broad
+1593,Long Weekend Promo,Organic,The Mulia Nusa Dua,2024-02-07,14349,807,19521797.0,59,33,190739406,CRE010,Retargeting
+1594,Valentine Weekend,Meta Ads,The Layar Seminyak,2024-01-23,26982,1810,24445579.0,118,58,190803702,,Interest
+1595,Flash Sale 48H ,Google Ads,Katamama Resort,2024-01-24,52492,2986,21619548.0,348,228,1800911124,,Lookalike
+1596, Flash Sale 48H,Organic,The Mulia Nusa Dua,2024-01-06,61631,4760,16454207.0,103,92,592542376,CRE009,Interest
+1597,Eid Holiday Package,Meta Ads,The Layar Seminyak,2024-03-29,79100,1159,3454617.0,135,40,122250240,CRE031,Interest
+1598,Loyalty Member Deal,TikTok Ads,The Layar Seminyak,2024-03-03,68320,4004,15277210.0,262,214,617489938,CRE010,Lookalike
+1599,Eid Holiday Package,Google Ads,Komaneka Bisma,2024-01-09,54839,4202,22218667.0,86,71,421950089,CRE039,Lookalike
+1600,loyalty member deal,Google Ads,The Mulia Nusa Dua,2024-03-19,71849,3159,16451787.0,100,88,486206688,CRE049,Lookalike

@@ -1,0 +1,851 @@
+customer_id,full_name,email,phone,city,nationality,loyalty_tier,joined_date
+CUST00001,Customer 1,customer.1@gmail.com,08782090572,Jakarta,Indonesian,,2022-01-10
+CUST00002,Customer 2,  customer 2@hotmail.com  ,08262365542,Sydney,American,Gold,2022-03-08
+CUST00003,Customer 3,customer.3@gmail.com,08663407893,Singapore,Australian,Gold,2022-06-02
+CUST00004,Customer 4,customer.4@gmail.com,08177659605,Bali,Singaporean,Platinum,2023-05-16
+CUST00005,Customer 5,  customer 5@hotmail.com  ,08586226618,Surabaya,Singaporean,Platinum,2022-07-20
+CUST00006,Customer 6,customer.6@gmail.com,08301822108,Sydney,Indonesian,Silver,2020-03-24
+CUST00007,Customer 7,  customer 7@hotmail.com  ,08299352014,Sydney,Indonesian,Platinum,2020-02-18
+CUST00008,Customer 8,customer8@yahoo.com,08375813990,Melbourne,Australian,,2023-08-05
+CUST00009,Customer 9,customer.9@gmail.com,08658506579,Surabaya,Indonesian,Platinum,2022-01-28
+CUST00010,Customer 10,customer.10@gmail.com,08797709566,Jakarta,Australian,Gold,2022-09-11
+CUST00011,Customer 11,customer.11@gmail.com,,Surabaya,British,Bronze,2023-06-24
+CUST00012,Customer 12,customer12@yahoo.com,08251078407,Singapore,Singaporean,Silver,2021-09-27
+CUST00013,Customer 13,customer13@yahoo.com,08112115955,Singapore,Australian,,2021-11-23
+CUST00013,Customer 13,customer.13@gmail.com,08112115955,Singapore,Australian,,2021-11-23
+CUST00014,Customer 14,customer.14@gmail.com,08546332504,,Singaporean,Bronze,2022-07-02
+CUST00015,Customer 15,customer.15@gmail.com,08509718775,Melbourne,British,Platinum,2020-07-22
+CUST00016,Customer 16,customer16@yahoo.com,08679408548,Surabaya,British,Bronze,2022-12-08
+CUST00017,Customer 17,  customer 17@hotmail.com  ,08863220368,Sydney,Australian,Gold,2020-11-05
+CUST00018,Customer 18,customer18@yahoo.com,08242745682,Melbourne,Singaporean,Gold,2021-07-21
+CUST00019,Customer 19,customer.19@gmail.com,08256399365,Jakarta,American,,2022-12-31
+CUST00020,Customer 20,customer20@yahoo.com,08169203678,Sydney,British,Bronze,2023-10-21
+CUST00021,Customer 21,customer.21@gmail.com,08945130271,Melbourne,British,Gold,2023-06-10
+CUST00022,Customer 22,customer.22@gmail.com,08153573464,Jakarta,Australian,,2023-02-18
+CUST00023,Customer 23,customer 23@,08891827619,Sydney,American,Bronze,2021-08-19
+CUST00024,Customer 24,customer.24@gmail.com,08315438018,Bali,American,Gold,2023-10-21
+CUST00025,Customer 25,customer.25@gmail.com,08985894685,Singapore,Australian,,2020-10-01
+CUST00025,Customer 25,customer.25@gmail.com,08985894685,Singapore,Australian,,2020-10-01
+CUST00026,Customer 26,customer.26@gmail.com,08574507973,Bali,Singaporean,Bronze,2023-03-11
+CUST00027,Customer 27,customer.27@gmail.com,08432023864,Melbourne,British,Platinum,2023-05-04
+CUST00028,Customer 28,customer.28@gmail.com,08399846107,Melbourne,Indonesian,Gold,2022-03-21
+CUST00029,Customer 29,customer.29@gmail.com,08396406351,Bali,British,Platinum,2023-09-01
+CUST00030,Customer 30,customer.30@gmail.com,08947342513,Sydney,Indonesian,Platinum,2023-10-25
+CUST00031,Customer 31,customer.31@gmail.com,,Bali,American,Bronze,2023-02-15
+CUST00032,Customer 32,customer32@yahoo.com,08222108882,Melbourne,Indonesian,Bronze,2020-09-22
+CUST00033,Customer 33,customer.33@gmail.com,08495845276,Melbourne,British,Platinum,2023-03-27
+CUST00034,Customer 34,customer.34@gmail.com,08372319859,Melbourne,Indonesian,Bronze,2023-04-22
+CUST00035,Customer 35,customer.35@gmail.com,08532754180,Surabaya,Australian,Bronze,2022-04-13
+CUST00036,Customer 36,customer.36@gmail.com,08589228624,Bali,Indonesian,Silver,2020-04-20
+CUST00037,Customer 37,customer.37@gmail.com,08989544966,Jakarta,Australian,,2022-07-17
+CUST00038,Customer 38,customer.38@gmail.com,08620134860,Melbourne,Singaporean,Bronze,2020-03-03
+CUST00039,Customer 39,CUSTOMER 39@GMAIL.COM,08695753508,Bali,Australian,Gold,2022-02-14
+CUST00040,Customer 40,CUSTOMER 40@GMAIL.COM,08694112125,Singapore,Australian,,2023-12-19
+CUST00041,Customer 41,customer.41@gmail.com,08179570176,Melbourne,Australian,Silver,2022-12-09
+CUST00042,Customer 42,customer42@yahoo.com,08324876993,Melbourne,Australian,Silver,2021-02-03
+CUST00043,Customer 43,customer.43@gmail.com,08976663365,Jakarta,Singaporean,,2022-05-11
+CUST00044,Customer 44,customer.44@gmail.com,08746271590,Melbourne,British,Silver,2021-02-08
+CUST00045,Customer 45,customer45@yahoo.com,08222149729,Surabaya,American,Silver,2022-01-09
+CUST00046,Customer 46,customer46@yahoo.com,08108800381,Surabaya,Singaporean,Silver,2021-09-26
+CUST00047,Customer 47,customer 47@,08733276294,Jakarta,British,Bronze,2023-04-16
+CUST00048,Customer 48,  customer 48@hotmail.com  ,08316364112,Bali,Indonesian,Bronze,2020-03-29
+CUST00049,Customer 49,customer.49@gmail.com,08305881346,Jakarta,American,,2021-10-16
+CUST00050,Customer 50,customer.50@gmail.com,08413964345,Jakarta,British,Bronze,2021-07-27
+CUST00051,Customer 51,customer.51@gmail.com,,Bali,Australian,Gold,2021-10-02
+CUST00052,Customer 52,customer.52@gmail.com,08428804832,Jakarta,Australian,Platinum,2021-12-03
+CUST00053,Customer 53,customer 53@,08336534321,Jakarta,British,Gold,2020-06-06
+CUST00054,Customer 54,customer.54@gmail.com,,,American,Silver,2023-04-06
+CUST00055,Customer 55,  customer 55@hotmail.com  ,08206457856,Bali,Singaporean,Platinum,2020-08-29
+CUST00055,Customer 55,CUSTOMER 55@GMAIL.COM,08206457856,Bali,Singaporean,Platinum,2020-08-29
+CUST00056,Customer 56,customer.56@gmail.com,,Melbourne,Singaporean,Bronze,2020-12-01
+CUST00057,Customer 57,  customer 57@hotmail.com  ,08894534116,Sydney,Singaporean,Gold,2023-12-27
+CUST00058,Customer 58,customer.58@gmail.com,08868764997,Bali,Indonesian,,2020-10-20
+CUST00059,Customer 59,customer.59@gmail.com,08107176312,,Singaporean,Platinum,2023-07-05
+CUST00060,Customer 60,customer.60@gmail.com,,Melbourne,Australian,Silver,2021-10-05
+CUST00061,Customer 61,customer.61@gmail.com,08504469572,Jakarta,British,Silver,2021-02-27
+CUST00062,Customer 62,customer.62@gmail.com,08420709063,Singapore,British,,2020-08-08
+CUST00063,Customer 63,customer.63@gmail.com,08326248362,Surabaya,Singaporean,Silver,2021-11-12
+CUST00064,Customer 64,customer.64@gmail.com,08303772062,Bali,British,Bronze,2022-07-18
+CUST00065,Customer 65,customer.65@gmail.com,08994136785,Sydney,British,,2020-07-23
+CUST00066,Customer 66,customer.66@gmail.com,08103244149,Jakarta,Indonesian,,2023-01-05
+CUST00067,Customer 67,customer.67@gmail.com,08826377431,Jakarta,Indonesian,,2020-09-02
+CUST00068,Customer 68,customer.68@gmail.com,08821936035,Jakarta,British,Bronze,2020-01-09
+CUST00069,Customer 69,customer.69@gmail.com,08425790300,Surabaya,British,Bronze,2022-05-07
+CUST00070,Customer 70,customer.70@gmail.com,08737909911,Bali,British,Bronze,2023-02-09
+CUST00071,Customer 71,  customer 71@hotmail.com  ,08961321009,Singapore,British,Platinum,2021-01-03
+CUST00072,Customer 72,customer.72@gmail.com,08835109977,Bali,Indonesian,Gold,2021-10-12
+CUST00073,Customer 73,customer.73@gmail.com,08536202425,Sydney,British,Bronze,2020-06-18
+CUST00074,Customer 74,  customer 74@hotmail.com  ,08361767874,Sydney,American,Bronze,2023-10-08
+CUST00074,Customer 74,customer 74gmail.com,08361767874,Sydney,American,Bronze,2023-10-08
+CUST00075,Customer 75,customer 75gmail.com,08842393808,Sydney,American,Bronze,2021-12-03
+CUST00076,Customer 76,customer.76@gmail.com,08735002973,Sydney,Australian,,2020-04-24
+CUST00077,Customer 77,customer.77@gmail.com,08943743035,Sydney,Singaporean,Gold,2022-01-07
+CUST00078,Customer 78,CUSTOMER 78@GMAIL.COM,08315087875,Surabaya,Singaporean,,2020-07-26
+CUST00079,Customer 79,customer.79@gmail.com,08987605496,Sydney,Indonesian,Gold,2022-01-25
+CUST00080,Customer 80,CUSTOMER 80@GMAIL.COM,08924197769,Melbourne,American,Gold,2021-03-10
+CUST00081,Customer 81,customer81@yahoo.com,,Bali,Australian,Silver,2021-04-20
+CUST00082,Customer 82,CUSTOMER 82@GMAIL.COM,08826496509,Jakarta,British,,2023-02-13
+CUST00083,Customer 83,customer83@yahoo.com,08752852004,Melbourne,Singaporean,,2020-08-16
+CUST00084,Customer 84,customer.84@gmail.com,08695006731,Sydney,Singaporean,Bronze,2021-07-21
+CUST00085,Customer 85,customer.85@gmail.com,08917108938,Surabaya,British,Gold,2021-04-29
+CUST00086,Customer 86,customer.86@gmail.com,08468059929,Melbourne,American,Silver,2021-05-31
+CUST00087,Customer 87,  customer 87@hotmail.com  ,08215710012,Sydney,Australian,Platinum,2021-02-19
+CUST00088,Customer 88,customer.88@gmail.com,08165620201,,British,Gold,2022-06-14
+CUST00089,Customer 89,customer.89@gmail.com,08332345239,Jakarta,Indonesian,Silver,2023-01-13
+CUST00090,Customer 90,  customer 90@hotmail.com  ,08451403101,Bali,Singaporean,,2023-08-02
+CUST00091,Customer 91,customer.91@gmail.com,08822057337,Sydney,British,Silver,2023-01-15
+CUST00092,Customer 92,  customer 92@hotmail.com  ,08650792243,Melbourne,Indonesian,Platinum,2023-01-25
+CUST00093,Customer 93,customer.93@gmail.com,08775328959,Singapore,Australian,,2022-03-14
+CUST00094,Customer 94,customer.94@gmail.com,,Singapore,Indonesian,Gold,2022-08-07
+CUST00095,Customer 95,customer95@yahoo.com,08412635948,Singapore,Singaporean,Gold,2023-04-23
+CUST00096,Customer 96,customer.96@gmail.com,08828979117,Melbourne,Indonesian,Bronze,2022-05-26
+CUST00097,Customer 97,customer.97@gmail.com,08947965831,Bali,British,Gold,2023-02-17
+CUST00098,Customer 98,customer.98@gmail.com,08260492518,Surabaya,Singaporean,Bronze,2020-02-21
+CUST00099,Customer 99,customer.99@gmail.com,,Melbourne,Australian,Gold,2022-03-28
+CUST00100,Customer 100,customer.100@gmail.com,08855432695,Bali,Singaporean,Gold,2021-06-11
+CUST00101,Customer 101,customer.101@gmail.com,08668517763,Melbourne,Indonesian,Silver,2021-04-20
+CUST00102,Customer 102,customer.102@gmail.com,08587785019,Melbourne,Australian,Bronze,2023-04-22
+CUST00103,Customer 103,customer.103@gmail.com,08285378270,Bali,British,Gold,2023-07-17
+CUST00104,Customer 104,customer104@yahoo.com,08113927018,Bali,British,Bronze,2021-09-22
+CUST00105,Customer 105,CUSTOMER 105@GMAIL.COM,08292277670,Sydney,Australian,Silver,2023-04-15
+CUST00105,Customer 105,customer.105@gmail.com,08292277670,Sydney,Australian,Silver,2023-04-15
+CUST00106,Customer 106,customer.106@gmail.com,08850203674,Sydney,Indonesian,Platinum,2022-12-09
+CUST00107,Customer 107,customer 107@,08223496254,Jakarta,Singaporean,,2021-09-05
+CUST00108,Customer 108,customer.108@gmail.com,,Sydney,British,Gold,2022-08-14
+CUST00109,Customer 109,customer109@yahoo.com,08788260319,Bali,British,Platinum,2023-03-29
+CUST00110,Customer 110,  customer 110@hotmail.com  ,08825062365,Bali,Australian,Platinum,2022-02-01
+CUST00111,Customer 111,  customer 111@hotmail.com  ,08635248884,Surabaya,British,Platinum,2022-08-07
+CUST00112,Customer 112,customer.112@gmail.com,08520848745,Sydney,Australian,Gold,2023-10-16
+CUST00113,Customer 113,customer.113@gmail.com,08253117422,Sydney,Australian,Platinum,2021-02-05
+CUST00114,Customer 114,customer.114@gmail.com,08849436603,Singapore,Australian,Bronze,2022-01-16
+CUST00115,Customer 115,customer.115@gmail.com,,Bali,Australian,Bronze,2022-09-05
+CUST00116,Customer 116,CUSTOMER 116@GMAIL.COM,08350719234,Melbourne,American,,2022-07-05
+CUST00117,Customer 117,customer.117@gmail.com,08542629705,Sydney,British,Gold,2021-08-27
+CUST00118,Customer 118,  customer 118@hotmail.com  ,08956401731,Bali,Indonesian,Silver,2023-03-17
+CUST00119,Customer 119,customer.119@gmail.com,08742343993,Bali,British,Gold,2023-09-11
+CUST00119,Customer 119,customer119@yahoo.com,08742343993,Bali,British,Gold,2023-09-11
+CUST00120,Customer 120,customer.120@gmail.com,,Melbourne,Indonesian,Bronze,2022-04-24
+CUST00120,Customer 120,customer.120@gmail.com,,Melbourne,Indonesian,Bronze,2022-04-24
+CUST00121,Customer 121,customer.121@gmail.com,08853392268,Melbourne,American,Bronze,2023-09-28
+CUST00122,Customer 122,  customer 122@hotmail.com  ,08842071799,Singapore,American,,2023-07-28
+CUST00123,Customer 123,customer.123@gmail.com,08508641205,Bali,American,Silver,2020-11-17
+CUST00124,Customer 124,customer.124@gmail.com,08728274482,Bali,Singaporean,Platinum,2022-12-28
+CUST00125,Customer 125,customer.125@gmail.com,08985274974,Sydney,British,,2023-11-07
+CUST00126,Customer 126,  customer 126@hotmail.com  ,08551496397,Bali,Singaporean,Gold,2022-01-21
+CUST00127,Customer 127,customer 127@,08825767861,Jakarta,Singaporean,Platinum,2021-11-08
+CUST00128,Customer 128,customer 128@,08689849958,Sydney,American,Platinum,2022-11-29
+CUST00128,Customer 128,customer.128@gmail.com,08689849958,Sydney,American,Platinum,2022-11-29
+CUST00129,Customer 129,customer129@yahoo.com,08381114985,Surabaya,American,Bronze,2023-02-14
+CUST00130,Customer 130,customer.130@gmail.com,,Sydney,American,Platinum,2021-11-27
+CUST00131,Customer 131,customer.131@gmail.com,08797101374,Singapore,Singaporean,,2021-04-19
+CUST00132,Customer 132,  customer 132@hotmail.com  ,08219146238,Sydney,Singaporean,Gold,2023-05-12
+CUST00133,Customer 133,customer.133@gmail.com,,,Singaporean,Bronze,2020-05-02
+CUST00134,Customer 134,customer.134@gmail.com,08325805522,Surabaya,Indonesian,Gold,2023-05-17
+CUST00135,Customer 135,customer.135@gmail.com,08457291573,Sydney,Australian,Silver,2021-05-24
+CUST00136,Customer 136,customer.136@gmail.com,08337052252,Jakarta,American,,2022-12-15
+CUST00137,Customer 137,customer.137@gmail.com,,Singapore,Singaporean,Platinum,2022-09-16
+CUST00138,Customer 138,customer.138@gmail.com,08365465049,Bali,American,Gold,2020-10-14
+CUST00139,Customer 139,CUSTOMER 139@GMAIL.COM,08626596188,Bali,Singaporean,Silver,2020-02-23
+CUST00140,Customer 140,customer.140@gmail.com,08181600719,Melbourne,American,Bronze,2020-09-26
+CUST00141,Customer 141,customer.141@gmail.com,08155891049,Surabaya,Indonesian,,2022-07-10
+CUST00142,Customer 142,customer.142@gmail.com,08460257991,Bali,Indonesian,Platinum,2022-09-22
+CUST00142,Customer 142,  customer 142@hotmail.com  ,08460257991,Bali,Indonesian,Platinum,2022-09-22
+CUST00143,Customer 143,customer143@yahoo.com,08512425476,Melbourne,Singaporean,Gold,2021-01-04
+CUST00144,Customer 144,customer.144@gmail.com,08166537594,Singapore,British,Bronze,2023-10-03
+CUST00145,Customer 145,customer.145@gmail.com,08109550488,Bali,American,,2020-09-05
+CUST00146,Customer 146,customer.146@gmail.com,08213881459,Sydney,British,Silver,2022-04-08
+CUST00147,Customer 147,CUSTOMER 147@GMAIL.COM,08669281651,Surabaya,American,Gold,2022-11-15
+CUST00148,Customer 148,CUSTOMER 148@GMAIL.COM,08750303817,Sydney,British,Platinum,2020-03-14
+CUST00149,Customer 149,customer.149@gmail.com,08169847201,Melbourne,Indonesian,Platinum,2020-02-27
+CUST00150,Customer 150,customer150@yahoo.com,08358268614,Singapore,American,,2022-10-29
+CUST00151,Customer 151,customer.151@gmail.com,08971225522,Singapore,Indonesian,Gold,2022-09-02
+CUST00152,Customer 152,customer.152@gmail.com,08884050145,Singapore,Indonesian,Platinum,2022-02-10
+CUST00153,Customer 153,customer 153@,08277092498,Surabaya,Australian,Gold,2020-04-15
+CUST00154,Customer 154,  customer 154@hotmail.com  ,08870597427,Jakarta,Indonesian,Bronze,2020-06-01
+CUST00155,Customer 155,customer155@yahoo.com,,Singapore,Singaporean,Platinum,2022-10-06
+CUST00156,Customer 156,customer.156@gmail.com,08782253778,Surabaya,Indonesian,Bronze,2020-09-01
+CUST00157,Customer 157,customer.157@gmail.com,08553406703,Bali,British,Gold,2020-10-25
+CUST00158,Customer 158,customer158@yahoo.com,08581235949,Jakarta,Indonesian,Bronze,2023-06-12
+CUST00159,Customer 159,customer.159@gmail.com,08761579465,Bali,British,Silver,2020-10-11
+CUST00160,Customer 160,customer.160@gmail.com,08387229556,Surabaya,Indonesian,Gold,2023-11-19
+CUST00161,Customer 161,customer.161@gmail.com,08217959757,Jakarta,Indonesian,,2021-01-16
+CUST00162,Customer 162,customer162@yahoo.com,08257092779,Singapore,British,Platinum,2022-01-07
+CUST00163,Customer 163,customer163@yahoo.com,08394435258,,British,Bronze,2022-11-18
+CUST00163,Customer 163,CUSTOMER 163@GMAIL.COM,08394435258,,British,Bronze,2022-11-18
+CUST00164,Customer 164,customer164@yahoo.com,08292675107,Bali,American,Silver,2023-05-23
+CUST00165,Customer 165,customer.165@gmail.com,08580683584,Jakarta,Indonesian,Bronze,2021-04-29
+CUST00166,Customer 166,customer.166@gmail.com,08387049786,Singapore,American,,2020-07-15
+CUST00167,Customer 167,customer.167@gmail.com,08473725355,Melbourne,British,,2023-02-11
+CUST00168,Customer 168,customer 168@,08117498088,Melbourne,Australian,Platinum,2021-03-04
+CUST00169,Customer 169,customer.169@gmail.com,08293753593,Bali,Singaporean,Platinum,2022-02-22
+CUST00169,Customer 169,customer.169@gmail.com,08293753593,Bali,Singaporean,Platinum,2022-02-22
+CUST00170,Customer 170,  customer 170@hotmail.com  ,08614767315,Bali,Singaporean,Gold,2023-12-18
+CUST00171,Customer 171,customer 171@,08323070902,Jakarta,British,Gold,2023-09-29
+CUST00172,Customer 172,customer 172@,08476456108,Surabaya,British,,2022-09-30
+CUST00173,Customer 173,customer.173@gmail.com,08127337435,Sydney,Singaporean,Platinum,2020-01-29
+CUST00174,Customer 174,customer.174@gmail.com,08385326655,Singapore,American,Bronze,2021-03-18
+CUST00175,Customer 175,customer175@yahoo.com,08718270237,,Indonesian,Platinum,2021-09-07
+CUST00176,Customer 176,customer.176@gmail.com,08275386959,Bali,Australian,,2022-04-04
+CUST00177,Customer 177,customer 177@,08283847668,,Singaporean,Gold,2021-01-16
+CUST00178,Customer 178,customer.178@gmail.com,08848247731,Jakarta,Australian,,2021-12-03
+CUST00179,Customer 179,customer179@yahoo.com,08537853646,Melbourne,Australian,Gold,2023-04-26
+CUST00180,Customer 180,CUSTOMER 180@GMAIL.COM,08632543826,Melbourne,British,,2020-06-02
+CUST00181,Customer 181,customer.181@gmail.com,08602701677,Melbourne,Australian,Bronze,2020-05-01
+CUST00182,Customer 182,CUSTOMER 182@GMAIL.COM,08429631409,Melbourne,Singaporean,Platinum,2023-07-22
+CUST00183,Customer 183,customer.183@gmail.com,08258564424,Surabaya,British,,2020-05-11
+CUST00184,Customer 184,  customer 184@hotmail.com  ,08661423336,Singapore,Singaporean,Bronze,2023-04-09
+CUST00185,Customer 185,customer.185@gmail.com,,Sydney,Singaporean,Platinum,2020-06-09
+CUST00186,Customer 186,customer.186@gmail.com,08368446209,Surabaya,British,Platinum,2023-08-22
+CUST00187,Customer 187,customer.187@gmail.com,08236838348,Melbourne,Australian,Silver,2023-07-19
+CUST00188,Customer 188,  customer 188@hotmail.com  ,08621512819,Sydney,Singaporean,Silver,2020-11-30
+CUST00189,Customer 189,  customer 189@hotmail.com  ,08944909828,Singapore,American,Bronze,2023-08-23
+CUST00190,Customer 190,customer.190@gmail.com,08414962854,,Australian,Bronze,2023-05-31
+CUST00191,Customer 191,CUSTOMER 191@GMAIL.COM,08540425649,Jakarta,British,,2020-02-01
+CUST00192,Customer 192,customer.192@gmail.com,08126599286,Melbourne,Indonesian,Bronze,2021-06-24
+CUST00193,Customer 193,  customer 193@hotmail.com  ,08916313795,Jakarta,Australian,Platinum,2021-02-25
+CUST00194,Customer 194,customer.194@gmail.com,08767272643,Melbourne,Indonesian,,2020-08-11
+CUST00195,Customer 195,customer.195@gmail.com,08987604102,Jakarta,British,,2021-06-05
+CUST00196,Customer 196,customer 196gmail.com,08477471711,,Australian,Silver,2023-05-11
+CUST00197,Customer 197,customer.197@gmail.com,08341667256,Surabaya,Indonesian,Gold,2022-10-30
+CUST00198,Customer 198,customer198@yahoo.com,08476293479,,Indonesian,Silver,2023-03-25
+CUST00199,Customer 199,customer 199gmail.com,08667255562,Jakarta,Indonesian,Gold,2022-04-28
+CUST00200,Customer 200,CUSTOMER 200@GMAIL.COM,08100485507,Sydney,British,Bronze,2020-02-17
+CUST00201,Customer 201,customer.201@gmail.com,08638819502,Surabaya,American,Bronze,2022-08-05
+CUST00202,Customer 202,CUSTOMER 202@GMAIL.COM,08541267908,Surabaya,American,Platinum,2022-10-28
+CUST00203,Customer 203,customer.203@gmail.com,08952838286,,British,Platinum,2022-09-04
+CUST00204,Customer 204,CUSTOMER 204@GMAIL.COM,08919274313,Melbourne,British,Silver,2023-02-04
+CUST00205,Customer 205,customer.205@gmail.com,,Sydney,British,,2020-08-06
+CUST00205,Customer 205,customer.205@gmail.com,,Sydney,British,,2020-08-06
+CUST00206,Customer 206,customer.206@gmail.com,08712093676,Surabaya,Indonesian,,2023-12-21
+CUST00207,Customer 207,  customer 207@hotmail.com  ,,Melbourne,Singaporean,,2021-03-30
+CUST00208,Customer 208,customer.208@gmail.com,08363654281,Bali,British,Platinum,2021-08-23
+CUST00209,Customer 209,customer.209@gmail.com,08160192187,Surabaya,British,Gold,2020-11-18
+CUST00210,Customer 210,customer210@yahoo.com,,Melbourne,American,Gold,2021-01-20
+CUST00211,Customer 211,  customer 211@hotmail.com  ,08352234259,Surabaya,Indonesian,Gold,2020-11-29
+CUST00212,Customer 212,  customer 212@hotmail.com  ,08446839551,Bali,Australian,,2023-07-30
+CUST00213,Customer 213,customer213@yahoo.com,08438632868,Bali,Singaporean,Silver,2022-12-30
+CUST00214,Customer 214,customer.214@gmail.com,08397994992,Jakarta,Indonesian,Bronze,2020-03-08
+CUST00215,Customer 215,  customer 215@hotmail.com  ,08291324380,Singapore,British,Bronze,2020-11-26
+CUST00216,Customer 216,customer.216@gmail.com,08613031107,Jakarta,Indonesian,Platinum,2022-06-25
+CUST00217,Customer 217,customer 217gmail.com,08797763108,Singapore,Indonesian,Silver,2021-08-15
+CUST00218,Customer 218,customer.218@gmail.com,08852654798,Bali,Indonesian,Bronze,2023-03-11
+CUST00219,Customer 219,  customer 219@hotmail.com  ,08177730492,Bali,Singaporean,,2021-07-10
+CUST00220,Customer 220,CUSTOMER 220@GMAIL.COM,08136251915,Singapore,Indonesian,,2020-09-24
+CUST00220,Customer 220,customer.220@gmail.com,08136251915,Singapore,Indonesian,,2020-09-24
+CUST00221,Customer 221,customer.221@gmail.com,08544062209,Sydney,British,Platinum,2022-05-18
+CUST00221,Customer 221,customer.221@gmail.com,08544062209,Sydney,British,Platinum,2022-05-18
+CUST00222,Customer 222,  customer 222@hotmail.com  ,08458830613,Sydney,Australian,Gold,2022-02-21
+CUST00222,Customer 222,customer.222@gmail.com,08458830613,Sydney,Australian,Gold,2022-02-21
+CUST00223,Customer 223,customer.223@gmail.com,08589112097,Singapore,Australian,Silver,2020-10-29
+CUST00224,Customer 224,CUSTOMER 224@GMAIL.COM,08250800746,Bali,Indonesian,Bronze,2023-08-25
+CUST00225,Customer 225,customer.225@gmail.com,08821674153,Sydney,Indonesian,Bronze,2022-08-02
+CUST00226,Customer 226,customer 226gmail.com,08683395870,,Singaporean,Silver,2023-11-16
+CUST00227,Customer 227,customer.227@gmail.com,08907072424,Sydney,British,Bronze,2021-11-03
+CUST00228,Customer 228,customer.228@gmail.com,08918052469,,Australian,Bronze,2023-08-14
+CUST00228,Customer 228,customer.228@gmail.com,08918052469,,Australian,Bronze,2023-08-14
+CUST00229,Customer 229,customer.229@gmail.com,08308309226,Surabaya,American,Gold,2023-08-06
+CUST00230,Customer 230,customer.230@gmail.com,08263227851,Jakarta,Indonesian,Silver,2021-01-26
+CUST00231,Customer 231,customer231@yahoo.com,08220250100,Jakarta,Indonesian,,2021-01-20
+CUST00232,Customer 232,customer.232@gmail.com,08381187374,Bali,American,Gold,2023-01-10
+CUST00232,Customer 232,customer232@yahoo.com,08381187374,Bali,American,Gold,2023-01-10
+CUST00233,Customer 233,customer.233@gmail.com,08937437741,Sydney,Indonesian,,2023-05-24
+CUST00234,Customer 234,  customer 234@hotmail.com  ,,Melbourne,Australian,Silver,2022-08-25
+CUST00234,Customer 234,customer.234@gmail.com,,Melbourne,Australian,Silver,2022-08-25
+CUST00235,Customer 235,customer235@yahoo.com,,Surabaya,Indonesian,Bronze,2023-12-11
+CUST00236,Customer 236,customer236@yahoo.com,08797575180,Surabaya,Singaporean,Platinum,2022-06-05
+CUST00237,Customer 237,customer.237@gmail.com,,Jakarta,American,Gold,2021-09-01
+CUST00238,Customer 238,customer.238@gmail.com,08639852340,Jakarta,Indonesian,Gold,2021-06-27
+CUST00239,Customer 239,CUSTOMER 239@GMAIL.COM,08480364354,Bali,British,Silver,2020-03-13
+CUST00239,Customer 239,customer239@yahoo.com,08480364354,Bali,British,Silver,2020-03-13
+CUST00240,Customer 240,  customer 240@hotmail.com  ,08364206033,Singapore,Singaporean,,2022-06-29
+CUST00241,Customer 241,customer.241@gmail.com,08482483838,Bali,British,Platinum,2022-09-22
+CUST00242,Customer 242,customer.242@gmail.com,08589777345,Melbourne,American,Platinum,2021-09-07
+CUST00243,Customer 243,customer.243@gmail.com,08334263350,Jakarta,British,,2022-06-17
+CUST00244,Customer 244,customer 244@,08524964310,Singapore,Singaporean,,2022-12-27
+CUST00245,Customer 245,customer.245@gmail.com,,Melbourne,Australian,Gold,2022-05-05
+CUST00246,Customer 246,customer246@yahoo.com,08956423996,Bali,British,,2020-03-16
+CUST00247,Customer 247,customer.247@gmail.com,08852944749,Bali,Australian,Platinum,2021-08-26
+CUST00248,Customer 248,customer.248@gmail.com,08339589089,Bali,Australian,,2020-02-02
+CUST00249,Customer 249,  customer 249@hotmail.com  ,,Sydney,Indonesian,Silver,2020-04-11
+CUST00250,Customer 250,customer.250@gmail.com,08290272968,Jakarta,Australian,Bronze,2020-02-07
+CUST00251,Customer 251,customer.251@gmail.com,08845676763,Sydney,Australian,,2021-06-09
+CUST00252,Customer 252,CUSTOMER 252@GMAIL.COM,08264444400,Sydney,Singaporean,Platinum,2023-06-11
+CUST00253,Customer 253,customer.253@gmail.com,08652124137,Sydney,British,Gold,2022-08-07
+CUST00254,Customer 254,CUSTOMER 254@GMAIL.COM,08631916467,Bali,Singaporean,Gold,2023-04-08
+CUST00255,Customer 255,customer.255@gmail.com,08663427677,Surabaya,Singaporean,,2023-12-20
+CUST00256,Customer 256,  customer 256@hotmail.com  ,08767631183,Bali,Indonesian,Platinum,2022-08-19
+CUST00257,Customer 257,customer257@yahoo.com,08592008979,Melbourne,British,Gold,2022-08-05
+CUST00258,Customer 258,customer.258@gmail.com,,Bali,British,Platinum,2021-08-09
+CUST00259,Customer 259,  customer 259@hotmail.com  ,08246723739,Jakarta,American,Bronze,2022-10-13
+CUST00260,Customer 260,customer.260@gmail.com,08335983834,Bali,Indonesian,Gold,2022-10-19
+CUST00261,Customer 261,CUSTOMER 261@GMAIL.COM,08140808966,Sydney,Australian,Gold,2023-01-29
+CUST00262,Customer 262,customer.262@gmail.com,08107367019,Sydney,Singaporean,Silver,2023-12-29
+CUST00263,Customer 263,customer.263@gmail.com,08193706555,Jakarta,Indonesian,Gold,2021-02-15
+CUST00264,Customer 264,customer 264@,08154342194,,Indonesian,Platinum,2022-05-10
+CUST00265,Customer 265,customer.265@gmail.com,08533629206,Sydney,Indonesian,,2020-11-16
+CUST00265,Customer 265,customer.265@gmail.com,08533629206,Sydney,Indonesian,,2020-11-16
+CUST00266,Customer 266,customer.266@gmail.com,08817901788,Sydney,Australian,Gold,2022-04-01
+CUST00267,Customer 267,customer.267@gmail.com,08799958597,Sydney,Australian,Bronze,2022-02-01
+CUST00268,Customer 268,customer.268@gmail.com,,Bali,Australian,Gold,2022-04-26
+CUST00269,Customer 269,customer.269@gmail.com,08385638359,Singapore,American,Bronze,2023-07-10
+CUST00270,Customer 270,customer.270@gmail.com,08837660031,Bali,Australian,Platinum,2022-11-26
+CUST00271,Customer 271,customer.271@gmail.com,08713334113,Singapore,Indonesian,Bronze,2023-09-27
+CUST00272,Customer 272,customer.272@gmail.com,08650183585,Melbourne,Indonesian,Bronze,2021-10-08
+CUST00273,Customer 273,customer.273@gmail.com,08855173941,Singapore,Indonesian,Silver,2023-07-28
+CUST00274,Customer 274,customer.274@gmail.com,08476216229,Surabaya,Indonesian,,2021-06-18
+CUST00275,Customer 275,  customer 275@hotmail.com  ,08328741149,Singapore,Singaporean,Silver,2020-09-15
+CUST00276,Customer 276,customer.276@gmail.com,08343678716,Bali,British,,2022-12-10
+CUST00277,Customer 277,customer.277@gmail.com,08249098319,Surabaya,American,,2022-01-08
+CUST00278,Customer 278,customer.278@gmail.com,08480936166,Jakarta,Indonesian,Gold,2021-02-17
+CUST00278,Customer 278,customer.278@gmail.com,08480936166,Jakarta,Indonesian,Gold,2021-02-17
+CUST00279,Customer 279,  customer 279@hotmail.com  ,08835798399,Bali,Australian,,2021-01-05
+CUST00280,Customer 280,customer.280@gmail.com,08789135069,Singapore,British,Bronze,2020-06-28
+CUST00281,Customer 281,  customer 281@hotmail.com  ,08293206841,Melbourne,Australian,Gold,2021-10-19
+CUST00282,Customer 282,customer282@yahoo.com,,Melbourne,Australian,Gold,2023-09-15
+CUST00283,Customer 283,customer 283gmail.com,08404795738,Surabaya,Singaporean,Platinum,2022-02-20
+CUST00284,Customer 284,customer 284gmail.com,08424343812,Surabaya,British,Silver,2020-09-23
+CUST00285,Customer 285,customer.285@gmail.com,08174641164,,Singaporean,Platinum,2023-03-29
+CUST00286,Customer 286,customer.286@gmail.com,08639076893,Jakarta,Singaporean,Bronze,2023-02-16
+CUST00286,Customer 286,customer.286@gmail.com,08639076893,Jakarta,Singaporean,Bronze,2023-02-16
+CUST00287,Customer 287,customer.287@gmail.com,08885702371,Sydney,British,,2021-01-01
+CUST00288,Customer 288,customer.288@gmail.com,08779438447,Bali,American,Platinum,2021-06-02
+CUST00289,Customer 289,CUSTOMER 289@GMAIL.COM,08261381580,Surabaya,Australian,Platinum,2021-02-10
+CUST00290,Customer 290,customer290@yahoo.com,,Surabaya,Singaporean,,2022-12-20
+CUST00291,Customer 291,  customer 291@hotmail.com  ,08746686323,Bali,Indonesian,Silver,2023-01-22
+CUST00292,Customer 292,customer.292@gmail.com,08649963755,Jakarta,American,,2021-04-20
+CUST00293,Customer 293,customer293@yahoo.com,08736221349,Bali,Indonesian,Gold,2023-09-21
+CUST00294,Customer 294,customer.294@gmail.com,08958539084,Surabaya,Singaporean,,2023-09-10
+CUST00295,Customer 295,customer.295@gmail.com,08846962423,Sydney,Indonesian,Bronze,2023-09-12
+CUST00296,Customer 296,customer.296@gmail.com,08248636282,Melbourne,American,,2022-11-06
+CUST00297,Customer 297,customer 297@,08352485826,Jakarta,Australian,Gold,2023-03-09
+CUST00298,Customer 298,customer.298@gmail.com,08932976665,Singapore,Indonesian,Bronze,2023-02-22
+CUST00299,Customer 299,customer.299@gmail.com,08256265040,Sydney,American,,2023-05-05
+CUST00300,Customer 300,CUSTOMER 300@GMAIL.COM,08594742145,Sydney,Singaporean,Bronze,2021-02-03
+CUST00301,Customer 301,CUSTOMER 301@GMAIL.COM,08890588132,Melbourne,Singaporean,Gold,2023-02-28
+CUST00302,Customer 302,customer302@yahoo.com,08714057495,Melbourne,British,,2022-04-05
+CUST00303,Customer 303,CUSTOMER 303@GMAIL.COM,08263327301,Bali,British,Silver,2021-01-29
+CUST00304,Customer 304,customer.304@gmail.com,08501084650,Surabaya,American,Gold,2023-03-05
+CUST00305,Customer 305,customer.305@gmail.com,08750285742,Singapore,Singaporean,,2020-02-09
+CUST00306,Customer 306,CUSTOMER 306@GMAIL.COM,08799712122,Bali,American,Bronze,2020-03-25
+CUST00307,Customer 307,CUSTOMER 307@GMAIL.COM,08273310101,Sydney,Indonesian,Bronze,2023-03-28
+CUST00308,Customer 308,customer.308@gmail.com,08113750838,Sydney,Australian,Bronze,2021-04-15
+CUST00309,Customer 309,customer.309@gmail.com,08654716372,Surabaya,Indonesian,,2023-12-04
+CUST00310,Customer 310,customer310@yahoo.com,08809499116,Sydney,Australian,Platinum,2022-07-17
+CUST00311,Customer 311,customer311@yahoo.com,08440037718,Jakarta,American,Silver,2022-10-10
+CUST00312,Customer 312,customer.312@gmail.com,08865799920,Bali,Australian,Platinum,2022-05-22
+CUST00313,Customer 313,customer.313@gmail.com,08240868028,Singapore,Singaporean,Bronze,2020-10-15
+CUST00314,Customer 314,  customer 314@hotmail.com  ,08566971224,Surabaya,Singaporean,Silver,2021-10-25
+CUST00315,Customer 315,CUSTOMER 315@GMAIL.COM,08983794759,Surabaya,American,Gold,2021-03-06
+CUST00316,Customer 316,customer.316@gmail.com,08866595795,Sydney,Singaporean,,2023-01-20
+CUST00317,Customer 317,customer.317@gmail.com,08294523495,Singapore,Indonesian,Gold,2021-04-09
+CUST00318,Customer 318,customer318@yahoo.com,08506793695,Surabaya,Indonesian,Bronze,2022-11-05
+CUST00319,Customer 319,customer.319@gmail.com,08354104325,Bali,British,Silver,2020-08-18
+CUST00320,Customer 320,customer.320@gmail.com,08894982229,,Indonesian,Silver,2021-01-05
+CUST00321,Customer 321,customer.321@gmail.com,08439819260,Singapore,British,Bronze,2021-07-18
+CUST00322,Customer 322,customer322@yahoo.com,08242897572,Singapore,American,Gold,2022-03-22
+CUST00323,Customer 323,customer.323@gmail.com,08403621261,Sydney,Indonesian,,2021-11-06
+CUST00324,Customer 324,customer.324@gmail.com,,Surabaya,American,Bronze,2021-05-12
+CUST00325,Customer 325,customer.325@gmail.com,08859016541,Singapore,Indonesian,Gold,2021-05-21
+CUST00326,Customer 326,  customer 326@hotmail.com  ,,Sydney,Singaporean,Silver,2022-05-27
+CUST00327,Customer 327,CUSTOMER 327@GMAIL.COM,08497696734,Sydney,British,Bronze,2022-02-10
+CUST00328,Customer 328,customer.328@gmail.com,08264491667,Singapore,Indonesian,,2023-09-15
+CUST00329,Customer 329,customer329@yahoo.com,08381636165,Melbourne,Australian,Bronze,2020-07-22
+CUST00330,Customer 330,customer 330gmail.com,08418317769,Sydney,Australian,Platinum,2020-01-05
+CUST00331,Customer 331,customer.331@gmail.com,08174834869,Surabaya,British,,2023-03-05
+CUST00332,Customer 332,customer.332@gmail.com,08186155517,Singapore,American,Silver,2022-07-29
+CUST00333,Customer 333,customer.333@gmail.com,08943622293,Surabaya,American,Platinum,2022-07-06
+CUST00334,Customer 334,customer.334@gmail.com,08443895902,Jakarta,Indonesian,Bronze,2023-06-30
+CUST00335,Customer 335,customer 335gmail.com,08563469363,Bali,British,Bronze,2020-03-06
+CUST00336,Customer 336,customer.336@gmail.com,08220544832,Surabaya,British,Gold,2022-04-16
+CUST00337,Customer 337,customer.337@gmail.com,08506108129,Singapore,Australian,,2022-07-15
+CUST00338,Customer 338,customer338@yahoo.com,08338358641,Bali,Indonesian,Silver,2020-11-04
+CUST00339,Customer 339,  customer 339@hotmail.com  ,08149348094,Jakarta,Indonesian,Bronze,2023-01-08
+CUST00340,Customer 340,  customer 340@hotmail.com  ,08771360880,Surabaya,British,Gold,2023-05-16
+CUST00341,Customer 341,customer.341@gmail.com,08799206497,Singapore,Indonesian,,2023-01-01
+CUST00342,Customer 342,customer 342gmail.com,08444115212,Bali,American,Bronze,2020-02-19
+CUST00343,Customer 343,customer343@yahoo.com,08612447219,Bali,Australian,Platinum,2020-05-06
+CUST00344,Customer 344,customer 344gmail.com,08712175093,Melbourne,American,Silver,2021-11-24
+CUST00345,Customer 345,customer.345@gmail.com,08760818822,Surabaya,American,Silver,2021-02-20
+CUST00346,Customer 346,customer346@yahoo.com,08329438301,Bali,Singaporean,Platinum,2021-04-21
+CUST00347,Customer 347,customer.347@gmail.com,08759607018,Bali,Indonesian,Gold,2022-10-24
+CUST00348,Customer 348,customer.348@gmail.com,,Jakarta,Indonesian,Bronze,2023-04-10
+CUST00349,Customer 349,customer.349@gmail.com,08179502650,Jakarta,Indonesian,Bronze,2021-06-07
+CUST00350,Customer 350,customer.350@gmail.com,08410128837,Jakarta,Australian,Bronze,2021-06-08
+CUST00351,Customer 351,customer.351@gmail.com,08385050392,Jakarta,Singaporean,,2021-11-29
+CUST00352,Customer 352,customer.352@gmail.com,,Surabaya,Singaporean,,2020-10-05
+CUST00353,Customer 353,customer.353@gmail.com,,Sydney,Singaporean,Silver,2022-02-18
+CUST00354,Customer 354,customer.354@gmail.com,08224957680,Sydney,Indonesian,Gold,2021-08-06
+CUST00355,Customer 355,customer.355@gmail.com,08954556933,Jakarta,Australian,Bronze,2021-03-11
+CUST00356,Customer 356,customer.356@gmail.com,08169383710,Surabaya,Indonesian,,2022-08-25
+CUST00357,Customer 357,customer.357@gmail.com,08586336170,Singapore,Singaporean,Bronze,2021-08-09
+CUST00358,Customer 358,  customer 358@hotmail.com  ,08737243453,Singapore,American,,2021-01-05
+CUST00359,Customer 359,customer.359@gmail.com,08574134805,Singapore,British,Bronze,2020-02-25
+CUST00360,Customer 360,customer.360@gmail.com,08949177383,Singapore,American,Gold,2022-11-14
+CUST00361,Customer 361,customer 361gmail.com,08726114930,Bali,Singaporean,,2021-09-05
+CUST00362,Customer 362,customer.362@gmail.com,08655417540,Jakarta,Singaporean,Platinum,2021-06-08
+CUST00363,Customer 363,customer 363@,08415573243,Surabaya,Australian,Bronze,2022-09-30
+CUST00364,Customer 364,customer 364gmail.com,08805744169,Singapore,Indonesian,Silver,2022-12-05
+CUST00365,Customer 365,customer.365@gmail.com,08921591898,Melbourne,British,Silver,2021-06-25
+CUST00366,Customer 366,CUSTOMER 366@GMAIL.COM,08454411611,Melbourne,British,Silver,2023-04-30
+CUST00367,Customer 367,customer.367@gmail.com,08441566889,Surabaya,British,Silver,2022-10-27
+CUST00368,Customer 368,customer.368@gmail.com,08246209731,Jakarta,Indonesian,Gold,2021-02-12
+CUST00369,Customer 369,  customer 369@hotmail.com  ,08531815000,Bali,American,Platinum,2020-10-23
+CUST00370,Customer 370,customer370@yahoo.com,08700023648,Sydney,Indonesian,Silver,2023-07-29
+CUST00371,Customer 371,customer371@yahoo.com,08795766385,Singapore,Australian,,2020-12-21
+CUST00372,Customer 372,customer.372@gmail.com,08526110852,Bali,British,Gold,2021-12-27
+CUST00373,Customer 373,customer373@yahoo.com,08567594376,Singapore,Australian,Gold,2022-07-18
+CUST00374,Customer 374,customer.374@gmail.com,,Jakarta,Singaporean,,2020-09-02
+CUST00375,Customer 375,customer.375@gmail.com,08691936215,Bali,Australian,,2022-04-18
+CUST00376,Customer 376,customer.376@gmail.com,08886293642,Bali,Australian,,2021-07-30
+CUST00377,Customer 377,customer.377@gmail.com,08134797891,Surabaya,Indonesian,Gold,2023-10-23
+CUST00378,Customer 378,customer378@yahoo.com,08590872245,Melbourne,American,Platinum,2020-07-16
+CUST00378,Customer 378,customer.378@gmail.com,08590872245,Melbourne,American,Platinum,2020-07-16
+CUST00379,Customer 379,customer379@yahoo.com,08776806992,Surabaya,American,Gold,2021-08-26
+CUST00380,Customer 380,CUSTOMER 380@GMAIL.COM,08819864987,Surabaya,Australian,,2020-04-08
+CUST00381,Customer 381,customer.381@gmail.com,08871595942,Surabaya,Singaporean,Silver,2022-04-06
+CUST00382,Customer 382,customer382@yahoo.com,08823026772,Jakarta,American,Silver,2021-12-27
+CUST00383,Customer 383,customer.383@gmail.com,08843238560,,Indonesian,Silver,2023-09-07
+CUST00384,Customer 384,customer.384@gmail.com,08144193851,Surabaya,British,,2020-10-23
+CUST00385,Customer 385,CUSTOMER 385@GMAIL.COM,08998688215,Surabaya,British,Platinum,2021-07-13
+CUST00386,Customer 386,customer.386@gmail.com,08413830359,Singapore,Indonesian,Platinum,2021-02-03
+CUST00387,Customer 387,customer387@yahoo.com,08507320305,Bali,British,Gold,2020-04-10
+CUST00387,Customer 387,customer.387@gmail.com,08507320305,Bali,British,Gold,2020-04-10
+CUST00388,Customer 388,customer.388@gmail.com,08489242159,Jakarta,Indonesian,Platinum,2020-10-17
+CUST00389,Customer 389,customer389@yahoo.com,08959658477,Surabaya,Australian,Bronze,2020-12-21
+CUST00390,Customer 390,customer.390@gmail.com,08613709292,Bali,Singaporean,Platinum,2023-05-09
+CUST00391,Customer 391,customer 391@,,Surabaya,Indonesian,Bronze,2020-12-01
+CUST00392,Customer 392,customer.392@gmail.com,08164603867,Jakarta,Australian,Gold,2020-12-15
+CUST00393,Customer 393,customer.393@gmail.com,08289224974,Sydney,British,Silver,2022-05-20
+CUST00394,Customer 394,customer394@yahoo.com,08590363762,Sydney,Indonesian,Bronze,2021-05-09
+CUST00395,Customer 395,customer.395@gmail.com,08747005325,Melbourne,Indonesian,,2020-06-09
+CUST00396,Customer 396,customer 396gmail.com,08198344868,,Australian,Silver,2020-08-15
+CUST00397,Customer 397,customer.397@gmail.com,08370026054,Surabaya,Singaporean,Platinum,2020-06-20
+CUST00398,Customer 398,customer.398@gmail.com,08461055118,Bali,Singaporean,Gold,2021-10-26
+CUST00399,Customer 399,customer.399@gmail.com,08162727897,Bali,Indonesian,Platinum,2021-02-02
+CUST00399,Customer 399,  customer 399@hotmail.com  ,08162727897,Bali,Indonesian,Platinum,2021-02-02
+CUST00400,Customer 400,customer.400@gmail.com,08788032777,Sydney,American,Platinum,2022-05-02
+CUST00401,Customer 401,customer401@yahoo.com,08119420810,Surabaya,Indonesian,Platinum,2023-11-18
+CUST00402,Customer 402,CUSTOMER 402@GMAIL.COM,08550688956,Sydney,Australian,Platinum,2020-02-06
+CUST00402,Customer 402,customer.402@gmail.com,08550688956,Sydney,Australian,Platinum,2020-02-06
+CUST00403,Customer 403,customer 403@,08887418949,Melbourne,American,Gold,2023-03-09
+CUST00404,Customer 404,customer.404@gmail.com,08574292073,,Australian,Gold,2021-11-21
+CUST00405,Customer 405,CUSTOMER 405@GMAIL.COM,,Melbourne,Singaporean,Gold,2022-05-17
+CUST00406,Customer 406,customer.406@gmail.com,08800404244,,American,Bronze,2021-07-29
+CUST00407,Customer 407,customer.407@gmail.com,08940719855,Surabaya,Indonesian,,2023-02-10
+CUST00408,Customer 408,customer.408@gmail.com,08827719339,Sydney,Australian,,2020-10-17
+CUST00408,Customer 408,customer.408@gmail.com,08827719339,Sydney,Australian,,2020-10-17
+CUST00409,Customer 409,customer.409@gmail.com,08233617242,,American,,2021-06-18
+CUST00410,Customer 410,customer.410@gmail.com,08950772539,Jakarta,Indonesian,Gold,2021-06-21
+CUST00411,Customer 411,customer.411@gmail.com,08687982775,Melbourne,American,Gold,2021-07-24
+CUST00412,Customer 412,customer412@yahoo.com,08207416848,Melbourne,Singaporean,Bronze,2020-09-20
+CUST00413,Customer 413,customer.413@gmail.com,08775978157,Bali,British,,2021-05-11
+CUST00414,Customer 414,customer.414@gmail.com,08353482292,,Indonesian,,2021-10-14
+CUST00415,Customer 415,customer.415@gmail.com,08867301037,Sydney,Australian,Gold,2022-11-05
+CUST00416,Customer 416,customer.416@gmail.com,08559254245,Surabaya,Indonesian,Silver,2021-12-07
+CUST00417,Customer 417,customer.417@gmail.com,08347996912,Jakarta,Indonesian,,2021-05-03
+CUST00418,Customer 418,customer418@yahoo.com,08795293125,Jakarta,British,,2021-04-21
+CUST00419,Customer 419,customer.419@gmail.com,08704740148,Surabaya,Singaporean,Gold,2022-09-20
+CUST00419,Customer 419,customer419@yahoo.com,08704740148,Surabaya,Singaporean,Gold,2022-09-20
+CUST00420,Customer 420,  customer 420@hotmail.com  ,08154026213,Sydney,British,Gold,2023-04-22
+CUST00421,Customer 421,CUSTOMER 421@GMAIL.COM,08835729872,Melbourne,Indonesian,Silver,2021-12-26
+CUST00422,Customer 422,customer 422gmail.com,08280043720,Sydney,Australian,Gold,2023-12-12
+CUST00423,Customer 423,customer.423@gmail.com,08871667683,Surabaya,Singaporean,Silver,2020-01-20
+CUST00424,Customer 424,  customer 424@hotmail.com  ,08674804066,Jakarta,American,Platinum,2023-01-06
+CUST00425,Customer 425,  customer 425@hotmail.com  ,08342568037,Bali,American,Silver,2021-06-18
+CUST00426,Customer 426,customer.426@gmail.com,08908197383,Singapore,Singaporean,Gold,2023-12-24
+CUST00426,Customer 426,customer.426@gmail.com,08908197383,Singapore,Singaporean,Gold,2023-12-24
+CUST00427,Customer 427,customer.427@gmail.com,08509098007,Jakarta,Indonesian,Bronze,2021-05-12
+CUST00428,Customer 428,customer.428@gmail.com,,Sydney,Australian,Gold,2022-05-29
+CUST00429,Customer 429,customer.429@gmail.com,08492022435,Sydney,British,,2023-12-11
+CUST00430,Customer 430,customer.430@gmail.com,08223625183,Singapore,British,Bronze,2021-08-11
+CUST00431,Customer 431,  customer 431@hotmail.com  ,08140983033,Sydney,British,Silver,2022-03-05
+CUST00432,Customer 432,customer.432@gmail.com,08929670447,Sydney,American,Gold,2023-04-20
+CUST00433,Customer 433,customer.433@gmail.com,08576818665,,Indonesian,Platinum,2022-07-12
+CUST00434,Customer 434,customer434@yahoo.com,08973921983,Surabaya,British,Platinum,2021-08-11
+CUST00435,Customer 435,customer.435@gmail.com,08816037446,Jakarta,Indonesian,Bronze,2020-04-09
+CUST00436,Customer 436,customer.436@gmail.com,08875105720,Singapore,British,,2020-07-18
+CUST00437,Customer 437,customer.437@gmail.com,08405665700,Jakarta,Singaporean,Platinum,2020-01-19
+CUST00438,Customer 438,CUSTOMER 438@GMAIL.COM,08185278442,,British,Platinum,2020-08-27
+CUST00439,Customer 439,customer439@yahoo.com,,Melbourne,Indonesian,Silver,2022-07-03
+CUST00440,Customer 440,customer.440@gmail.com,08326052335,Sydney,Singaporean,Silver,2020-01-31
+CUST00441,Customer 441,customer.441@gmail.com,08884323013,Singapore,Singaporean,,2022-08-07
+CUST00442,Customer 442,customer442@yahoo.com,08538534650,Bali,American,Gold,2022-05-10
+CUST00443,Customer 443,customer 443gmail.com,08635347873,Melbourne,Australian,Silver,2022-04-14
+CUST00444,Customer 444,customer444@yahoo.com,08270932374,Melbourne,British,,2022-05-13
+CUST00445,Customer 445,customer.445@gmail.com,08750925681,Surabaya,Singaporean,Bronze,2023-04-04
+CUST00446,Customer 446,customer.446@gmail.com,,,Australian,Bronze,2020-06-07
+CUST00447,Customer 447,customer 447gmail.com,08174070324,,Indonesian,Gold,2021-10-26
+CUST00448,Customer 448,customer.448@gmail.com,08203970902,Sydney,British,Gold,2023-01-10
+CUST00449,Customer 449,customer 449gmail.com,08794324237,Sydney,American,Platinum,2022-12-08
+CUST00449,Customer 449,customer.449@gmail.com,08794324237,Sydney,American,Platinum,2022-12-08
+CUST00450,Customer 450,customer.450@gmail.com,08466655100,Sydney,British,Silver,2023-10-27
+CUST00451,Customer 451,  customer 451@hotmail.com  ,08539333051,Sydney,Indonesian,Platinum,2023-02-05
+CUST00452,Customer 452,customer.452@gmail.com,08260606069,Jakarta,Australian,Platinum,2020-04-11
+CUST00453,Customer 453,customer453@yahoo.com,08974455990,Singapore,American,Bronze,2021-01-09
+CUST00454,Customer 454,CUSTOMER 454@GMAIL.COM,08497272939,Bali,British,Silver,2021-10-27
+CUST00455,Customer 455,customer.455@gmail.com,,Jakarta,Australian,Silver,2022-11-26
+CUST00456,Customer 456,customer.456@gmail.com,08632525967,Sydney,Australian,Gold,2023-07-23
+CUST00457,Customer 457,customer.457@gmail.com,08952503938,Melbourne,British,Gold,2020-11-03
+CUST00458,Customer 458,customer 458gmail.com,08941062569,Bali,Australian,Gold,2023-01-17
+CUST00459,Customer 459,customer.459@gmail.com,08145302949,Surabaya,American,Platinum,2022-06-20
+CUST00460,Customer 460,customer.460@gmail.com,08416607555,Singapore,Australian,Platinum,2023-07-04
+CUST00461,Customer 461,customer461@yahoo.com,08983694155,Surabaya,American,Silver,2020-01-18
+CUST00462,Customer 462,customer.462@gmail.com,08647236841,Singapore,Australian,Platinum,2022-08-29
+CUST00463,Customer 463,CUSTOMER 463@GMAIL.COM,08562890474,Jakarta,British,,2021-04-19
+CUST00464,Customer 464,customer464@yahoo.com,08233399286,Bali,Australian,Bronze,2021-03-04
+CUST00465,Customer 465,customer465@yahoo.com,08692404651,Bali,Indonesian,,2020-03-20
+CUST00466,Customer 466,customer.466@gmail.com,08797357311,Singapore,Singaporean,,2023-12-13
+CUST00467,Customer 467,customer467@yahoo.com,08286406080,,American,,2020-10-29
+CUST00468,Customer 468,  customer 468@hotmail.com  ,08284931973,Bali,Singaporean,,2021-03-31
+CUST00469,Customer 469,customer469@yahoo.com,08840681166,Melbourne,American,Platinum,2022-06-13
+CUST00470,Customer 470,CUSTOMER 470@GMAIL.COM,08122127450,Surabaya,American,,2021-05-29
+CUST00471,Customer 471,customer.471@gmail.com,08289958834,Jakarta,Indonesian,,2022-01-27
+CUST00472,Customer 472,customer472@yahoo.com,08337464660,Melbourne,Indonesian,,2023-11-07
+CUST00473,Customer 473,customer.473@gmail.com,08846342307,Melbourne,Indonesian,Silver,2020-05-27
+CUST00474,Customer 474,customer 474@,08970868291,Sydney,Indonesian,,2020-06-21
+CUST00475,Customer 475,customer.475@gmail.com,08385104071,Sydney,Singaporean,Silver,2023-05-19
+CUST00476,Customer 476,customer.476@gmail.com,08917835498,Melbourne,American,Platinum,2022-02-11
+CUST00477,Customer 477,customer477@yahoo.com,08816909309,Sydney,Indonesian,,2021-11-02
+CUST00478,Customer 478,CUSTOMER 478@GMAIL.COM,08226283987,Melbourne,Indonesian,Bronze,2023-06-03
+CUST00479,Customer 479,customer.479@gmail.com,08334470146,Melbourne,Australian,Gold,2023-05-20
+CUST00480,Customer 480,customer.480@gmail.com,08645983355,Singapore,Australian,Platinum,2022-05-23
+CUST00481,Customer 481,customer481@yahoo.com,08288973668,Singapore,Singaporean,Gold,2021-02-16
+CUST00482,Customer 482,customer.482@gmail.com,08829074048,Melbourne,American,Gold,2020-12-29
+CUST00483,Customer 483,customer.483@gmail.com,08848995721,Jakarta,Singaporean,Bronze,2020-03-01
+CUST00484,Customer 484,CUSTOMER 484@GMAIL.COM,08632154605,,Singaporean,,2023-01-14
+CUST00485,Customer 485,customer485@yahoo.com,08502817947,Bali,Singaporean,Platinum,2020-01-28
+CUST00486,Customer 486,customer.486@gmail.com,08359589558,Bali,British,Gold,2022-02-19
+CUST00487,Customer 487,customer.487@gmail.com,08892024370,Bali,British,Gold,2021-05-08
+CUST00488,Customer 488,CUSTOMER 488@GMAIL.COM,08785448878,Jakarta,American,Platinum,2023-04-05
+CUST00489,Customer 489,customer.489@gmail.com,,Melbourne,Australian,Silver,2022-07-29
+CUST00490,Customer 490,customer.490@gmail.com,08484397074,Singapore,American,Silver,2022-03-26
+CUST00491,Customer 491,customer.491@gmail.com,08286281691,Sydney,Singaporean,Platinum,2023-10-24
+CUST00492,Customer 492,customer.492@gmail.com,08262297317,Bali,Australian,Platinum,2021-10-01
+CUST00493,Customer 493,customer493@yahoo.com,08362727782,Singapore,Indonesian,Bronze,2020-03-31
+CUST00494,Customer 494,customer.494@gmail.com,08129424775,Sydney,American,Bronze,2020-02-03
+CUST00495,Customer 495,customer.495@gmail.com,08451503187,Singapore,British,,2021-11-27
+CUST00496,Customer 496,customer.496@gmail.com,08264763240,Singapore,Singaporean,Gold,2022-01-23
+CUST00497,Customer 497,customer.497@gmail.com,08466431355,Sydney,Singaporean,Platinum,2020-10-28
+CUST00498,Customer 498,customer.498@gmail.com,,Jakarta,British,Gold,2022-11-15
+CUST00499,Customer 499,CUSTOMER 499@GMAIL.COM,08490496402,Bali,Indonesian,Silver,2023-04-26
+CUST00500,Customer 500,customer.500@gmail.com,08844603938,Melbourne,American,Gold,2020-06-04
+CUST00501,Customer 501,customer.501@gmail.com,08612247805,Bali,Australian,Silver,2021-04-23
+CUST00502,Customer 502,customer.502@gmail.com,08103529826,Surabaya,Indonesian,Platinum,2023-12-25
+CUST00503,Customer 503,customer.503@gmail.com,08539984667,Sydney,Australian,Silver,2022-08-08
+CUST00504,Customer 504,customer504@yahoo.com,08366160854,Melbourne,British,Gold,2022-05-16
+CUST00505,Customer 505,customer.505@gmail.com,08796490899,Sydney,Indonesian,Bronze,2020-07-03
+CUST00506,Customer 506,customer506@yahoo.com,08346439905,Melbourne,American,Silver,2021-04-29
+CUST00507,Customer 507,customer.507@gmail.com,08148819727,Surabaya,British,Platinum,2022-06-24
+CUST00507,Customer 507,CUSTOMER 507@GMAIL.COM,08148819727,Surabaya,British,Platinum,2022-06-24
+CUST00508,Customer 508,customer.508@gmail.com,08541191738,Surabaya,Indonesian,,2022-12-02
+CUST00509,Customer 509,customer.509@gmail.com,08166917903,Bali,Singaporean,Bronze,2020-04-09
+CUST00510,Customer 510,customer510@yahoo.com,08534785836,Sydney,Australian,,2020-08-14
+CUST00511,Customer 511,customer 511gmail.com,08335431430,Bali,British,,2021-10-25
+CUST00512,Customer 512,customer.512@gmail.com,08545428670,Sydney,British,Platinum,2021-02-04
+CUST00513,Customer 513,customer.513@gmail.com,08532482249,Melbourne,Australian,Platinum,2022-11-19
+CUST00514,Customer 514,customer 514@,08234259961,Melbourne,British,,2023-03-04
+CUST00515,Customer 515,customer515@yahoo.com,08445021473,Jakarta,Indonesian,Gold,2020-03-14
+CUST00516,Customer 516,customer.516@gmail.com,08613856679,Jakarta,Indonesian,Platinum,2020-05-06
+CUST00517,Customer 517,customer517@yahoo.com,08879665823,Sydney,British,,2022-03-09
+CUST00518,Customer 518,customer.518@gmail.com,08921846324,Jakarta,Australian,Bronze,2022-08-08
+CUST00519,Customer 519,customer 519gmail.com,08806116953,Bali,Indonesian,Gold,2021-05-05
+CUST00520,Customer 520,customer.520@gmail.com,08624740274,Singapore,Singaporean,Bronze,2020-12-02
+CUST00521,Customer 521,customer.521@gmail.com,08835240313,Melbourne,British,,2022-07-07
+CUST00522,Customer 522,customer.522@gmail.com,08805373370,Melbourne,American,Gold,2021-10-29
+CUST00523,Customer 523,customer.523@gmail.com,08397374554,Sydney,Australian,Silver,2023-11-30
+CUST00524,Customer 524,customer524@yahoo.com,08360189756,,Indonesian,Silver,2020-08-09
+CUST00525,Customer 525,customer.525@gmail.com,08706865491,Sydney,British,Bronze,2023-02-19
+CUST00526,Customer 526,customer 526@,08516945896,Melbourne,Indonesian,Platinum,2021-07-10
+CUST00527,Customer 527,customer.527@gmail.com,08803216120,Bali,Singaporean,Platinum,2022-01-15
+CUST00528,Customer 528,customer.528@gmail.com,08456668997,Melbourne,Australian,Bronze,2021-04-06
+CUST00529,Customer 529,customer529@yahoo.com,08817365774,Bali,Indonesian,Bronze,2021-12-28
+CUST00530,Customer 530,customer.530@gmail.com,08183739069,Melbourne,Indonesian,Bronze,2021-01-09
+CUST00531,Customer 531,customer.531@gmail.com,08750443816,Jakarta,American,,2022-05-11
+CUST00532,Customer 532,customer.532@gmail.com,08711469388,Singapore,Australian,Bronze,2022-08-04
+CUST00533,Customer 533,  customer 533@hotmail.com  ,08836610022,Jakarta,British,Silver,2020-02-21
+CUST00534,Customer 534,customer.534@gmail.com,08891724970,Sydney,American,Bronze,2020-12-29
+CUST00535,Customer 535,customer.535@gmail.com,08657282119,Bali,Indonesian,Platinum,2020-09-26
+CUST00536,Customer 536,  customer 536@hotmail.com  ,08837846717,Jakarta,British,Gold,2020-11-10
+CUST00537,Customer 537,  customer 537@hotmail.com  ,08979837938,Melbourne,American,Platinum,2022-10-27
+CUST00538,Customer 538,customer.538@gmail.com,08447434637,Sydney,American,Silver,2021-07-16
+CUST00539,Customer 539,customer 539gmail.com,08999469894,Singapore,Singaporean,Bronze,2020-09-03
+CUST00540,Customer 540,customer.540@gmail.com,08536642239,Surabaya,American,Gold,2023-06-30
+CUST00541,Customer 541,CUSTOMER 541@GMAIL.COM,,Sydney,British,Platinum,2023-01-12
+CUST00542,Customer 542,customer.542@gmail.com,08291490322,Jakarta,American,Silver,2020-03-04
+CUST00543,Customer 543,customer.543@gmail.com,08612601233,Sydney,Indonesian,Silver,2021-10-18
+CUST00544,Customer 544,CUSTOMER 544@GMAIL.COM,08806194714,,Singaporean,Bronze,2023-02-27
+CUST00545,Customer 545,  customer 545@hotmail.com  ,08717429673,Surabaya,British,Silver,2020-09-29
+CUST00546,Customer 546,CUSTOMER 546@GMAIL.COM,08214564794,Singapore,Singaporean,Platinum,2023-05-13
+CUST00547,Customer 547,customer.547@gmail.com,08608815502,Surabaya,British,Silver,2020-09-13
+CUST00548,Customer 548,customer.548@gmail.com,08386799714,Jakarta,American,,2021-03-26
+CUST00549,Customer 549,CUSTOMER 549@GMAIL.COM,,Bali,Singaporean,Bronze,2023-10-14
+CUST00549,Customer 549,customer549@yahoo.com,,Bali,Singaporean,Bronze,2023-10-14
+CUST00550,Customer 550,customer550@yahoo.com,,Melbourne,Indonesian,Bronze,2023-05-17
+CUST00551,Customer 551,CUSTOMER 551@GMAIL.COM,08996779937,Bali,American,Silver,2022-08-28
+CUST00552,Customer 552,CUSTOMER 552@GMAIL.COM,08814155798,Surabaya,American,Gold,2020-04-01
+CUST00553,Customer 553,customer.553@gmail.com,08811716805,Bali,British,Silver,2022-03-30
+CUST00554,Customer 554,customer.554@gmail.com,08999770477,Surabaya,British,Platinum,2023-01-09
+CUST00555,Customer 555,CUSTOMER 555@GMAIL.COM,08918050195,Jakarta,British,Silver,2023-01-23
+CUST00556,Customer 556,customer 556gmail.com,08291159131,Jakarta,Australian,Silver,2020-12-27
+CUST00557,Customer 557,customer557@yahoo.com,08637354184,Bali,Indonesian,,2021-08-29
+CUST00558,Customer 558,CUSTOMER 558@GMAIL.COM,08926203133,Singapore,British,Bronze,2022-09-25
+CUST00559,Customer 559,customer 559@,08857814600,Surabaya,Singaporean,Gold,2020-04-02
+CUST00560,Customer 560,customer 560gmail.com,08138341469,Sydney,Australian,Gold,2020-08-02
+CUST00561,Customer 561,customer.561@gmail.com,08629232296,Singapore,Singaporean,Platinum,2020-02-16
+CUST00562,Customer 562,customer.562@gmail.com,,Jakarta,Australian,Bronze,2021-04-20
+CUST00563,Customer 563,customer563@yahoo.com,08183319623,Sydney,Indonesian,,2021-01-11
+CUST00564,Customer 564,customer.564@gmail.com,08446477959,Bali,Singaporean,,2022-05-25
+CUST00565,Customer 565,CUSTOMER 565@GMAIL.COM,08424416329,Jakarta,Indonesian,,2023-11-09
+CUST00566,Customer 566,customer566@yahoo.com,08123241820,Surabaya,Singaporean,Silver,2020-01-16
+CUST00567,Customer 567,CUSTOMER 567@GMAIL.COM,08491418172,Melbourne,British,,2021-11-25
+CUST00568,Customer 568,customer.568@gmail.com,08953881274,Bali,British,Bronze,2022-11-18
+CUST00569,Customer 569,customer.569@gmail.com,08705723212,Bali,Australian,Platinum,2022-02-04
+CUST00570,Customer 570,customer 570@,08578170767,Surabaya,American,Gold,2020-01-03
+CUST00571,Customer 571,customer 571gmail.com,08760616648,Singapore,British,Gold,2021-08-23
+CUST00572,Customer 572,CUSTOMER 572@GMAIL.COM,08767590293,Bali,American,Silver,2023-06-18
+CUST00573,Customer 573,customer.573@gmail.com,08508604753,Jakarta,Australian,Bronze,2022-01-06
+CUST00574,Customer 574,customer.574@gmail.com,08880896178,Sydney,Singaporean,Platinum,2023-06-29
+CUST00575,Customer 575,customer 575@,08550834012,Surabaya,British,,2020-06-08
+CUST00576,Customer 576,customer576@yahoo.com,08502664736,Bali,Singaporean,,2023-09-12
+CUST00577,Customer 577,customer.577@gmail.com,08601528395,Surabaya,British,,2021-12-23
+CUST00578,Customer 578,customer 578@,08724054819,Melbourne,Singaporean,,2023-06-05
+CUST00579,Customer 579,customer.579@gmail.com,08719715549,Surabaya,Australian,,2021-03-16
+CUST00580,Customer 580,customer.580@gmail.com,08156698683,Surabaya,Australian,,2020-01-21
+CUST00581,Customer 581,customer.581@gmail.com,,Sydney,Indonesian,Platinum,2021-05-09
+CUST00582,Customer 582,customer.582@gmail.com,08257053394,Surabaya,British,,2021-08-02
+CUST00583,Customer 583,customer583@yahoo.com,08687239148,Sydney,Indonesian,Silver,2021-04-07
+CUST00583,Customer 583,customer.583@gmail.com,08687239148,Sydney,Indonesian,Silver,2021-04-07
+CUST00584,Customer 584,  customer 584@hotmail.com  ,08528323812,Jakarta,American,,2021-04-29
+CUST00585,Customer 585,customer585@yahoo.com,08922477476,Jakarta,American,Platinum,2021-03-31
+CUST00586,Customer 586,customer.586@gmail.com,08944290224,Bali,American,Bronze,2021-05-05
+CUST00587,Customer 587,customer.587@gmail.com,08195216927,Bali,Australian,Silver,2020-11-03
+CUST00588,Customer 588,customer.588@gmail.com,,Melbourne,American,Platinum,2023-10-19
+CUST00589,Customer 589,CUSTOMER 589@GMAIL.COM,,Singapore,Australian,Bronze,2021-09-24
+CUST00590,Customer 590,customer.590@gmail.com,08193403771,Bali,Australian,Bronze,2021-06-29
+CUST00591,Customer 591,CUSTOMER 591@GMAIL.COM,08409203483,Jakarta,American,Gold,2020-01-19
+CUST00592,Customer 592,customer.592@gmail.com,08434001181,Sydney,American,Silver,2021-04-22
+CUST00593,Customer 593,customer.593@gmail.com,08303078397,Melbourne,Australian,Silver,2022-08-24
+CUST00594,Customer 594,customer.594@gmail.com,08459580635,Melbourne,American,Gold,2020-06-27
+CUST00595,Customer 595,customer.595@gmail.com,08179888652,Melbourne,Indonesian,Gold,2023-09-25
+CUST00596,Customer 596,CUSTOMER 596@GMAIL.COM,08847517511,Sydney,Indonesian,Gold,2021-04-10
+CUST00597,Customer 597,customer.597@gmail.com,08745677319,Singapore,Australian,,2021-06-08
+CUST00598,Customer 598,customer598@yahoo.com,08804193396,Melbourne,Singaporean,Bronze,2021-12-26
+CUST00599,Customer 599,customer.599@gmail.com,08567591603,Sydney,Australian,,2020-09-04
+CUST00600,Customer 600,customer.600@gmail.com,08649976036,Singapore,Singaporean,,2020-06-08
+CUST00601,Customer 601,CUSTOMER 601@GMAIL.COM,08882054236,Jakarta,Australian,Gold,2022-07-04
+CUST00602,Customer 602,customer.602@gmail.com,08219543535,Surabaya,Australian,Platinum,2021-11-26
+CUST00603,Customer 603,customer.603@gmail.com,08628319032,Melbourne,Singaporean,Platinum,2020-04-16
+CUST00604,Customer 604,customer.604@gmail.com,08497418389,Jakarta,British,Gold,2023-05-20
+CUST00605,Customer 605,customer.605@gmail.com,08575969314,Melbourne,Australian,Silver,2021-04-01
+CUST00606,Customer 606,customer.606@gmail.com,08405201605,Bali,American,,2023-08-31
+CUST00607,Customer 607,customer.607@gmail.com,08196930427,Sydney,American,Silver,2021-09-28
+CUST00608,Customer 608,customer 608gmail.com,08140989344,Singapore,American,Bronze,2021-11-12
+CUST00608,Customer 608,customer.608@gmail.com,08140989344,Singapore,American,Bronze,2021-11-12
+CUST00609,Customer 609,customer.609@gmail.com,,Surabaya,Indonesian,Silver,2021-04-27
+CUST00610,Customer 610,customer.610@gmail.com,08179174528,Jakarta,Singaporean,,2021-05-24
+CUST00611,Customer 611,customer611@yahoo.com,08991887749,Melbourne,American,,2021-01-31
+CUST00612,Customer 612,customer.612@gmail.com,08993048402,Bali,Australian,Bronze,2021-12-28
+CUST00613,Customer 613,customer613@yahoo.com,08428219261,Surabaya,American,Bronze,2020-11-28
+CUST00614,Customer 614,customer.614@gmail.com,08573814916,Surabaya,Australian,Gold,2021-11-01
+CUST00615,Customer 615,customer 615gmail.com,08424111856,Jakarta,American,Bronze,2020-04-06
+CUST00616,Customer 616,customer.616@gmail.com,,Jakarta,American,Platinum,2021-03-28
+CUST00617,Customer 617,customer.617@gmail.com,08865061983,Melbourne,American,Platinum,2020-07-25
+CUST00618,Customer 618,customer.618@gmail.com,08258751327,Jakarta,Australian,Gold,2021-01-30
+CUST00619,Customer 619,customer.619@gmail.com,08303285745,Sydney,Australian,Platinum,2021-10-27
+CUST00620,Customer 620,customer.620@gmail.com,,Melbourne,Indonesian,Platinum,2022-07-07
+CUST00621,Customer 621,customer.621@gmail.com,08945859010,Melbourne,Australian,,2021-09-24
+CUST00622,Customer 622,customer622@yahoo.com,08235435079,Jakarta,American,Platinum,2022-01-20
+CUST00623,Customer 623,customer.623@gmail.com,08208652659,Surabaya,British,,2021-07-02
+CUST00624,Customer 624,customer.624@gmail.com,,Sydney,Singaporean,Gold,2021-09-12
+CUST00625,Customer 625,customer.625@gmail.com,,Melbourne,American,Bronze,2022-12-06
+CUST00626,Customer 626,  customer 626@hotmail.com  ,08149746587,Jakarta,Australian,Silver,2020-06-15
+CUST00627,Customer 627,customer.627@gmail.com,,Sydney,British,Bronze,2021-12-16
+CUST00628,Customer 628,  customer 628@hotmail.com  ,08201679051,Surabaya,American,Gold,2021-04-16
+CUST00629,Customer 629,customer 629gmail.com,08430846279,Sydney,Australian,Gold,2023-01-11
+CUST00630,Customer 630,customer.630@gmail.com,,Sydney,Singaporean,Bronze,2022-04-13
+CUST00631,Customer 631,  customer 631@hotmail.com  ,08287058244,Melbourne,British,,2020-10-08
+CUST00632,Customer 632,customer.632@gmail.com,08786627605,Surabaya,Indonesian,Silver,2020-06-12
+CUST00633,Customer 633,customer.633@gmail.com,08876614493,Bali,American,Silver,2020-09-06
+CUST00634,Customer 634,customer.634@gmail.com,08165981961,Singapore,Australian,Bronze,2020-10-29
+CUST00635,Customer 635,customer.635@gmail.com,08378220798,Surabaya,Australian,Platinum,2022-01-08
+CUST00636,Customer 636,customer636@yahoo.com,08368893244,Melbourne,American,Platinum,2022-05-31
+CUST00636,Customer 636,customer.636@gmail.com,08368893244,Melbourne,American,Platinum,2022-05-31
+CUST00637,Customer 637,customer637@yahoo.com,08724593416,Jakarta,American,Platinum,2021-12-13
+CUST00638,Customer 638,customer 638@,08973597028,Bali,Singaporean,,2022-07-20
+CUST00639,Customer 639,customer639@yahoo.com,08333282947,Sydney,Indonesian,Bronze,2023-03-17
+CUST00640,Customer 640,customer.640@gmail.com,08680563601,Melbourne,Singaporean,Silver,2023-06-13
+CUST00641,Customer 641,customer.641@gmail.com,08630847327,Surabaya,Australian,Gold,2022-11-07
+CUST00642,Customer 642,customer 642@,08463014075,Bali,British,,2022-11-30
+CUST00643,Customer 643,customer.643@gmail.com,08412110454,Singapore,British,Gold,2020-08-28
+CUST00644,Customer 644,customer.644@gmail.com,08950506216,Jakarta,Indonesian,Bronze,2023-12-13
+CUST00645,Customer 645,customer.645@gmail.com,08153159707,,Singaporean,,2023-02-22
+CUST00645,Customer 645,customer.645@gmail.com,08153159707,,Singaporean,,2023-02-22
+CUST00646,Customer 646,customer.646@gmail.com,08818571583,Bali,American,Silver,2021-05-09
+CUST00647,Customer 647,customer.647@gmail.com,08384349077,Sydney,British,Gold,2023-03-30
+CUST00648,Customer 648,customer648@yahoo.com,08188192230,Singapore,British,,2021-12-30
+CUST00649,Customer 649,customer.649@gmail.com,08487159772,Jakarta,American,Platinum,2023-12-31
+CUST00650,Customer 650,customer.650@gmail.com,08362740597,Surabaya,Australian,Silver,2023-01-20
+CUST00651,Customer 651,customer651@yahoo.com,08575617862,Jakarta,Australian,Bronze,2021-05-01
+CUST00652,Customer 652,  customer 652@hotmail.com  ,,Sydney,Indonesian,Bronze,2023-06-22
+CUST00653,Customer 653,customer.653@gmail.com,08460000532,Bali,British,Platinum,2022-07-11
+CUST00654,Customer 654,customer654@yahoo.com,08706849977,Singapore,British,Platinum,2022-12-22
+CUST00655,Customer 655,  customer 655@hotmail.com  ,08652035699,Sydney,British,Silver,2022-10-15
+CUST00656,Customer 656,customer.656@gmail.com,08277881380,Jakarta,British,,2022-09-01
+CUST00657,Customer 657,CUSTOMER 657@GMAIL.COM,08789308213,Jakarta,Singaporean,Platinum,2021-12-06
+CUST00658,Customer 658,customer658@yahoo.com,08791446449,Sydney,British,Gold,2020-10-25
+CUST00659,Customer 659,customer.659@gmail.com,08788942386,Jakarta,Australian,Silver,2022-05-25
+CUST00660,Customer 660,CUSTOMER 660@GMAIL.COM,08815151706,Surabaya,Australian,Gold,2021-01-02
+CUST00661,Customer 661,customer661@yahoo.com,08250371240,,Singaporean,Bronze,2021-08-22
+CUST00662,Customer 662,CUSTOMER 662@GMAIL.COM,08538417789,Singapore,American,Bronze,2021-02-09
+CUST00663,Customer 663,customer.663@gmail.com,08450658476,Sydney,Singaporean,Silver,2021-11-19
+CUST00664,Customer 664,  customer 664@hotmail.com  ,08753335069,Jakarta,Indonesian,Bronze,2020-08-08
+CUST00665,Customer 665,customer 665gmail.com,08302113353,Surabaya,American,Gold,2022-11-10
+CUST00666,Customer 666,customer.666@gmail.com,08134878772,Surabaya,Australian,Bronze,2020-06-13
+CUST00667,Customer 667,customer.667@gmail.com,08538618150,Sydney,Australian,Bronze,2023-12-27
+CUST00668,Customer 668,customer668@yahoo.com,08554388555,Melbourne,Indonesian,Silver,2021-06-02
+CUST00668,Customer 668,  customer 668@hotmail.com  ,08554388555,Melbourne,Indonesian,Silver,2021-06-02
+CUST00669,Customer 669,customer.669@gmail.com,08191485330,Surabaya,Australian,Silver,2022-07-10
+CUST00670,Customer 670,customer.670@gmail.com,08518002516,Melbourne,Australian,Silver,2023-03-10
+CUST00671,Customer 671,CUSTOMER 671@GMAIL.COM,08315212352,Bali,Australian,Platinum,2021-12-17
+CUST00672,Customer 672,customer.672@gmail.com,08898879229,Bali,American,,2021-08-19
+CUST00672,Customer 672,customer 672@,08898879229,Bali,American,,2021-08-19
+CUST00673,Customer 673,customer673@yahoo.com,08639285718,Bali,American,Bronze,2021-04-20
+CUST00674,Customer 674,customer.674@gmail.com,08749098561,Melbourne,Australian,Gold,2021-02-27
+CUST00675,Customer 675,customer675@yahoo.com,08972006619,Melbourne,American,Gold,2020-07-07
+CUST00676,Customer 676,customer.676@gmail.com,08757153283,Melbourne,Singaporean,,2020-08-03
+CUST00677,Customer 677,customer.677@gmail.com,08393761020,,Indonesian,Platinum,2021-02-22
+CUST00678,Customer 678,customer.678@gmail.com,08391881722,Jakarta,Indonesian,Bronze,2023-11-03
+CUST00679,Customer 679,customer.679@gmail.com,08551823486,Singapore,Indonesian,Silver,2021-03-03
+CUST00680,Customer 680,customer680@yahoo.com,,Jakarta,Singaporean,Bronze,2022-07-16
+CUST00681,Customer 681,customer.681@gmail.com,08422099336,Jakarta,Indonesian,Silver,2021-04-25
+CUST00681,Customer 681,customer 681@,08422099336,Jakarta,Indonesian,Silver,2021-04-25
+CUST00682,Customer 682,customer.682@gmail.com,08343210650,Surabaya,Singaporean,Gold,2021-07-23
+CUST00683,Customer 683,customer 683@,08420198026,Melbourne,Australian,Gold,2021-11-02
+CUST00684,Customer 684,customer.684@gmail.com,08196389248,Bali,Australian,,2022-04-06
+CUST00685,Customer 685,customer.685@gmail.com,08125512897,Melbourne,Australian,Platinum,2021-12-29
+CUST00686,Customer 686,customer686@yahoo.com,08371531755,Sydney,American,,2020-11-03
+CUST00687,Customer 687,customer.687@gmail.com,08664147959,Sydney,Indonesian,Bronze,2021-07-20
+CUST00687,Customer 687,customer.687@gmail.com,08664147959,Sydney,Indonesian,Bronze,2021-07-20
+CUST00688,Customer 688,  customer 688@hotmail.com  ,,Bali,British,Gold,2023-01-04
+CUST00689,Customer 689,customer689@yahoo.com,08729662339,Melbourne,Australian,,2020-02-22
+CUST00690,Customer 690,customer.690@gmail.com,08649537321,Melbourne,Australian,,2021-01-02
+CUST00691,Customer 691,customer.691@gmail.com,,Jakarta,American,Silver,2022-03-12
+CUST00692,Customer 692,customer.692@gmail.com,08841356949,Surabaya,British,Platinum,2022-06-24
+CUST00693,Customer 693,customer.693@gmail.com,08785112842,Melbourne,Singaporean,Gold,2021-10-05
+CUST00694,Customer 694,customer.694@gmail.com,08309939299,Jakarta,American,Gold,2021-08-02
+CUST00695,Customer 695,customer.695@gmail.com,08283249144,Singapore,Australian,Silver,2022-02-19
+CUST00695,Customer 695,customer 695gmail.com,08283249144,Singapore,Australian,Silver,2022-02-19
+CUST00696,Customer 696,customer.696@gmail.com,,Melbourne,British,Silver,2021-11-03
+CUST00697,Customer 697,customer.697@gmail.com,08593941142,Singapore,British,Bronze,2023-06-16
+CUST00698,Customer 698,CUSTOMER 698@GMAIL.COM,08294748523,Bali,Indonesian,Bronze,2022-12-14
+CUST00699,Customer 699,customer.699@gmail.com,08804567959,Sydney,Australian,,2021-07-04
+CUST00700,Customer 700,CUSTOMER 700@GMAIL.COM,08286494625,Singapore,American,Bronze,2022-05-21
+CUST00701,Customer 701,CUSTOMER 701@GMAIL.COM,,Melbourne,American,,2020-03-12
+CUST00702,Customer 702,customer.702@gmail.com,08704626493,Melbourne,British,Bronze,2020-03-25
+CUST00703,Customer 703,customer.703@gmail.com,08701129700,Melbourne,Australian,Silver,2023-02-01
+CUST00704,Customer 704,CUSTOMER 704@GMAIL.COM,08198969798,Melbourne,Australian,Silver,2020-11-10
+CUST00705,Customer 705,customer.705@gmail.com,08543677159,Surabaya,British,Gold,2024-01-01
+CUST00706,Customer 706,customer.706@gmail.com,08535027490,Melbourne,Singaporean,Gold,2020-10-12
+CUST00707,Customer 707,CUSTOMER 707@GMAIL.COM,,Melbourne,Australian,Bronze,2022-02-25
+CUST00708,Customer 708,customer.708@gmail.com,,Singapore,Indonesian,Platinum,2020-08-11
+CUST00709,Customer 709,customer.709@gmail.com,,Jakarta,Australian,Platinum,2021-06-05
+CUST00710,Customer 710,customer710@yahoo.com,08702781358,Sydney,Singaporean,Bronze,2021-04-10
+CUST00711,Customer 711,customer.711@gmail.com,08118758204,Bali,British,Silver,2022-04-02
+CUST00712,Customer 712,customer.712@gmail.com,08490743795,Singapore,Indonesian,Platinum,2022-10-13
+CUST00713,Customer 713,customer 713gmail.com,08800204158,Melbourne,British,Bronze,2022-04-27
+CUST00714,Customer 714,customer.714@gmail.com,08690084966,Sydney,Indonesian,Gold,2021-01-22
+CUST00715,Customer 715,CUSTOMER 715@GMAIL.COM,08420434965,Sydney,British,,2023-07-12
+CUST00716,Customer 716,customer.716@gmail.com,,Surabaya,Australian,Platinum,2023-08-19
+CUST00717,Customer 717,customer.717@gmail.com,08207863703,Bali,Australian,Platinum,2022-04-21
+CUST00718,Customer 718,  customer 718@hotmail.com  ,08468582096,Jakarta,British,Bronze,2021-07-22
+CUST00719,Customer 719,  customer 719@hotmail.com  ,08324850062,Singapore,British,Bronze,2020-09-08
+CUST00720,Customer 720,customer720@yahoo.com,08446604522,Sydney,British,Platinum,2021-03-02
+CUST00721,Customer 721,customer.721@gmail.com,08550669370,Singapore,British,Bronze,2021-04-22
+CUST00722,Customer 722,customer722@yahoo.com,08655227683,Melbourne,Indonesian,Gold,2021-04-11
+CUST00723,Customer 723,customer.723@gmail.com,08829869672,Jakarta,American,Silver,2022-12-02
+CUST00723,Customer 723,CUSTOMER 723@GMAIL.COM,08829869672,Jakarta,American,Silver,2022-12-02
+CUST00724,Customer 724,customer724@yahoo.com,08607332282,Melbourne,Indonesian,Platinum,2020-11-21
+CUST00725,Customer 725,customer.725@gmail.com,08511493768,Surabaya,British,Platinum,2023-04-15
+CUST00726,Customer 726,customer.726@gmail.com,08958545600,,American,,2020-04-10
+CUST00727,Customer 727,customer.727@gmail.com,08990943137,Surabaya,Indonesian,Silver,2022-01-07
+CUST00728,Customer 728,customer.728@gmail.com,08648171944,Bali,Indonesian,Bronze,2020-01-04
+CUST00729,Customer 729,customer.729@gmail.com,,Sydney,American,Silver,2023-06-19
+CUST00730,Customer 730,customer730@yahoo.com,08121484656,Sydney,Australian,,2023-09-07
+CUST00731,Customer 731,customer731@yahoo.com,08844385342,Singapore,British,Gold,2022-07-24
+CUST00732,Customer 732,customer.732@gmail.com,08578867880,Jakarta,Australian,Silver,2020-05-17
+CUST00733,Customer 733,  customer 733@hotmail.com  ,08953463175,Bali,Indonesian,Gold,2023-04-25
+CUST00734,Customer 734,customer.734@gmail.com,08402365285,Sydney,Indonesian,Gold,2022-01-12
+CUST00735,Customer 735,customer 735@,08904855001,Jakarta,British,Bronze,2021-07-27
+CUST00736,Customer 736,customer736@yahoo.com,08137785862,Singapore,American,Bronze,2023-06-04
+CUST00737,Customer 737,customer.737@gmail.com,08744220994,Jakarta,British,,2020-07-24
+CUST00738,Customer 738,  customer 738@hotmail.com  ,08700475716,Singapore,Singaporean,Silver,2021-08-10
+CUST00738,Customer 738,customer.738@gmail.com,08700475716,Singapore,Singaporean,Silver,2021-08-10
+CUST00739,Customer 739,customer.739@gmail.com,,Jakarta,British,Platinum,2021-01-12
+CUST00740,Customer 740,customer740@yahoo.com,,Jakarta,Indonesian,Bronze,2022-01-13
+CUST00740,Customer 740,customer.740@gmail.com,,Jakarta,Indonesian,Bronze,2022-01-13
+CUST00741,Customer 741,  customer 741@hotmail.com  ,08830789223,Singapore,British,Bronze,2022-02-13
+CUST00742,Customer 742,  customer 742@hotmail.com  ,08587198379,Jakarta,Australian,Bronze,2020-01-05
+CUST00743,Customer 743,CUSTOMER 743@GMAIL.COM,08483483464,Melbourne,Singaporean,Platinum,2020-10-07
+CUST00744,Customer 744,  customer 744@hotmail.com  ,08742705044,Sydney,British,,2022-08-21
+CUST00745,Customer 745,customer745@yahoo.com,08272812536,Singapore,British,,2021-04-08
+CUST00746,Customer 746,customer.746@gmail.com,08881123892,Sydney,Indonesian,Platinum,2021-05-30
+CUST00746,Customer 746,customer.746@gmail.com,08881123892,Sydney,Indonesian,Platinum,2021-05-30
+CUST00747,Customer 747,  customer 747@hotmail.com  ,08548419126,Singapore,British,Gold,2020-06-08
+CUST00748,Customer 748,customer 748@,08599382660,Singapore,Australian,Gold,2020-11-04
+CUST00749,Customer 749,CUSTOMER 749@GMAIL.COM,08237490080,Melbourne,Singaporean,Gold,2023-06-08
+CUST00750,Customer 750,CUSTOMER 750@GMAIL.COM,08123207047,Singapore,British,Platinum,2023-06-20
+CUST00751,Customer 751,customer.751@gmail.com,08890760239,Singapore,British,Gold,2020-07-01
+CUST00752,Customer 752,customer.752@gmail.com,08210054934,Bali,Indonesian,,2022-01-11
+CUST00753,Customer 753,customer.753@gmail.com,08350077273,Jakarta,American,Bronze,2023-05-08
+CUST00754,Customer 754,  customer 754@hotmail.com  ,08983240202,Jakarta,Singaporean,,2022-10-15
+CUST00755,Customer 755,customer.755@gmail.com,,Surabaya,Indonesian,Silver,2020-05-24
+CUST00756,Customer 756,customer756@yahoo.com,,Jakarta,Singaporean,Bronze,2023-09-30
+CUST00757,Customer 757,customer757@yahoo.com,,Melbourne,British,,2021-10-01
+CUST00758,Customer 758,customer.758@gmail.com,08704905130,Bali,Australian,Platinum,2022-07-03
+CUST00759,Customer 759,customer.759@gmail.com,08306079982,Singapore,Indonesian,Gold,2022-09-13
+CUST00760,Customer 760,customer.760@gmail.com,08562217263,Surabaya,Singaporean,Gold,2023-01-01
+CUST00760,Customer 760,customer.760@gmail.com,08562217263,Surabaya,Singaporean,Gold,2023-01-01
+CUST00761,Customer 761,customer.761@gmail.com,08211560434,Sydney,British,Bronze,2020-08-02
+CUST00762,Customer 762,  customer 762@hotmail.com  ,08116845171,Melbourne,Singaporean,,2023-09-07
+CUST00763,Customer 763,customer.763@gmail.com,08171331845,Jakarta,British,Silver,2022-04-10
+CUST00764,Customer 764,customer.764@gmail.com,08290197056,Sydney,Australian,Platinum,2022-01-26
+CUST00765,Customer 765,customer.765@gmail.com,08396894915,Singapore,Australian,,2023-01-15
+CUST00766,Customer 766,customer.766@gmail.com,08843460723,Melbourne,Singaporean,Platinum,2022-08-01
+CUST00767,Customer 767,customer.767@gmail.com,08999138738,Bali,British,Silver,2020-12-13
+CUST00767,Customer 767,customer.767@gmail.com,08999138738,Bali,British,Silver,2020-12-13
+CUST00768,Customer 768,customer.768@gmail.com,08872258277,,Australian,Bronze,2023-09-02
+CUST00769,Customer 769,customer.769@gmail.com,08267079788,Sydney,American,Bronze,2022-12-28
+CUST00770,Customer 770,customer.770@gmail.com,08351277780,Jakarta,American,Platinum,2021-01-05
+CUST00771,Customer 771,customer.771@gmail.com,08193550256,Jakarta,Singaporean,Silver,2021-05-04
+CUST00772,Customer 772,  customer 772@hotmail.com  ,,Sydney,British,Bronze,2022-08-11
+CUST00773,Customer 773,customer.773@gmail.com,08975065592,Surabaya,Singaporean,Gold,2023-07-03
+CUST00774,Customer 774,customer.774@gmail.com,08375154127,Jakarta,American,Bronze,2021-02-12
+CUST00774,Customer 774,customer.774@gmail.com,08375154127,Jakarta,American,Bronze,2021-02-12
+CUST00775,Customer 775,customer775@yahoo.com,08315675858,Surabaya,American,Silver,2023-09-15
+CUST00776,Customer 776,  customer 776@hotmail.com  ,08488931685,Bali,American,Platinum,2020-01-25
+CUST00777,Customer 777,customer.777@gmail.com,,Jakarta,Singaporean,Silver,2021-08-03
+CUST00778,Customer 778,customer778@yahoo.com,08877107157,Bali,Singaporean,Silver,2021-01-10
+CUST00779,Customer 779,customer.779@gmail.com,08954780265,Surabaya,Singaporean,Gold,2023-01-19
+CUST00780,Customer 780,customer780@yahoo.com,08194307689,Sydney,Australian,Silver,2020-10-26
+CUST00781,Customer 781,customer.781@gmail.com,,Bali,Indonesian,Silver,2020-10-19
+CUST00781,Customer 781,customer.781@gmail.com,,Bali,Indonesian,Silver,2020-10-19
+CUST00782,Customer 782,customer.782@gmail.com,08432187081,Surabaya,American,Platinum,2022-08-18
+CUST00783,Customer 783,CUSTOMER 783@GMAIL.COM,08456485832,Surabaya,British,,2021-11-06
+CUST00784,Customer 784,customer.784@gmail.com,08923196206,Singapore,American,Gold,2022-11-29
+CUST00785,Customer 785,customer.785@gmail.com,,,Singaporean,Silver,2022-11-21
+CUST00786,Customer 786,customer.786@gmail.com,08975005958,Jakarta,Singaporean,Platinum,2023-02-26
+CUST00787,Customer 787,customer.787@gmail.com,08500268395,Surabaya,Indonesian,Gold,2022-05-08
+CUST00788,Customer 788,CUSTOMER 788@GMAIL.COM,08725001096,Jakarta,American,Bronze,2020-05-24
+CUST00789,Customer 789,CUSTOMER 789@GMAIL.COM,08663806897,Jakarta,Indonesian,Platinum,2021-07-19
+CUST00790,Customer 790,customer.790@gmail.com,08406790721,Surabaya,American,,2021-07-18
+CUST00791,Customer 791,customer.791@gmail.com,08403045855,Melbourne,Indonesian,Platinum,2023-06-22
+CUST00792,Customer 792,customer.792@gmail.com,08756872776,Melbourne,American,Platinum,2021-11-24
+CUST00793,Customer 793,customer793@yahoo.com,08794980149,Singapore,British,,2023-05-31
+CUST00793,Customer 793,customer.793@gmail.com,08794980149,Singapore,British,,2023-05-31
+CUST00794,Customer 794,customer794@yahoo.com,08138309766,Bali,Singaporean,Gold,2021-04-09
+CUST00795,Customer 795,customer.795@gmail.com,,Sydney,Australian,Platinum,2020-08-30
+CUST00796,Customer 796,customer.796@gmail.com,08109976331,Bali,Singaporean,Bronze,2021-05-12
+CUST00797,Customer 797,CUSTOMER 797@GMAIL.COM,08854328865,Singapore,American,Gold,2022-12-31
+CUST00798,Customer 798,customer.798@gmail.com,08155097296,Surabaya,Australian,Silver,2022-06-30
+CUST00799,Customer 799,customer.799@gmail.com,,Jakarta,Australian,,2023-12-01
+CUST00800,Customer 800,customer.800@gmail.com,08177881582,Jakarta,Singaporean,Platinum,2023-08-11

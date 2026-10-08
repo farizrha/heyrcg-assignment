@@ -1,0 +1,61 @@
+BookingID,hotel_name,RoomType,customer_id,CustomerName,customer_email,CheckInDate,check_out_date,nights,booking_status,channel,BookingSource,RatePerNight,Currency,TotalRevenue_IDR,discount_pct,is_loyalty_member,created_at,updated_at
+BKG-10032,Alaya Ubud,Garden Room,CUST00606,Customer 606,customer.606@gmail.com,2024-04-09,2024-04-12,3,Confirmed,Direct Website,Traveloka,123.93,SGD,3697500.0,0.15,1,2024-03-18,2024-03-30 22:00:00
+BKG-10015,Alaya Ubud,Suite,CUST00245,Customer 245,customer.245@gmail.com,2024-04-16,2024-04-20,4,CONFIRMED,Direct Website,Expedia,850000,IDR,2890000.0,0.15,0,2024-03-08,2024-03-31 11:27:00
+BKG-10021,The Mulia Nusa Dua,Superior Room,CUST00118,,,2024-04-25,2024-04-26,1,CONFIRMED,OTA,Airbnb,53.8,USD,850000.0,,True,2024-03-12,2024-03-31 09:08:00
+BKG-10037,Komaneka Bisma,Deluxe Room,CUST00177,Customer 177,customer177@yahoo.com,2024-04-05,2024-04-10,5,confirmed,Walk-in,Expedia,227.85,USD,17100000.0,0.05,,2024-03-04,2024-03-30 11:23:00
+BKG-00002,Bisma Eight,Suite,CUST00038,,customer.38@gmail.com,2024-03-14,2024-03-20,6,confirmed,Walk-in,Traveloka,4358080.0,IDR,26148480.0,0.03,1,2024-03-13,2024-03-28 15:00:00
+BKG-00006,The Mulia Nusa Dua,Suite,CUST00753,Customer 753,customer.753@gmail.com,2024-03-04,2024-03-09,5,Checked Out,Corporate,Expedia,5326161.0,IDR,26630805.0,,Yes,2023-12-19,2024-03-29 11:02:00
+BKG-10018,Alaya Ubud,Garden Room,CUST00670,, customer 670@hotmail.com ,2024-04-18,2024-04-20,2,confirmed,OTA,Direct,307.69,SGD,6840000.0,0.05,1,2024-03-13,2024-03-30 18:23:00
+BKG-00003,Katamama Resort,Garden Room,CUST00425,Customer 425,customer.425@gmail.com,2024-03-15,2024-03-22,7,checked_out,Walk-in,Agoda,5592962.0,IDR,39150734.0,,0,2024-01-19,2024-03-29 10:40:00
+BKG-10047,Bisma Eight,Garden Room,CUST19999,Customer 19999,,2024-04-12,2024-04-15,3,Confirmed,Travel Agent,Expedia,5200000,IDR,15600000.0,,Yes,2024-03-29,2024-03-30 19:40:00
+BKG-10013,Katamama Resort,Suite,CUST00167,Customer 167, customer 167@hotmail.com ,2024-04-14,2024-04-19,5,Confirmed,Walk-in,Traveloka,307.69,SGD,17100000.0,0.05,Yes,2024-03-07,2024-03-31 16:27:00
+BKG-10017,Bisma Eight,Deluxe Room,CUST00001,Customer 1,,2024-04-01,2024-04-02,1,Confirmed,OTA,Expedia,3600000,IDR,3600000.0,,1,2024-03-19,2024-03-29 11:57:00
+BKG-10045,Alaya Ubud,Superior Room,CUST10005,,customer.10005@gmail.com,2024-04-12,2024-04-14,2,CONFIRMED,Corporate,Agoda,3600000,IDR,7200000.0,,Yes,2024-03-28,2024-03-30 14:15:00
+BKG-10036,The Layar Seminyak,Suite,CUST00153,, customer 153@hotmail.com ,2024-04-12,2024-04-19,7,CONFIRMED,Corporate,Airbnb,307.69,SGD,22680000.0,0.1,0,2024-03-25,2024-03-31 10:52:00
+BKG-00012,Alaya Ubud,Pool Villa,CUST00334,Customer 334,customer.334@gmail.com,2024-03-01,2024-03-03,2,confirmed,Travel Agent,Agoda,308.69,USD,9754688.0,0.28,Yes,2023-12-12,2024-03-20 07:45:00
+BKG-10009,Alaya Ubud,Suite,CUST00298,,customer.298@gmail.com,2024-04-25,2024-04-26,1,CONFIRMED,Corporate,Traveloka,500.0,AUD,5200000.0,,True,2024-03-14,2024-03-29 11:28:00
+BKG-10048,The Mulia Nusa Dua,Garden Room,CUST00752,Customer 752,,2024-03-22,2024-03-25,3,checked_out,Walk-in,Traveloka,500.0,AUD,15600000.0,,1,2024-03-20,2024-03-29 08:05:00
+BKG-10040,Bisma Eight,Deluxe Room,CUST00246,Customer 246, customer 246@hotmail.com ,2024-04-07,2024-04-11,4,confirmed,Travel Agent,Airbnb,500.0,AUD,20800000.0,,Yes,2024-03-13,2024-03-30 17:06:00
+BKG-10025,The Mulia Nusa Dua,Pool Villa,CUST00735,,customer735@yahoo.com,2024-04-10,2024-04-17,7,confirmed,Walk-in,Direct,81.73,AUD,5950000.0,,True,2024-03-05,2024-03-31 20:55:00
+BKG-10007,Komaneka Bisma,Suite,CUST00261,Customer 261,,2024-04-04,2024-04-05,1,Confirmed,Direct Website,Traveloka,91.77,USD,1450000.0,,1,2024-03-20,2024-03-31 17:59:00
+BKG-10019,Alaya Ubud,Deluxe Room,CUST00313,,,2024-04-01,2024-04-06,5,confirmed,Direct Website,Direct,1450000,IDR,6887500.0,0.05,False,2024-03-07,2024-03-31 20:57:00
+BKG-10020,Alaya Ubud,Superior Room,CUST00032,,,2024-04-11,2024-04-17,6,Confirmed,OTA,Airbnb,227.85,USD,21600000.0,,Yes,2024-03-17,2024-03-29 18:30:00
+BKG-10028,Bisma Eight,Pool Villa,CUST00031,Customer 31,customer.31@gmail.com,2024-04-11,2024-04-12,1,Confirmed,Direct Website,Direct,81.73,AUD,807500.0,0.05,True,2024-03-05,2024-03-29 21:39:00
+BKG-10004,Bisma Eight,Superior Room,CUST00646,,,2024-04-22,2024-04-23,1,CONFIRMED,Walk-in,Expedia,850000,IDR,722500.0,0.15,0,2024-03-08,2024-03-31 11:54:00
+BKG-10034,The Layar Seminyak,Deluxe Room,CUST00286,,customer286@yahoo.com,2024-04-08,2024-04-15,7,confirmed,Walk-in,Traveloka,2300000,IDR,13685000.0,0.15,0,2024-03-14,2024-03-30 17:28:00
+BKG-10029,Bisma Eight,Superior Room,CUST00604,,customer604@yahoo.com,2024-04-05,2024-04-12,7,CONFIRMED,Corporate,Agoda,1450000,IDR,10150000.0,,1,2024-03-13,2024-03-29 10:07:00
+BKG-10008,The Layar Seminyak,Pool Villa,CUST00067,,,2024-04-23,2024-04-27,4,CONFIRMED,Travel Agent,Direct,5200000,IDR,20800000.0,,,2024-03-14,2024-03-29 13:52:00
+BKG-10030,Komaneka Bisma,Garden Room,CUST00242,,customer.242@gmail.com,2024-04-28,2024-05-02,4,Confirmed,Travel Agent,Expedia,850000,IDR,3400000.0,,,2024-03-20,2024-03-29 08:48:00
+BKG-10001,Komaneka Bisma,Superior Room,CUST00507,Customer 507,customer.507@gmail.com,2024-04-03,2024-04-08,5,confirmed,Direct Website,Booking.com,5200000,IDR,24700000.0,0.05,Yes,2024-03-22,2024-03-30 22:18:00
+BKG-10002,Bisma Eight,Deluxe Room,CUST00473,Customer 473, customer 473@hotmail.com ,2024-04-19,2024-04-20,1,CONFIRMED,Corporate,Direct,1450000,IDR,1232500.0,0.15,True,2024-03-14,2024-03-30 22:13:00
+BKG-10044,The Mulia Nusa Dua,Deluxe Room,CUST10004,Customer 10004, customer 10004@hotmail.com ,2024-04-14,2024-04-16,2,CONFIRMED,Travel Agent,Direct,850000,IDR,1700000.0,,1,2024-03-28,2024-03-30 13:15:00
+BKG-10006,Komaneka Bisma,Suite,CUST00541,Customer 541,customer.541@gmail.com,2024-04-04,2024-04-07,3,Confirmed,OTA,Agoda,5200000,IDR,15600000.0,,1,2024-03-16,2024-03-31 11:30:00
+BKG-10010,The Layar Seminyak,Garden Room,CUST00454,Customer 454,,2024-04-05,2024-04-06,1,CONFIRMED,OTA,Expedia,91.77,USD,1450000.0,,True,2024-03-16,2024-03-29 22:31:00
+BKG-10024,Katamama Resort,Garden Room,CUST00238,Customer 238,,2024-04-03,2024-04-06,3,Confirmed,Corporate,Airbnb,850000,IDR,2422500.0,0.05,,2024-03-22,2024-03-29 15:02:00
+BKG-10049,Bisma Eight,Pool Villa,CUST00582,Customer 582, customer 582@hotmail.com ,2024-03-25,2024-03-27,2,checked_out,Walk-in,Booking.com,346.15,AUD,7200000.0,,0,2024-03-20,2024-03-29 09:05:00
+BKG-10023,Alaya Ubud,Pool Villa,CUST00689,,customer.689@gmail.com,2024-04-23,2024-04-25,2,confirmed,OTA,Direct,2300000,IDR,4600000.0,,1,2024-03-10,2024-03-30 20:18:00
+BKG-10046,The Mulia Nusa Dua,Deluxe Room,CUST10006,Customer 10006,customer.10006@gmail.com,2024-04-23,2024-04-26,3,CONFIRMED,Direct Website,Airbnb,500.0,AUD,14040000.0,0.1,True,2024-03-28,2024-03-30 15:15:00
+BKG-00010,Alaya Ubud,Garden Room,CUST00351,, customer 351@hotmail.com ,2024-03-18,2024-03-24,6,checked_out,Direct Website,Expedia,3632369.0,IDR,21794214.0,,True,2024-01-21,2024-03-30 08:20:00
+BKG-10050,The Mulia Nusa Dua,Garden Room,CUST00054,Customer 54,customer54@yahoo.com,2024-03-27,2024-03-31,4,checked_out,OTA,Agoda,5200000,IDR,19760000.0,0.05,False,2024-03-20,2024-03-29 10:05:00
+BKG-10031,Bisma Eight,Superior Room,CUST00677,Customer 677,customer677@yahoo.com,2024-04-22,2024-04-24,2,Confirmed,Corporate,Traveloka,91.77,USD,2610000.0,0.1,1,2024-03-13,2024-03-30 08:14:00
+BKG-10042,Alaya Ubud,Deluxe Room,CUST10002,,customer10002@yahoo.com,2024-04-24,2024-04-29,5,confirmed,OTA,Airbnb,850000,IDR,4250000.0,,True,2024-03-28,2024-03-30 11:15:00
+BKG-10026,Komaneka Bisma,Garden Room,CUST00798,, customer 798@hotmail.com ,2024-04-15,2024-04-22,7,Confirmed,OTA,Traveloka,346.15,AUD,25200000.0,,1,2024-03-14,2024-03-30 10:40:00
+BKG-10005,Bisma Eight,Pool Villa,CUST00120,Customer 120,,2024-04-17,2024-04-20,3,confirmed,Direct Website,Traveloka,3600000,IDR,10260000.0,0.05,True,2024-03-23,2024-03-30 17:02:00
+BKG-10011,Alaya Ubud,Pool Villa,CUST00427,Customer 427, customer 427@hotmail.com ,2024-04-02,2024-04-05,3,CONFIRMED,OTA,Traveloka,500.0,AUD,13260000.0,0.15,,2024-03-18,2024-03-30 08:17:00
+BKG-00011,Katamama Resort,Superior Room,CUST00783,Customer 783,customer.783@gmail.com,2024-01-03,2024-01-06,3,CANCELLED,OTA,Direct,169.19,USD,0.0,0.12,False,2023-11-28,2024-03-30 14:55:00
+BKG-10016,Alaya Ubud,Garden Room,CUST00407,, customer 407@hotmail.com ,2024-04-18,2024-04-20,2,CONFIRMED,OTA,Agoda,81.73,AUD,1615000.0,0.05,No,2024-03-01,2024-03-29 11:44:00
+BKG-10012,The Layar Seminyak,Deluxe Room,CUST00704,,customer704@yahoo.com,2024-04-24,2024-04-28,4,CONFIRMED,Direct Website,Airbnb,850000,IDR,3400000.0,,Yes,2024-03-03,2024-03-29 19:58:00
+BKG-00002,Bisma Eight,Suite,CUST00038,,customer.38@gmail.com,2024-03-14,2024-03-20,6,cnx,Walk-in,Traveloka,4358080.0,IDR,0.0,0.03,1,2024-03-13,2024-03-29 09:12:00
+BKG-10004,Bisma Eight,Superior Room,CUST00646,,,2024-04-22,2024-04-23,1,CONFIRMED,Walk-in,Expedia,850000,IDR,722500.0,0.15,0,2024-03-08,2024-03-31 11:54:00
+BKG-10027,Alaya Ubud,Pool Villa,CUST00744,Customer 744,customer744@yahoo.com,2024-04-11,2024-04-12,1,Confirmed,Direct Website,Expedia,5200000,IDR,4940000.0,0.05,No,2024-03-22,2024-03-31 09:54:00
+BKG-10039,Bisma Eight,Suite,CUST00162,,,2024-04-26,2024-04-30,4,confirmed,Corporate,Traveloka,3600000,IDR,13680000.0,0.05,No,2024-03-27,2024-03-31 10:24:00
+BKG-10022,Katamama Resort,Pool Villa,CUST00505,Customer 505,customer.505@gmail.com,2024-04-23,2024-04-26,3,confirmed,Walk-in,Traveloka,123.93,SGD,3697500.0,0.15,No,2024-03-19,2024-03-29 22:55:00
+BKG-10035,Bisma Eight,Deluxe Room,CUST00633,Customer 633,,2024-04-09,2024-04-14,5,confirmed,Direct Website,Agoda,1450000,IDR,6162500.0,0.15,Yes,2024-03-16,2024-03-31 15:28:00
+BKG-10041,Komaneka Bisma,Pool Villa,CUST10001,,customer10001@yahoo.com,2024-04-13,2024-04-15,2,confirmed,Direct Website,Booking.com,307.69,SGD,7200000.0,,0,2024-03-28,2024-03-30 10:15:00
+BKG-10033,The Mulia Nusa Dua,Superior Room,CUST00018,, customer 18@hotmail.com ,2024-04-02,2024-04-07,5,CONFIRMED,OTA,Traveloka,444.44,SGD,24700000.0,0.05,,2024-03-05,2024-03-31 08:33:00
+BKG-10014,The Mulia Nusa Dua,Deluxe Room,CUST00079,Customer 79, customer 79@hotmail.com ,2024-04-14,2024-04-20,6,CONFIRMED,OTA,Traveloka,2300000,IDR,13800000.0,,Yes,2024-03-09,2024-03-30 08:33:00
+BKG-00013,Katamama Resort,Garden Room,CUST00093,Customer 93,customer.93@gmail.com,2024-01-25,2024-01-31,6,completed,Direct Website,Expedia,5418302.0,IDR,29258830.8,0.1,1,2023-12-16,2024-03-30 16:30:00
+BKG-10003,Bisma Eight,Garden Room,CUST00683,Customer 683, customer 683@hotmail.com ,2024-04-04,2024-04-07,3,confirmed,Walk-in,Traveloka,3600000,IDR,9180000.0,0.15,True,2024-03-23,2024-03-30 09:11:00
+BKG-10043,Bisma Eight,Garden Room,CUST10003,,,2024-04-14,2024-04-16,2,CONFIRMED,Direct Website,Airbnb,444.44,SGD,10400000.0,,No,2024-03-28,2024-03-30 12:15:00
+BKG-10038,Bisma Eight,Suite,CUST00011,,customer.11@gmail.com,2024-04-28,2024-05-05,7,CONFIRMED,Direct Website,Booking.com,123.93,SGD,9642500.0,0.05,False,2024-03-06,2024-03-29 18:22:00
+BKG-10018,Alaya Ubud,Garden Room,CUST00670,, customer 670@hotmail.com ,2024-04-18,2024-04-20,2,confirmed,OTA,Direct,307.69,SGD,6840000.0,0.05,1,2024-03-13,2024-03-30 18:23:00

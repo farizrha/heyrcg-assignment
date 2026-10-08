@@ -1,0 +1,19 @@
+customer_id,full_name,email,phone,city,nationality,loyalty_tier,joined_date,updated_at
+CUST10003,Customer 10003, Customer10003@Yahoo.com ,08539391675,Melbourne,American,Bronze,2024-03-28,2024-03-29 12:00:00
+CUST00006,Customer 6,customer.6@gmail.com,08301822108,Sydney,Indonesian,Gold,2020-03-24,2024-03-30 10:30:00
+CUST00011,Customer 11,customer.11@gmail.com,08134455667,Surabaya,British,Bronze,2023-06-24,2024-03-30 15:20:00
+CUST00012,Customer 12,customer12@yahoo.com,08251078407,Singapore,Singaporean,gold,2021-09-27,2024-03-29 12:30:00
+CUST10005,Customer 10005, Customer10005@Yahoo.com ,08113092670,Perth,British,Silver,2024-03-28,2024-03-29 14:00:00
+CUST00016,Customer 16,customer16@yahoo.com,08679408548,Surabaya,British,Silver,2022-12-08,2024-03-30 13:30:00
+CUST10004,Customer 10004,customer.10004@gmail.com,08907991403,Jakarta,British,Silver,2024-03-28,2024-03-29 13:00:00
+CUST10001,Customer 10001, Customer10001@Yahoo.com ,08858482648,Singapore,British,Bronze,2024-03-28,2024-03-29 10:00:00
+CUST00001,Customer 1,customer.1@gmail.com,08782090572,Jakarta,Indonesian,Bronze,2022-01-10,2024-03-29 09:30:00
+CUST00006,Customer 6,customer.6@gmail.com,08301822108,Sydney,Indonesian,Platinum,2020-03-24,2024-03-31 18:10:00
+CUST00010,Customer 10,customer.10@gmail.com,08797709566,Jakarta,Australian,Platinum,2022-09-11,2024-03-31 11:30:00
+CUST10002,Customer 10002,customer.10002@gmail.com,08469103573,Sydney,Singaporean,Bronze,2024-03-28,2024-03-29 11:00:00
+CUST00010,Customer 10,customer.10@gmail.com,08797709566,Jakarta,Australian,Gold,2022-09-11,2024-03-28 08:00:00
+CUST00010,Customer 10,customer.10@gmail.com,08797709566,Jakarta,Australian,Platinum,2022-09-11,2024-03-31 11:30:00
+CUST00020,Customer 20,customer20@yahoo.com,08169203678,Sydney,British,SILVER,2023-10-21,2024-03-31 14:30:00
+CUST00002,Customer 2,customer.2@hotmail.com,08262365542,Sydney,American,Gold,2022-03-08,2024-03-29 13:00:00
+CUST00024,Customer 24,customer.24@gmail.com,08315438018,Bali,American,Platinum,2023-10-21,2024-03-29 15:30:00
+CUST10006,Customer 10006,customer.10006@gmail.com,08529958817,Melbourne,Australian,Bronze,2024-03-28,2024-03-29 15:00:00
