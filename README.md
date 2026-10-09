@@ -54,8 +54,12 @@ The pipeline:
 
 ### Data Lineage — Where Each Table's Rows Come From
 
-Every arrow below means **rows flow from the source into the target**. There are no
-"FK reference" arrows here — those are documented in the Key Relationships table further down.
+E### Data Lineage with Joins
+
+Two line styles are used:
+
+- **Solid (`→`)** — rows flow into this table (INSERT / MERGE / SELECT INTO)
+- **Dashed (`-.`)** — this table is **joined at load time** to resolve a key
 
 ```mermaid
 flowchart TB
@@ -88,12 +92,7 @@ flowchart TB
         FM[fact_marketing_daily]
     end
 
-    subgraph Views["📊 Reporting"]
-        V1[rpt_monthly_revenue_by_hotel]
-        V2[rpt_fnb_revenue_per_guest]
-    end
-
-    %% Bronze → Silver
+    %% ── Solid = rows flow in ────────────────────────────
     RB --> SB
     RC --> SC
     RP --> SP
@@ -101,63 +100,42 @@ flowchart TB
     DB --> SDB
     DC --> SDC
 
-    %% Silver → Dimensions
     SC  --> DCUST
-    SDB --> DHOT
+    SDC --> DCUST
+    SB  --> DHOT
     SP  --> DHOT
     SM  --> DHOT
     SP  --> DPROD
     SM  --> DCAMP
-    SDC --> DCUST
 
-    %% Silver → Facts
     SB  --> FB
     SDB --> FB
     SP  --> FP
     SM  --> FM
 
-    %% Facts → Views
-    FB --> V1
-    FP --> V2
+    %% ── Dashed = joined to resolve a key ────────────────
+    DHOT  -. "hotel_sk"  .-> FB
+    DDATE -. "date_sk"   .-> FB
+    DCUST -. "customer_sk" .-> FB
 
-    %% dim_date is generated, not loaded from a source
-    GEN([generated:<br/>generate_series]) --> DDATE
+    DHOT  -. "hotel_sk"   .-> FP
+    DPROD -. "product_sk" .-> FP
+    DDATE -. "date_sk"    .-> FP
+    DCUST -. "customer_sk (SCD2-asof)" .-> FP
+
+    DCAMP -. "campaign_sk" .-> FM
+    DHOT  -. "hotel_sk"    .-> FM
+    DDATE -. "date_sk"     .-> FM
 
     classDef bronze fill:#f9e2c4,stroke:#b8860b,color:#000
     classDef silver fill:#e0e0e0,stroke:#808080,color:#000
     classDef gold fill:#ffe066,stroke:#b8860b,color:#000
-    classDef views fill:#cfe2ff,stroke:#0d6efd,color:#000
 
     class RB,RC,RP,RM,DB,DC bronze
     class SB,SC,SP,SM,SDB,SDC silver
     class DCUST,DHOT,DDATE,DPROD,DCAMP,FB,FP,FM gold
-    class V1,V2 views
 ```
 
-### Reading the lineage
-
-Every table's source, at a glance:
-
-| Table | Rows come from |
-|---|---|
-| `stg_bookings` | `raw_bookings.csv` |
-| `stg_customers` | `raw_customers.csv` |
-| `stg_pos` | `raw_pos_transactions.csv` |
-| `stg_marketing` | `raw_marketing_performance.csv` |
-| `stg_delta_bookings` | `delta_bookings.csv` |
-| `stg_delta_customers` | `delta_customers.csv` |
-| `dim_customer` | `stg_customers` (initial) + `stg_delta_customers` (SCD2) |
-| `dim_hotel` | `stg_bookings` ∪ `stg_pos` ∪ `stg_marketing` |
-| `dim_date` | Generated internally (no source file) |
-| `dim_product` | `stg_pos` |
-| `dim_campaign` | `stg_marketing` |
-| `fact_bookings` | `stg_bookings` (initial) + `stg_delta_bookings` (MERGE) |
-| `fact_pos_transactions` | `stg_pos` |
-| `fact_marketing_daily` | `stg_marketing` |
-| `rpt_monthly_revenue_by_hotel` | `fact_bookings` + `dim_date` + `dim_hotel` |
-| `rpt_fnb_revenue_per_guest` | `fact_pos_transactions` + `dim_customer` |
-
----
 
 ## 🚀 Quick Start
 
