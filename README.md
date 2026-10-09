@@ -52,6 +52,11 @@ The pipeline:
 
 ## 🏗 Architecture
 
+### Data Lineage — Where Each Table's Rows Come From
+
+Every arrow below means **rows flow from the source into the target**. There are no
+"FK reference" arrows here — those are documented in the Key Relationships table further down.
+
 ```mermaid
 flowchart TB
     subgraph Bronze["🥉 Bronze — Raw Files"]
@@ -73,7 +78,7 @@ flowchart TB
     end
 
     subgraph Gold["🥇 Gold — Kimball Mart"]
-        DCUST[(dim_customer<br/>SCD2)]
+        DCUST[(dim_customer)]
         DHOT[(dim_hotel)]
         DDATE[(dim_date)]
         DPROD[(dim_product)]
@@ -83,13 +88,12 @@ flowchart TB
         FM[fact_marketing_daily]
     end
 
-    subgraph Control["⚙️ Control & Reporting"]
-        WM[(etl_watermark)]
+    subgraph Views["📊 Reporting"]
         V1[rpt_monthly_revenue_by_hotel]
         V2[rpt_fnb_revenue_per_guest]
     end
 
-    %% Bronze to Silver
+    %% Bronze → Silver
     RB --> SB
     RC --> SC
     RP --> SP
@@ -97,56 +101,61 @@ flowchart TB
     DB --> SDB
     DC --> SDC
 
-    %% Silver to Dimensions (initial load)
-    SC --> DCUST
-    SB --> DHOT
-    SP --> DHOT
-    SM --> DHOT
-    SP --> DPROD
-    SM --> DCAMP
+    %% Silver → Dimensions
+    SC  --> DCUST
+    SDB --> DHOT
+    SP  --> DHOT
+    SM  --> DHOT
+    SP  --> DPROD
+    SM  --> DCAMP
+    SDC --> DCUST
 
-    %% Silver to Facts (initial load)
-    SB --> FB
-    SP --> FP
-    SM --> FM
+    %% Silver → Facts
+    SB  --> FB
+    SDB --> FB
+    SP  --> FP
+    SM  --> FM
 
-    %% Delta paths
-    SDB -. MERGE .-> FB
-    SDC -. SCD2 .-> DCUST
-    SDB -. new hotels .-> DHOT
-
-    %% Fact to Dimension joins
-    DCUST --> FB
-    DHOT  --> FB
-    DDATE --> FB
-
-    DCUST --> FP
-    DHOT  --> FP
-    DPROD --> FP
-    DDATE --> FP
-
-    DCAMP --> FM
-    DHOT  --> FM
-    DDATE --> FM
-
-    %% Watermark gates the deltas
-    WM -. gates .-> SDB
-    WM -. gates .-> SDC
-
-    %% Fact to Views
+    %% Facts → Views
     FB --> V1
     FP --> V2
+
+    %% dim_date is generated, not loaded from a source
+    GEN([generated:<br/>generate_series]) --> DDATE
 
     classDef bronze fill:#f9e2c4,stroke:#b8860b,color:#000
     classDef silver fill:#e0e0e0,stroke:#808080,color:#000
     classDef gold fill:#ffe066,stroke:#b8860b,color:#000
-    classDef control fill:#d4edda,stroke:#28a745,color:#000
+    classDef views fill:#cfe2ff,stroke:#0d6efd,color:#000
 
     class RB,RC,RP,RM,DB,DC bronze
     class SB,SC,SP,SM,SDB,SDC silver
     class DCUST,DHOT,DDATE,DPROD,DCAMP,FB,FP,FM gold
-    class WM,V1,V2 control
+    class V1,V2 views
 ```
+
+### Reading the lineage
+
+Every table's source, at a glance:
+
+| Table | Rows come from |
+|---|---|
+| `stg_bookings` | `raw_bookings.csv` |
+| `stg_customers` | `raw_customers.csv` |
+| `stg_pos` | `raw_pos_transactions.csv` |
+| `stg_marketing` | `raw_marketing_performance.csv` |
+| `stg_delta_bookings` | `delta_bookings.csv` |
+| `stg_delta_customers` | `delta_customers.csv` |
+| `dim_customer` | `stg_customers` (initial) + `stg_delta_customers` (SCD2) |
+| `dim_hotel` | `stg_bookings` ∪ `stg_pos` ∪ `stg_marketing` |
+| `dim_date` | Generated internally (no source file) |
+| `dim_product` | `stg_pos` |
+| `dim_campaign` | `stg_marketing` |
+| `fact_bookings` | `stg_bookings` (initial) + `stg_delta_bookings` (MERGE) |
+| `fact_pos_transactions` | `stg_pos` |
+| `fact_marketing_daily` | `stg_marketing` |
+| `rpt_monthly_revenue_by_hotel` | `fact_bookings` + `dim_date` + `dim_hotel` |
+| `rpt_fnb_revenue_per_guest` | `fact_pos_transactions` + `dim_customer` |
 
 ---
 
