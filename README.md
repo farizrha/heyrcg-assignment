@@ -54,13 +54,6 @@ The pipeline:
 
 ### Data Lineage — Where Each Table's Rows Come From
 
-E### Data Lineage with Joins
-
-Two line styles are used:
-
-- **Solid (`→`)** — rows flow into this table (INSERT / MERGE / SELECT INTO)
-- **Dashed (`-.`)** — this table is **joined at load time** to resolve a key
-
 ```mermaid
 flowchart TB
     subgraph Bronze["🥉 Bronze — Raw Files"]
@@ -92,7 +85,12 @@ flowchart TB
         FM[fact_marketing_daily]
     end
 
-    %% ── Solid = rows flow in ────────────────────────────
+    subgraph Views["📊 Reporting"]
+        V1[rpt_monthly_revenue_by_hotel]
+        V2[rpt_fnb_revenue_per_guest]
+    end
+
+    %% Raw → Silver
     RB --> SB
     RC --> SC
     RP --> SP
@@ -100,6 +98,7 @@ flowchart TB
     DB --> SDB
     DC --> SDC
 
+    %% Sources that load dimensions
     SC  --> DCUST
     SDC --> DCUST
     SB  --> DHOT
@@ -108,32 +107,38 @@ flowchart TB
     SP  --> DPROD
     SM  --> DCAMP
 
+    %% Sources that load facts
+    %% fact_bookings reads from stg_bookings + stg_delta_bookings + dim_hotel
     SB  --> FB
     SDB --> FB
+    DHOT --> FB
+
+    %% fact_pos_transactions reads from stg_pos + dim_hotel + dim_product
     SP  --> FP
+    DHOT --> FP
+    DPROD --> FP
+
+    %% fact_marketing_daily reads from stg_marketing + dim_campaign + dim_hotel
     SM  --> FM
+    DCAMP --> FM
+    DHOT --> FM
 
-    %% ── Dashed = joined to resolve a key ────────────────
-    DHOT  -. "hotel_sk"  .-> FB
-    DDATE -. "date_sk"   .-> FB
-    DCUST -. "customer_sk" .-> FB
+    %% Facts feed views
+    FB --> V1
+    FP --> V2
 
-    DHOT  -. "hotel_sk"   .-> FP
-    DPROD -. "product_sk" .-> FP
-    DDATE -. "date_sk"    .-> FP
-    DCUST -. "customer_sk (SCD2-asof)" .-> FP
-
-    DCAMP -. "campaign_sk" .-> FM
-    DHOT  -. "hotel_sk"    .-> FM
-    DDATE -. "date_sk"     .-> FM
+    %% dim_date has no source table — it is generated
+    GEN([generate_series]) --> DDATE
 
     classDef bronze fill:#f9e2c4,stroke:#b8860b,color:#000
     classDef silver fill:#e0e0e0,stroke:#808080,color:#000
     classDef gold fill:#ffe066,stroke:#b8860b,color:#000
+    classDef views fill:#cfe2ff,stroke:#0d6efd,color:#000
 
     class RB,RC,RP,RM,DB,DC bronze
     class SB,SC,SP,SM,SDB,SDC silver
     class DCUST,DHOT,DDATE,DPROD,DCAMP,FB,FP,FM gold
+    class V1,V2 views
 ```
 
 
