@@ -122,7 +122,6 @@ flowchart TB
 
     FB --> V1
     FP --> V2
-    FM --> V3
 
     classDef bronze fill:#f9e2c4,stroke:#b8860b,color:#000
     classDef silver fill:#e0e0e0,stroke:#808080,color:#000
