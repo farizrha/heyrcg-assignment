@@ -555,9 +555,11 @@ def build_mart(con):
         FROM (
             SELECT MIN(hotel_name) AS name
             FROM (
-                SELECT hotel_name FROM stg_bookings WHERE hotel_name IS NOT NULL
+                SELECT hotel_name FROM stg_bookings  WHERE hotel_name IS NOT NULL
                 UNION
-                SELECT hotel_name FROM stg_pos      WHERE hotel_name IS NOT NULL
+                SELECT hotel_name FROM stg_pos       WHERE hotel_name IS NOT NULL
+                UNION
+                SELECT hotel_name FROM stg_marketing WHERE hotel_name IS NOT NULL   -- ← add this
             )
             GROUP BY LOWER(TRIM(hotel_name))
         ) t
