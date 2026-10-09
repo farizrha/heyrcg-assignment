@@ -34,7 +34,7 @@
 Three source systems feed this pipeline:
 
 | Source | File | Rows |
-|---|---|---|---|
+|---|---|---|
 | **PMS** | `raw_bookings.csv` | 3200 |
 | **CRM** | `raw_customers.csv` | 850 |
 | **POS** | `raw_pos_transactions.csv` | 12000 |
@@ -147,15 +147,11 @@ cd hotel-data-pipeline
 # 2. Install dependencies
 pip install duckdb pandas
 
-# 3. Place source files
-#    data/raw/*.csv       <- initial Q1 2024 extracts
-#    data/delta/*.csv     <- daily increments
-
-# 4. Run
+# 3 Run
 python pipeline.py all
 
-# 5. Read data table with database management tool
-In this case I'm using latest dbeaver which is an ope source database management tool to
+# 4 Read data table with database management tool
+In this case I'm using dbeaver to read the data tables.
 
 
 ```
@@ -247,28 +243,28 @@ hotel-data-pipeline/
 ### Deduplication
 
 **stg_bookings:** Get latest data `booking_id` data from `raw_bookings.csv` based on `source_updated_at`.
-Origin total row = 3200
-Total row after dedup = 3200
+- Origin total row = 3200
+- Total row after dedup = 3200
 
 **stg_customers:** Get latest data `customer_id` data from `raw_customers.csv` based on `source_updated_at`.
-Example case: for customer 'CUST00774'
-Origin total row = 850
-Total row after dedup = 800
+- Example case: for customer 'CUST00774'
+- Origin total row = 850
+- Total row after dedup = 800
 
 **stg_marketing:** Get latest data `campaign_name, platform, ad_creative_id,target_audience, date, hotel_name` data from `raw_marketing_performance` based on `row_id`.
-Example case:
+- Example case:
   campaign_name = 'Valentine Weekend'
   AND platform = 'Email Campaign'
   AND ad_creative_id IS NULL
   AND target_audience = 'Lookalike'
   AND hotel_name = 'Alaya Ubud'
-Origin total row = 1600
-Total row after dedup = 1598
+- Origin total row = 1600
+- Total row after dedup = 1598
 
 **stg_pos:** Get data `pos_transaction_id` data from `raw_pos_transactions.csv`
-Example Case: pos_transaction_id = 'POS-003626'
-Origin total row = 12059
-Total row after dedup = 11719
+- Example Case: pos_transaction_id = 'POS-003626'
+- Origin total row = 12059
+- Total row after dedup = 11719
 
 </details>
 
