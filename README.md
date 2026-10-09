@@ -83,12 +83,13 @@ flowchart TB
         FM[fact_marketing_daily]
     end
 
-    subgraph Control["⚙️ Control"]
+    subgraph Control["⚙️ Control & Reporting"]
         WM[(etl_watermark)]
         V1[rpt_monthly_revenue_by_hotel]
         V2[rpt_fnb_revenue_per_guest]
     end
 
+    %% Bronze to Silver
     RB --> SB
     RC --> SC
     RP --> SP
@@ -96,30 +97,43 @@ flowchart TB
     DB --> SDB
     DC --> SDC
 
-    SB --> FB
+    %% Silver to Dimensions (initial load)
     SC --> DCUST
+    SB --> DHOT
+    SP --> DHOT
+    SM --> DHOT
     SP --> DPROD
-    SP --> FP
     SM --> DCAMP
+
+    %% Silver to Facts (initial load)
+    SB --> FB
+    SP --> FP
     SM --> FM
 
-    SDB -.MERGE.-> FB
-    SDC -.SCD2.-> DCUST
+    %% Delta paths
+    SDB -. MERGE .-> FB
+    SDC -. SCD2 .-> DCUST
+    SDB -. new hotels .-> DHOT
 
+    %% Fact to Dimension joins
     DCUST --> FB
-    DHOT --> FB
+    DHOT  --> FB
     DDATE --> FB
+
     DCUST --> FP
-    DHOT --> FP
+    DHOT  --> FP
     DPROD --> FP
     DDATE --> FP
+
     DCAMP --> FM
-    DHOT --> FM
+    DHOT  --> FM
     DDATE --> FM
 
-    WM --> SDB
-    WM --> SDC
+    %% Watermark gates the deltas
+    WM -. gates .-> SDB
+    WM -. gates .-> SDC
 
+    %% Fact to Views
     FB --> V1
     FP --> V2
 
@@ -127,10 +141,11 @@ flowchart TB
     classDef silver fill:#e0e0e0,stroke:#808080,color:#000
     classDef gold fill:#ffe066,stroke:#b8860b,color:#000
     classDef control fill:#d4edda,stroke:#28a745,color:#000
+
     class RB,RC,RP,RM,DB,DC bronze
     class SB,SC,SP,SM,SDB,SDC silver
     class DCUST,DHOT,DDATE,DPROD,DCAMP,FB,FP,FM gold
-    class WM,V1,V2,V3 control
+    class WM,V1,V2 control
 ```
 
 ---
