@@ -169,11 +169,6 @@ WITH typed AS (
         COALESCE(parse_ts(updated_at), parse_ts(created_at)) AS source_updated_at
     FROM {src}
 ),
-enriched AS (
-    SELECT *,
-        DATEDIFF('day', check_in_date, check_out_date) AS calc_nights
-    FROM typed
-),
 flagged AS (
     SELECT
         booking_id, hotel_name, room_type, customer_id, customer_name,
@@ -407,8 +402,17 @@ flagged AS (
         (date IS NULL)          AS dq_bad_date,
         (campaign_name IS NULL) AS dq_missing_campaign
     FROM typed
+),
+deduped AS (
+    SELECT *,
+        ROW_NUMBER() OVER (
+            PARTITION BY campaign_name, platform, ad_creative_id,
+                        target_audience, date, hotel_name
+            ORDER BY row_id DESC NULLS LAST
+        ) AS rn
+    FROM flagged
 )
-SELECT * FROM flagged
+SELECT * EXCLUDE (rn) FROM deduped WHERE rn = 1
 """
 
 
@@ -658,6 +662,7 @@ def build_mart(con):
                 CAST(m.row_id AS VARCHAR) || '|' ||
                 COALESCE(m.campaign_name, '') || '|' ||
                 COALESCE(m.platform, '') || '|' ||
+                COALESCE(m.hotel_name, '') || '|' ||
                 COALESCE(CAST(m.date AS VARCHAR), '') || '|' ||
                 COALESCE(m.ad_creative_id, '') || '|' ||
                 COALESCE(m.target_audience, '')
@@ -877,13 +882,14 @@ def snapshot(con) -> dict:
     q = lambda s: con.execute(s).fetchone()[0]
     return {
         "fact_bookings": q("SELECT count(*) FROM fact_bookings"),
-        "fact_pos": q("SELECT count(*) FROM fact_pos_transactions"),
+        "fact_pos_transactions": q("SELECT count(*) FROM fact_pos_transactions"),
+        "fact_marketing_daily": q("SELECT count(*) FROM fact_marketing_daily"),
         "dim_customer": q("SELECT count(*) FROM dim_customer"),
-        "dim_customer_current": q("SELECT count(*) FROM dim_customer WHERE is_current"),
-        "revenue_total": round(q("SELECT COALESCE(SUM(total_revenue_idr),0) FROM fact_bookings"), 2),
-        "revenue_march": round(q("""SELECT COALESCE(SUM(f.total_revenue_idr),0)
-                                   FROM fact_bookings f JOIN dim_date d ON d.date_sk = f.check_in_date_sk
-                                   WHERE d.year = 2024 AND d.month = 3"""), 2),
+        "dim_customer (Iscurrent = True)": q("SELECT count(*) FROM dim_customer WHERE is_current"),
+        # "revenue_total": round(q("SELECT COALESCE(SUM(total_revenue_idr),0) FROM fact_bookings"), 2),
+        # "revenue_march": round(q("""SELECT COALESCE(SUM(f.total_revenue_idr),0)
+        #                            FROM fact_bookings f JOIN dim_date d ON d.date_sk = f.check_in_date_sk
+        #                            WHERE d.year = 2024 AND d.month = 3"""), 2),
     }
 
 
@@ -895,15 +901,6 @@ def cmd_init(con):
     build_staging(con, raw=True)
     build_mart(con)
     print(snapshot(con))
-    print("Monthly revenue by hotel:")
-    print(con.execute("""
-        SELECT d.year, d.month, h.hotel_name, ROUND(SUM(f.total_revenue_idr), 0) AS revenue
-        FROM fact_bookings f
-        JOIN dim_date  d ON d.date_sk  = f.check_in_date_sk
-        JOIN dim_hotel h ON h.hotel_sk = f.hotel_sk
-        GROUP BY 1, 2, 3 ORDER BY 1, 2, 4 DESC
-    """).df().to_string(index=False))
-
 
 def cmd_delta(con):
     print("== INCREMENTAL LOAD ==")

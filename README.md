@@ -2,14 +2,11 @@
 
 # 🏨 Hotel Data Pipeline
 
-**A local DuckDB + Python pipeline that cleans dirty hospitality data into a Kimball star schema and keeps it fresh incrementally.**
+**A local DuckDB + Python pipeline that cleans dirty hospitality data into a Kimball data mart and keeps it fresh incrementally.**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![DuckDB](https://img.shields.io/badge/DuckDB-0.9%2B-FFF000?logo=duckdb&logoColor=black)](https://duckdb.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#-license)
-[![Status](https://img.shields.io/badge/Status-Complete-success.svg)](#)
 
-*PMS bookings · CRM customers · POS transactions · Marketing performance — cleaned, modelled, and merged.*
 
 </div>
 
@@ -36,14 +33,14 @@
 
 Three source systems feed this pipeline:
 
-| Source | File | Rows | Issues |
+| Source | File | Rows |
 |---|---|---|---|
-| **PMS** | `raw_bookings.csv` | ~3,200 | Mixed column names, mixed currencies, invalid dates, inconsistent statuses |
-| **CRM** | `raw_customers.csv` | ~850 | Duplicate IDs, broken emails, nulls |
-| **POS** | `raw_pos_transactions.csv` | ~12,000 | Duplicate rows, mixed date formats, dirty amounts |
-| **Marketing** | `raw_marketing_performance.csv` | — | Optional bonus source |
+| **PMS** | `raw_bookings.csv` | 3200 |
+| **CRM** | `raw_customers.csv` | 850 |
+| **POS** | `raw_pos_transactions.csv` | 12000 |
+| **Marketing** | `raw_marketing_performance.csv` | 1600 |
 
-Plus two daily deltas (`delta_bookings_2024-04-01.csv`, `delta_customers_2024-04-01.csv`) containing **new rows, changed rows, late arrivals, and re-sent rows**.
+Plus two daily deltas (`delta_bookings_2024-04-01.csv`, `delta_customers_2024-04-01.csv`)
 
 The pipeline:
 1. **Cleans** each source into a staging layer.
@@ -121,8 +118,8 @@ flowchart TB
     DHOT --> FM
     DDATE --> FM
 
-    WM -.gates.-> SDB
-    WM -.gates.-> SDC
+    WM --> SDB
+    WM --> SDC
 
     FB --> V1
     FP --> V2
@@ -144,7 +141,7 @@ flowchart TB
 
 ```bash
 # 1. Clone
-git clone <your-repo-url>
+git clone <this-repo-url>
 cd hotel-data-pipeline
 
 # 2. Install dependencies
@@ -156,6 +153,11 @@ pip install duckdb pandas
 
 # 4. Run
 python pipeline.py all
+
+# 5. Read data table with database management tool
+In this case I'm using latest dbeaver which is an ope source database management tool to
+
+
 ```
 
 ### Available commands
@@ -165,23 +167,21 @@ python pipeline.py all
 | `python pipeline.py init` | Full initial load: staging → dims → facts |
 | `python pipeline.py delta` | Incremental load of the two delta files |
 | `python pipeline.py test` | Idempotency proof (runs delta twice, compares) |
-| `python pipeline.py report` | Prints the reporting views |
-| `python pipeline.py all` | `init` → `delta` → `test` → `report` |
+| `python pipeline.py all` | `init` → `delta` → `test` |
 
 ### Expected output
 
 ```
-== INITIAL LOAD ==
-fact_bookings: 3200 | fact_pos: 11719 | dim_customer: 800
-revenue_total: 41,347,647,271 | revenue_march: 13,889,960,074
+This result shown in terminal after run 'python pipeline.py all' which shows the total rows of specific tables before and after incremental load. Also performed idempotencty test to ensure result remain the same after another incremental load.
 
+== INITIAL LOAD ==
+{'fact_bookings': 3200, 'fact_pos_transactions': 11719, 'fact_marketing_daily': 1598, 'dim_customer': 800, 'dim_customer (Iscurrent = True)': 800}
 == INCREMENTAL LOAD ==
 fact_bookings new rows: 50 | dim_customer new versions: 13
-fact_bookings: 3250 | dim_customer: 813 | dim_customer_current: 806
-
+{'fact_bookings': 3250, 'fact_pos_transactions': 11719, 'fact_marketing_daily': 1598, 'dim_customer': 813, 'dim_customer (Iscurrent = True)': 806}
 == IDEMPOTENCY TEST ==
-before: {...}
-after : {...}
+before: {'fact_bookings': 3250, 'fact_pos_transactions': 11719, 'fact_marketing_daily': 1598, 'dim_customer': 813, 'dim_customer (Iscurrent = True)': 806}
+after : {'fact_bookings': 3250, 'fact_pos_transactions': 11719, 'fact_marketing_daily': 1598, 'dim_customer': 813, 'dim_customer (Iscurrent = True)': 806}
 IDEMPOTENT ✔
 ```
 
@@ -193,7 +193,7 @@ IDEMPOTENT ✔
 hotel-data-pipeline/
 ├── pipeline.py                    # entire pipeline (single file)
 ├── README.md
-├── mart.duckdb                    # generated output (gitignored)
+├── mart.duckdb                    # generated output
 └── data/
     ├── raw/
     │   ├── raw_bookings.csv
@@ -217,18 +217,18 @@ hotel-data-pipeline/
 | Rule | Implementation |
 |---|---|
 | Column names | Lowercased, non-alphanumerics stripped, mapped via `BOOKING_COLS` / `CUSTOMER_COLS` / `POS_COLS` / `MARKETING_COLS` |
-| Dates | `parse_date` macro tries ISO, `DD/MM/YYYY`, `DD Mon YYYY`, `DD-Mon-YYYY` |
-| Timestamps | `parse_ts` macro tries ISO, `T`-separated, minute-precision |
+| Dates | `parse_date` macro tries ISO, `DD/MM/YYYY`, `DD Mon YYYY`, `DD-Mon-YYYY`. All DATE columns use the ISO 8601 format YYYY-MM-DD. All TIMESTAMP columns use YYYY-MM-DD HH:MM:SS (naive, no timezone suffix) the session timezone is set to Asia/Jakarta so CURRENT_TIMESTAMP values reflect Jakarta wall clock.|
+| Timestamps | `parse_ts` macro tries ISO, `T`-separated, minute-precision|
 | POS amounts | `money()` macro strips `IDR` / `Rp` and commas, casts to `DOUBLE` |
 
 ### Normalisation
 
 | Field | Values |
 |---|---|
-| `booking_status` | Confirmed · Checked-In · Checked-Out · Cancelled · No-Show · Completed |
+| `booking_status` Title-cased | Confirmed · Checked-In · Checked-Out · Cancelled · No-Show · Completed · NULL|
 | `is_loyalty_member` | `TRUE` / `FALSE` / `NULL` |
-| `payment_method` | Cash · Credit Card · GoPay · OVO · QRIS · Dana |
-| `category` | Food · Beverage · Spa · Retail · Uncategorised |
+| `payment_method` Title-cased | Cash · Credit Card · GoPay · OVO · QRIS · Dana · Null|
+| `category` | Food · Beverage · Spa · Retail · Null |
 | `item_name` | Title-cased with misspelling repair (`kopi` → Coffee, `coctail` → Cocktail) |
 | `email` | Lowercased, whitespace stripped, missing `@` repaired when provider domain is known |
 
@@ -237,43 +237,44 @@ hotel-data-pipeline/
 | Flag | Action |
 |---|---|
 | `dq_missing_pk` | ❌ **Row dropped** — cannot be merged |
-| `dq_bad_date` | ⚠️ Flagged; `date_sk` becomes NULL |
+| `dq_bad_date` | ⚠️ Flagged; check-in or check-out date becomes NULL |
 | `dq_negative_stay` | ⚠️ Flagged; nights preserved from source |
-| `dq_missing_revenue` | ⚠️ Flagged; `SUM()` ignores NULL |
-| `dq_bad_email` | ⚠️ Flagged; value kept for audit |
-| `dq_missing_hotel` | ⚠️ Flagged |
+| `dq_missing_revenue` | ⚠️ Flagged; total_revenue_idr becomes NULL |
+| `dq_bad_email` | ⚠️ Flagged; email is null or has domain, value kept for audit |
+| `dq_missing_hotel` | ⚠️ Flagged: hotel_name is NULL |
+| `dq_flag` | ⚠️ Flagged: pos_transaction_id or transaction_date or customer_id is null |
 
 ### Deduplication
 
-**Key:** business key (`booking_id` / `customer_id` / `pos_transaction_id`), uppercased to collapse case variants.
+**stg_bookings:** Get latest data `booking_id` data from `raw_bookings.csv` based on `source_updated_at`.
+Origin total row = 3200
+Total row after dedup = 3200
 
-**Winner:**
-```sql
-ROW_NUMBER() OVER (
-    PARTITION BY business_key
-    ORDER BY source_updated_at DESC NULLS LAST,
-             source_created_at DESC NULLS LAST
-)
-```
+**stg_customers:** Get latest data `customer_id` data from `raw_customers.csv` based on `source_updated_at`.
+Example case: for customer 'CUST00774'
+Origin total row = 850
+Total row after dedup = 800
+
+**stg_marketing:** Get latest data `campaign_name, platform, ad_creative_id,target_audience, date, hotel_name` data from `raw_marketing_performance` based on `row_id`.
+Example case:
+  campaign_name = 'Valentine Weekend'
+  AND platform = 'Email Campaign'
+  AND ad_creative_id IS NULL
+  AND target_audience = 'Lookalike'
+  AND hotel_name = 'Alaya Ubud'
+Origin total row = 1600
+Total row after dedup = 1598
+
+**stg_pos:** Get data `pos_transaction_id` data from `raw_pos_transactions.csv`
+Example Case: pos_transaction_id = 'POS-003626'
+Origin total row = 12059
+Total row after dedup = 11719
 
 </details>
 
 ---
 
 ## 🥇 Part 2 — Kimball Data Mart
-
-### Tables
-
-| Table | Grain | Type |
-|---|---|---|
-| `dim_customer` | 1 row per customer **version** | SCD2 on `loyalty_tier` |
-| `dim_hotel` | 1 row per hotel | Static |
-| `dim_date` | 1 row per day (Q1 + Q2 2024) | Static |
-| `dim_product` | 1 row per `item_name + category` | Bonus |
-| `dim_campaign` | 1 row per `campaign_name + platform + ad_creative_id + target_audience` | Bonus |
-| `fact_bookings` | 1 row per booking | Transaction |
-| `fact_pos_transactions` | 1 row per POS line item | Transaction |
-| `fact_marketing_daily` | 1 row per campaign per day | Periodic snapshot (bonus) |
 
 ### SCD Type decisions
 
@@ -288,9 +289,6 @@ ROW_NUMBER() OVER (
 
 Each booking links to the `dim_customer` version valid at **booking time** (`source_created_at`, falling back to `check_in_date`).
 
-- If the as-of moment is before the earliest `valid_from` → current version.
-- If the customer is absent entirely → `customer_sk = 0` (unknown sentinel).
-
 ### Null-handling strategy
 
 | Situation | Treatment |
@@ -298,9 +296,8 @@ Each booking links to the `dim_customer` version valid at **booking time** (`sou
 | No primary key | Drop |
 | Empty string after trim | Store `NULL` |
 | Null numeric measure | Store `NULL` (`SUM()` ignores) |
-| Null date | Store `NULL`; `date_sk = NULL` |
+| Null date | Most Store `NULL` |
 | Null `customer_id` in POS | `customer_sk = 0` |
-| Unresolvable FK | 0 for numeric SKs; `NULL` for date SKs |
 
 ---
 
@@ -308,12 +305,12 @@ Each booking links to the `dim_customer` version valid at **booking time** (`sou
 
 ### 🔖 Watermark
 
-Stored in `etl_watermark`, seeded at `2024-03-28 00:00:00`. Advances to `MAX(source_updated_at)` after each delta. Guarded by `GREATEST` to prevent regression.
+Stored in `etl_watermark`, seeded at `2024-03-28 00:00:00`. 
 
-| Source | After 1-April delta |
-|---|---|
-| `bookings` | `2024-03-31 20:57:00` |
-| `customers` | `2024-03-31 18:10:00` |
+1. Before processing a delta, read the last watermark.
+2. Filter the delta: keep only rows WHERE source_updated_at >= watermark.
+3. Process those rows (MERGE into facts, SCD2 into dims).
+4. After processing, move the watermark forward to the newest source_updated_at seen.
 
 ### 🔀 MERGE
 
@@ -328,11 +325,21 @@ WHEN NOT MATCHED THEN INSERT ...
 
 ### 🔁 SCD2 in merge
 
-1. **Close** — `UPDATE` current version where `loyalty_tier` differs.
-2. **Open** — `INSERT` new version for any customer with no current row.
-3. **Type 1** — `UPDATE` in place **only when `IS DISTINCT FROM`** fires.
+1. Close old version
 
-> A row that changes nothing creates nothing.
+If a customer's loyalty tier changed, mark their current row as historical: set valid_to to the change time and flip is_current to FALSE. The old row stays — that's the history.
+
+2. Open new version
+
+If a customer no longer has a current row (because step 1 just closed it, or because they're brand new), insert a fresh row with is_current = TRUE. Its surrogate key is different from the old one, because it represents a different version of the same customer.
+
+3. Update Type 1 fields
+
+If the tier didn't change but something else did (email, phone, city, etc.), overwrite those fields on the current row. No new row, no history — contact details only need the latest value.
+
+4. Do nothing
+
+If nothing changed, write nothing. A row that changes nothing creates nothing.
 
 ### ✅ Idempotency
 
@@ -340,32 +347,56 @@ WHEN NOT MATCHED THEN INSERT ...
 |---|---:|---:|---:|
 | `fact_bookings` | 3,200 | 3,250 | **3,250** |
 | `fact_pos_transactions` | 11,719 | 11,719 | **11,719** |
+| `fact_pos_marketing_daily` | 1598 | 1598 | **1598** |
 | `dim_customer` (all) | 800 | 813 | **813** |
 | `dim_customer` (current) | 800 | 806 | **806** |
-| Total revenue (IDR) | 41,347,647,271 | 41,798,805,622 | **41,798,805,622** |
 
 Second run leaves the mart byte-identical → `IDEMPOTENT ✔`.
 
-### ⚠️ Edge cases handled
+### 📅 Delta Bookings — Edge Cases
 
-| Edge case | Handling |
-|---|---|
-| Duplicate booking in delta | Latest `source_updated_at` wins |
-| Case-variant business key | `UPPER()` normaliser |
-| Late-arriving row | Dropped by watermark filter (see Limitations) |
-| Re-sent booking, no change | MERGE no-op |
-| Stale customer update | Freshness filter drops it |
-| Re-sent customer, no change | Diff-check → no-op |
-| Tier change + Type 1 change | Same new version |
-| Brand-new customer | Step-2 `NOT EXISTS` fires |
-| New hotel referenced in delta | `refresh_new_hotels()` |
-| Broken email, missing `@` | Repaired when provider domain present |
+<details open>
+<summary><b>Click to expand</b></summary>
+
+| # | Edge case | Data example | How it's handled |
+|:-:|---|---|---|
+| 1 | **Exact duplicate row** | `BKG-10004` appears twice which identical | Staging dedup — `ROW_NUMBER() OVER (PARTITION BY booking_id ORDER BY source_updated_at DESC)` keeps one |
+| 2 | **Duplicate ID, conflicting data** | `BKG-00002` — one row status `confirmed` / revenue `26,148,480` / updated `2024-03-28`; another status `cnx` / revenue `0` / updated `2024-03-29` | Highest `source_updated_at` wins → **`cnx` row** kept |
+| 3 | **Case-variant status** | `Confirmed`, `CONFIRMED`, `confirmed`, `Checked Out`, `checked_out`, `cnx`, `CANCELLED`, `completed` | CASE normaliser → `Confirmed`, `Checked-Out`, `Cancelled`, `Completed` |
+| 4 | **Multi-currency rate** | `123.93 SGD`, `850000 IDR`, `227.85 USD`, `500 AUD` all in the same file | Column `currency` stored details and `total_revenue_idr` used as-is (already IDR). No rate conversion |
+| 5 | **Null name / email** | `BKG-10021` has empty `CustomerName` and `customer_email` | Stored as NULL; row kept |
+| 6 | **Zero revenue** | `BKG-00011` (`CANCELLED`), `BKG-00002` (`cnx`) both have `TotalRevenue_IDR = 0.0` | Stored as 0; `SUM()` includes them (contribute 0) |
+| 7 | **Late-arriving March booking** | `BKG-00012` — check-in `2024-03-01`, updated `2024-03-20` (before watermark) | **Dropped** by watermark filter (`>= 2024-03-28 00:00:00`) |
+| 8 | **is_loyalty_member variants** | `1`, `0`, `True`, `Yes`, `False`, `No`, empty | Normaliser → TRUE / FALSE / NULL |
+| 9 | **Discount variants** | `0.15`, `0.05`, `0.1`, `0.28`, `0.12`, `0.03`, empty | Cast to DOUBLE; empty → NULL |
+
+</details>
+
+---
+
+### 👤 Delta Customers — Edge Cases
+
+<details open>
+<summary><b>Click to expand</b></summary>
+
+| # | Edge case | Data example | How it's handled |
+|:-:|---|---|---|
+| 1 | **Tier change inside the same file** | `CUST00006` — `Gold` at `2024-03-30 10:30:00` **and** `Platinum` at `2024-03-31 18:10:00` | Dedup keeps newer Platinum → SCD2 closes Gold, opens Platinum |
+| 2 | **Three rows for one customer** | `CUST00010` appears 3×: `Platinum` @ `2024-03-31`, `Gold` @ `2024-03-28`, `Platinum` @ `2024-03-31` | Dedup picks the newest Platinum; the stale Gold row is discarded |
+| 3 | **Case-variant loyalty tier** | `gold` (lowercase), `SILVER` (uppercase), `Gold`, `Platinum` | CASE normaliser → `Bronze` / `Silver` / `Gold` / `Platinum` |
+| 4 | **Email with whitespace** | `" Customer10003@Yahoo.com "`, `" Customer10005@Yahoo.com "` | `LOWER(REGEXP_REPLACE(TRIM(email), '\s+', ''))` → `customer10003@yahoo.com` |
+| 5 | **Brand-new customers** | `CUST10001` … `CUST10006` — none exist in `dim_customer` | Insert new customers data |
+| 6 | **Tier change on existing customer** | `CUST00006` (Gold→Platinum), `CUST00010` (Gold→Platinum) | Step 1 closes old version; Step 2 opens new version |
+| 7 | **Type 1 only update** | `CUST00011` — non-tier field changed (city, nationality) | Updates in place; no new row |
+
+</details>
+
 
 ### 📈 March 2024 revenue change
 
 > **IDR 13,889,960,074 → 13,913,636,332 (+23,676,258)**
 
-Increase comes from new March-check-in bookings in the delta plus updates to existing March bookings. No March bookings were removed — the pipeline inserts and updates only.
+Increase comes from new March-check-in bookings in the delta plus updates to existing March bookings.
 
 ---
 
@@ -375,78 +406,89 @@ Increase comes from new March-check-in bookings in the delta plus updates to exi
 <summary><b>Q1 — Scaling <code>fact_bookings</code> to 500M rows on BigQuery vs Fabric</b></summary>
 
 **BigQuery**
-- **Partition** by `check_in_date` (day or month). Most revenue queries filter by date range → partition pruning skips the bulk of the table.
-- **Cluster** by `hotel_sk` so single-hotel queries prune within partitions.
-- **MERGE** adds a target-side date predicate in `ON`/`WHERE`; BigQuery prunes partitions automatically. Only recent partitions + affected hotel blocks are scanned.
+
+Partition by `check_in_date` (monthly). Most revenue queries filter by date,
+so partition pruning skips the bulk of the table. Cluster by `hotel_sk` so
+single-hotel queries skip blocks *within* each partition. BigQuery auto-clusters the table on the columns you specify in CLUSTER BY, and keeps them sorted as new data arrives — free of charge. This is the main operational advantage over Fabric, where you pick the distribution key and sort order at creation time and are responsible for keeping them effective.
+
+The incremental MERGE avoids a full scan by adding a target-side date
+predicate:
+
+```sql
+MERGE `project.dataset.fact_bookings` AS t
+USING (SELECT ... FROM `stg_delta_bookings`
+       WHERE source_updated_at >= @watermark) AS s
+ON t.booking_id = s.booking_id
+   AND t.check_in_date >= DATE_SUB(CURRENT_DATE(), INTERVAL 90 DAY)
+WHEN MATCHED AND s.source_updated_at > t.source_updated_at THEN UPDATE SET ...
+WHEN NOT MATCHED THEN INSERT ...
+```
+
+The `t.check_in_date >= ...` clause lets BigQuery prune to the last 90 days of
+partitions. Without it, the engine has no way to know which partitions could
+match and would scan the whole table.
 
 **Fabric**
-- Equivalent is **hash-distributed** on `booking_id` (or `hotel_sk`), plus partitioning on check-in date.
-- Fabric MERGE benefits from partition elimination but **does not auto-cluster** — you choose distribution/clustering explicitly, and mistakes are costlier.
-- Integrates Delta Lake natively → time travel + change data feed.
 
-**At 100× volume**, the current local design (full staging rebuild, single-file DuckDB) would need a partitioned warehouse and CDC/streaming ingest.
+Fabric has the same three goals but exposes **three** design decisions instead
+of two:
+
+| Concept | BigQuery | Fabric |
+|---|---|---|
+| Split by date | Partition | Partition |
+| Spread across nodes | Hidden (Google decides) | **Distribution** — you choose |
+| Sort within partition | Cluster | Sort order |
+
+Fabric Warehouse does not expose user-managed partitioning the way BigQuery
+does. The design decisions are **distribution** (hash key — spreads rows across
+compute nodes) and **clustering** (sort order within each distribution).
+Partitioning is available in Fabric **Lakehouse** (Delta tables) via
+`PARTITIONED BY`, and the recommended pattern is to optimize large tables in
+the Lakehouse, then materialize curated data into the Warehouse.
+
+For `fact_bookings` in Fabric you'd use:
+- Partition on `check_in_date` in fabric lakehouse.
+- Hash distribution on `booking_id` in fabric warehouse.
+- Clustering on `hotel_sk` in fabric warehouse.
+
+**Trade-off**
+
+BigQuery is hands-off: two decisions (partition, cluster), and the platform
+maintains the sort for you. Fabric gives more control — you decide distribution
+and sort.
+
+BigQuery: partition + cluster. Google handles distribution.
+Fabric: partition + distribution + sort. You handle all three.
 
 </details>
 
 <details>
 <summary><b>Q2 — Note to a hotel General Manager</b></summary>
 
-> Hi [GM name],
+> Hi GM,
 >
-> I want to flag one data issue that affects your March revenue figures. About 40 bookings in your PMS have a check-out date earlier than their check-in date — likely from a manual entry mistake at the front desk. Because of this, our system was calculating those stays as negative nights, which understated nightly revenue on those bookings by around **IDR 24 million** for March.
+> I want to flag a data issue that affects your March revenue figure.
 >
-> We've corrected the calculation: those bookings now use the number of nights recorded in the original booking, not the difference between the two dates. Your March revenue is therefore **IDR 23.7 million higher** than the last report you saw.
+> Three March bookings have no revenue amount recorded in the booking system.
+> The stays took place, but because the amount is blank, they contribute
+> nothing to March. Your March total is therefore lower than it should be — we
+> can't say by exactly how much, because the correct amounts aren't in the
+> system. If your team can confirm what those guests paid, we can add them in.
 >
-> In the meantime, if your front-desk team notices a booking where the check-out looks earlier than check-in, please re-check the dates before saving. If you'd like, we can pull the list of the 40 affected bookings so you can review them.
+> We found this while reviewing 45 March bookings where the check-out date is
+> earlier than the check-in date — likely front-desk typos. Those bookings
+> mostly have their revenue recorded; the problem is specific to the three
+> with blank amounts. The same pattern appears in other months too.
+>
+> Please ask the front desk to double-check dates whenever the check-out looks
+> earlier than the check-in.
+>
+> Happy to send the list of affected bookings.
 >
 > Best regards,
-> [Your name]
+> Fariz Rizky Haykal Abdilah
 
 </details>
-
----
-
-## 🎁 Bonus Tables
-
-| Table | Purpose |
-|---|---|
-| `dim_product` | Normalises POS `item_name` + `category` into a proper dimension |
-| `dim_campaign` | Campaign identity at creative × audience grain |
-| `fact_marketing_daily` | One row per campaign per day (impressions, clicks, spend, conversions, revenue) |
-| `rpt_marketing_roi` | ROAS by platform × campaign × hotel |
-
-> No delta files exist for POS or marketing — those tables load once at `init`. Production would add watermarks and MERGE logic identical to `fact_bookings`.
-
----
-
-## 🧠 Key Design Decisions
-
-| Decision | Reasoning |
-|---|---|
-| **Facts atomic, never pre-aggregated** | Task specifies grain; aggregation lives in `rpt_*` views |
-| **Surrogate keys are `UBIGINT` hashes** | Deterministic across runs → idempotent. No sequences, no state |
-| **SCD2 only on `loyalty_tier`** | Drives loyalty reporting; other attributes are contact-only |
-| **Staging is `CREATE OR REPLACE`** | Disposable; cleaning rules change often; rebuild is cheap |
-| **Initial + delta staging tables are separate** | Snapshot vs change feed — different sizes, cadences, and merge semantics |
-| **Hash includes version discriminator for SCD2 dims** | Each customer version needs a distinct SK (`customer_id + joined_date`) |
-| **Dims load before facts** | Facts resolve FKs via `LEFT JOIN`; empty dims → NULL FKs |
-| **Facts join dims on the same columns the dim was hashed on** | Divergence → unmatched FKs or duplicate rows |
-| **Hash covers exactly the identity columns** | Too few → PK violation; too many → duplicate entities |
-
----
-
-## ⚠️ Known Limitations
-
-| Limitation | Impact | Production fix |
-|---|---|---|
-| No lookback window | Late-arriving rows older than the watermark are dropped | 7-day lookback window on delta filter |
-| No deletes | Source-side deletes are not detected | Soft-delete column or CDC stream |
-| No POS delta file | `fact_pos_transactions` loads once at init | Add POS delta + watermark |
-| Hotel name mismatch | POS hotels from `outlet_name` don't always match booking hotel names | Hotel master table |
-| `etl_run_log` empty | Per-run logging not implemented | Populate in `cmd_init` / `cmd_delta` |
-| Timezone naive timestamps | Session set to `Asia/Jakarta`; source timestamps preserved verbatim | `TIMESTAMPTZ` migration |
-
----
 
 ## 🛠 Tech Stack
 
@@ -458,21 +500,5 @@ Increase comes from new March-check-in bookings in the delta plus updates to exi
 | Orchestration | Python 3.10+ |
 | CSV I/O | pandas |
 | Transformations | SQL (via DuckDB) |
-
-</div>
-
----
-
-## 📜 License
-
-MIT — free to use, modify, and share.
-
----
-
-<div align="center">
-
-**Built as a take-home exercise. Feedback welcome!**
-
-⭐ If this helped you, consider starring the repo.
 
 </div>
