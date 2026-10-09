@@ -87,7 +87,6 @@ flowchart TB
         WM[(etl_watermark)]
         V1[rpt_monthly_revenue_by_hotel]
         V2[rpt_fnb_revenue_per_guest]
-        V3[rpt_marketing_roi]
     end
 
     RB --> SB
@@ -151,7 +150,7 @@ pip install duckdb pandas
 python pipeline.py all
 
 # 4 Read data table with database management tool
-In this case I'm using dbeaver to read the data tables.
+#In this case I'm using dbeaver to read the data tables.
 
 
 ```
