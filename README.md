@@ -431,15 +431,6 @@ match and would scan the whole table.
 
 **Fabric**
 
-Fabric has the same three goals but exposes **three** design decisions instead
-of two:
-
-| Concept | BigQuery | Fabric |
-|---|---|---|
-| Split by date | Partition | Partition |
-| Spread across nodes | Hidden (Google decides) | **Distribution** — you choose |
-| Sort within partition | Cluster | Sort order |
-
 Fabric Warehouse does not expose user-managed partitioning the way BigQuery
 does. The design decisions are **distribution** (hash key — spreads rows across
 compute nodes) and **clustering** (sort order within each distribution).
@@ -458,8 +449,8 @@ BigQuery is hands-off: two decisions (partition, cluster), and the platform
 maintains the sort for you. Fabric gives more control — you decide distribution
 and sort.
 
-BigQuery: partition + cluster. Google handles distribution.
-Fabric: partition + distribution + sort. You handle all three.
+- BigQuery: partition + cluster. Google handles distribution.
+- Fabric: partition + distribution + sort. You handle all three.
 
 </details>
 
