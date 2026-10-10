@@ -498,7 +498,6 @@ CREATE TABLE IF NOT EXISTS dim_campaign (
     campaign_sk UBIGINT PRIMARY KEY,
     campaign_name VARCHAR NOT NULL,
     platform      VARCHAR,
-    hotel_sk      UBIGINT,
     ad_creative_id VARCHAR,
     target_audience VARCHAR,
     created_at TIMESTAMPTZ, updated_at TIMESTAMPTZ
@@ -602,7 +601,7 @@ def build_mart(con):
             hash(m.campaign_name || '|' || COALESCE(m.platform, '') || '|' ||
                 COALESCE(m.ad_creative_id, '') || '|' ||
                 COALESCE(m.target_audience, '')),
-            m.campaign_name, m.platform, NULL AS hotel_sk,
+            m.campaign_name, m.platform,
             m.ad_creative_id, m.target_audience,
             CURRENT_TIMESTAMP, CURRENT_TIMESTAMP
         FROM (
