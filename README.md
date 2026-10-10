@@ -247,16 +247,16 @@ hotel-data-pipeline/
 
 ### Deduplication
 
-**stg_bookings:** Get latest data `booking_id` data from `raw_bookings.csv` based on `source_updated_at`.
+**stg_bookings:** Get latest data `booking_id` from `raw_bookings.csv` based on `source_updated_at`.
 - Origin total row = 3200
 - Total row after dedup = 3200
 
-**stg_customers:** Get latest data `customer_id` data from `raw_customers.csv` based on `source_updated_at`.
+**stg_customers:** Get latest data `customer_id` from `raw_customers.csv` based on `source_updated_at`.
 - Example case: for customer 'CUST00774'
 - Origin total row = 850
 - Total row after dedup = 800
 
-**stg_marketing:** Get latest data `campaign_name, platform, ad_creative_id,target_audience, date, hotel_name` data from `raw_marketing_performance` based on `row_id`.
+**stg_marketing:** Get latest data `campaign_name, platform, ad_creative_id,target_audience, date, hotel_name` from `raw_marketing_performance` based on `row_id`.
 - Example case:
   campaign_name = 'Valentine Weekend'
   AND platform = 'Email Campaign'
@@ -266,7 +266,7 @@ hotel-data-pipeline/
 - Origin total row = 1600
 - Total row after dedup = 1598
 
-**stg_pos:** Get data `pos_transaction_id` data from `raw_pos_transactions.csv`
+**stg_pos:** Get latest data `pos_transaction_id` from `raw_pos_transactions.csv`
 - Example Case: pos_transaction_id = 'POS-003626'
 - Origin total row = 12059
 - Total row after dedup = 11719
